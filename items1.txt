@@ -1,0 +1,747 @@
+{"Case":"Some","Fields":[{"Name":"Green Shell","Id":"543019f3-31e7-4d8b-ba87-9c27a7cea5a1","Rarity":1,"Description":"Throw at opponent to deliver a good thump on the head."}]}
+
+{"Case":"Some","Fields":[{"Name":"Mushroom","Id":"831628b3-8b56-4e18-a697-1b02eed0e8a9","Rarity":1,"Description":"Maybe edible mushroom."}]}
+
+{"Case":"Some","Fields":[{"Name":"Fire Flower","Id":"903f2d34-1dec-4c54-ad15-96d41f244ae7","Rarity":1,"Description":"Throw balls of actual fire. Literally."}]}
+
+{"Case":"Some","Fields":[{"Name":"Banana Peel","Id":"8a685b90-b109-413d-add5-0ed2325d54b1","Rarity":1,"Description":"Person behind you 50% chance -100 points"}]}
+
+{"Case":"Some","Fields":[{"Name":"Chocobo","Id":"6b9acae5-5d74-4bd0-9691-4e00bf313710","Rarity":3,"Description":"You are a master breeder! Gold chocobos bow at your feet."}]}
+
+{"Case":"Some","Fields":[{"Name":"Rail Gun","Id":"3b5037c9-d0e1-40e7-ab47-a5c05ce8a940","Rarity":3,"Description":"Fires depleted uranium slugs at high velocity."}]}
+
+2340b678-ccee-4df3-ae0d-d1383d83717b - (Case: Some)
+Pizza (1): Michelangelo's favorite food, dude.
+
+373a30c3-25ad-45f9-a08c-d22d25e08515 - (Case: Some)
+Fat Guys (3): You may be slow, but you're solid!
+e5593c15-c486-41df-9ecf-3cf350b47ef9 - (Case: Some)
+Fire Flower (1): Throw balls of actual fire. Literally.
+0bc197c6-3e90-4669-9017-c11ca8daa698 - (Case: Some)
+Crowbar (1): Gordon Freeman's weapon of choice.
+a5f332f6-acdf-46c8-a66b-2f8e1af1e414 - (Case: Some)
+Pizza (1): Michelangelo's favorite food, dude.
+cb45b56d-9d26-44f1-9b0c-15aff285282c - (Case: Some)
+Crowbar (1): Gordon Freeman's weapon of choice.
+c100e351-d9d7-440d-8c40-f57bf6260fa2 - (Case: Some)
+Holy Water (2): Throw at the floor to release temporary holy flames.
+81173c4f-49ad-4b2e-8c56-8b0d71b8ae39 - (Case: Some)
+Wedge (1): Red Wing soldier that bolsters your confidence.
+c5cb8757-4835-49b4-8372-7aa6944a5e1c - (Case: Some)
+Fire Flower (1): Throw balls of actual fire. Literally.
+7bab7e40-3295-4aab-98ae-dbdd7f445457 - (Case: Some)
+Mushroom (1): Maybe edible mushroom.
+a65a9ac7-cca7-470d-8b15-b2e9e15cb0c6 - (Case: Some)
+Mushroom (1): Maybe edible mushroom.
+0e36462e-ec10-47ff-ab8b-aa6dc9838afb - (Case: Some)
+Banana Peel (1): Person behind you 50% chance -100 points
+33f06c24-a418-4449-90ca-90dd74648e97 - (Case: Some)
+Fire Flower (1): Throw balls of actual fire. Literally.
+9cafe67b-cf34-4b9d-9e8a-d8c6c96ce908 - (Case: Some)
+Bo Jackson (1): TOUCHDOWN!
+9a694c6c-3873-4e93-b95e-1fbedf3542f4 - (Case: Some)
+Green Shell (1): Throw at opponent to deliver a good thump on the head.
+b7c929de-76ae-42d3-8468-5de14784071b - (Case: Some)
+Mushroom (1): Maybe edible mushroom.
+b792205f-abdb-480c-9870-ab25704707a2 - (Case: Some)
+Space Invaders (1): Pixelated alien face that creates timeboxed urgency to score points.
+348b1bbf-c725-47df-80d0-70ec8e5c6b96 - (Case: Some)
+Mushroom (1): Maybe edible mushroom.
+60300c22-624a-4849-85f2-1b079991a616 - (Case: Some)
+Pokeball (2): Gotta catch 'em all!
+8809f48d-366a-477c-9565-5fe410025214 - (Case: Some)
+Crowbar (1): Gordon Freeman's weapon of choice.
+ae551a40-b443-4141-bfed-89041492afaf - (Case: Some)
+Mushroom (1): Maybe edible mushroom.
+87be16c2-a6c2-4ba5-a09a-1df8e6de580e - (Case: Some)
+Banana Peel (1): Person behind you 50% chance -100 points
+2090ae7a-1f01-402f-906e-9ce8eb6a522e - (Case: Some)
+Green Shell (1): Throw at opponent to deliver a good thump on the head.
+04d6b196-25c9-4025-bb94-0e74f4eb109b - (Case: Some)
+Hard Knuckle (2): Mega Man face punch.
+1300b26d-22c0-4ba1-829a-ee9cf7839eb6 - (Case: Some)
+Fire Flower (1): Throw balls of actual fire. Literally.
+3d4c9af4-b514-4050-a830-66fc4d38918e - (Case: Some)
+Banana Peel (1): Person behind you 50% chance -100 points
+13efb01d-76d9-4061-91b1-f7baf688f9c6 - (Case: Some)
+Wedge (1): Red Wing soldier that bolsters your confidence.
+77dd235a-ea15-44bc-82ba-400739164030 - (Case: Some)
+Space Invaders (1): Pixelated alien face that creates timeboxed urgency to score points.
+80642e21-ce42-4195-9f25-8143de181e6b - (Case: Some)
+Mushroom (1): Maybe edible mushroom.
+fc007836-e529-4cae-ba14-db0ee6c51734 - (Case: Some)
+Bo Jackson (1): TOUCHDOWN!
+
+ca74d7c0-88f6-471f-9b6b-5f8fbb856742 - (Case: Some)
+Cardboard Box (2): Shhh. You can't see me.
+e156adb9-cff2-4480-962a-1dfba4cda6a1 - (Case: Some)
+Banana Peel (1): Person behind you 50% chance -100 points
+105364d0-d9b9-491a-b068-3cc1173eabbb - (Case: Some)
+Mushroom (1): Maybe edible mushroom.
+a496ab8b-fcf1-43f0-be97-b0ea0921bb07 - (Case: Some)
+Red Shell (1): Toss ahead of you to unsuspecting victim.
+77482f6a-fcf8-4f0f-9af2-3bdcc9bd6e18 - (Case: Some)
+Green Shell (1): Throw at opponent to deliver a good thump on the head.
+
+63f09a1e-a326-4def-806d-0d573957d2bd - (Case: Some)
+Fire Flower (1): Throw balls of actual fire. Literally.
+3a652a14-1778-45f2-ac24-a6c605f25dc8 - (Case: Some)
+Biggs (1): Red Wing soldier that bolsters your confidence.
+61637a58-736b-43dd-bf4c-f444ca5cc00b - (Case: Some)
+Space Invaders (1): Pixelated alien face that creates timeboxed urgency to score points.
+304364cb-6f6b-49ec-afa2-4dc3fd1cda02 - (Case: Some)
+Hard Knuckle (2): Mega Man face punch.
+8eca09aa-8b1e-4f32-bcd7-dbf27ecab64e - (Case: Some)
+Mushroom (1): Maybe edible mushroom.
+8352900c-394a-4342-bf23-7ec117692975 - (Case: Some)
+Mushroom (1): Maybe edible mushroom.
+
+
+ff8695c3-fa37-4449-a983-98eb9e7a56ab - (Case: Some)
+Hadouken (2): Burst of energy that pulses through the target and results in temporary after shocks.
+6f120d65-3f6f-4d58-a3b4-90f8a60aa4c0 - (Case: Some)
+Gold Ring (2): Shiny ring that provides temporary protection from damage.
+
+0dd49311-c2d2-499c-9467-be84a156901c - (Case: Some)
+Mushroom (1): Maybe edible mushroom.
+
+--f4b0df92-2aad-4f5b-9696-cb789e9640d4 - (Case: Some)
+--Crowbar (1): Gordon Freeman's weapon of choice.
+
+338ee27e-b4f5-4919-93a1-8534215d1b74 - (Case: Some)
+Mushroom (1): Maybe edible mushroom.
+4f5511a6-c950-4cc9-946c-e469233abca5 - (Case: Some)
+Buffalo (2): Absolutely not dying from dysentery today!
+54eeb605-c9b4-4abf-bd27-b26d53dd29cf - (Case: Some)
+Wedge (1): Red Wing soldier that bolsters your confidence.
+--6565c414-989a-4270-a5b7-8e38df884d45 - (Case: Some)
+--Mushroom (1): Maybe edible mushroom.
+1adcd7ab-8426-44e3-a764-3054d44384c5 - (Case: Some)
+Pokeball (2): Gotta catch 'em all!
+--1bf8858b-8c98-433b-95c5-1f9768b358c1 - (Case: Some)
+--Moogle (2): Kupo! Your luck is temporarily increased.
+b2a486b0-96ec-4226-879a-c7ae94c0fa99 - (Case: Some)
+Mushroom (1): Maybe edible mushroom.
+d7d4d672-9302-4c8b-afea-d097204f009c - (Case: Some)
+Holy Water (2): Throw at the floor to release temporary holy flames.
+15a6be4a-d44d-4f73-94d9-2278e4d2302d - (Case: Some)
+Space Invaders (1): Pixelated alien face that creates timeboxed urgency to score points.
+--1c5e67cc-4e38-4e42-9e52-4b622b413776 - (Case: Some)
+--Mushroom (1): Maybe edible mushroom.
+9aac270f-dd93-4a27-980e-8e99d10f73b4 - (Case: Some)
+Space Invaders (1): Pixelated alien face that creates timeboxed urgency to score points.
+43c71e70-bd2a-42f9-a2a9-daaa476e1b75 - (Case: Some)
+Warthog (2): Recon vehicle that temporarily increases speed.
+64dbc1eb-09dd-4496-b1ab-2ae99542a08b - (Case: Some)
+Space Invaders (1): Pixelated alien face that creates timeboxed urgency to score points.
+324f3618-6e3b-4eeb-bbb8-5a08528f8095 - (Case: Some)
+Crowbar (1): Gordon Freeman's weapon of choice.
+24471485-fed4-4150-95e9-974320b1648d - (Case: Some)
+Fire Flower (1): Throw balls of actual fire. Literally.
+--53f47d6d-6a09-4ffc-8cab-9b4a1495c34b - (Case: Some)
+--Mushroom (1): Maybe edible mushroom.
+071e84cf-d1bd-4677-96c4-7b13de64d91e - (Case: Some)
+Hadouken (2): Burst of energy that pulses through the target and results in temporary after shocks.
+---a1e8fcad-8c7b-43a6-a9b2-256d67921022 - (Case: Some)
+---Treasure Chest (3): Bountiful treasure chest containing three new items.
+--2014da7e-6c7e-48be-af51-8f47d57e0222 - (Case: Some)
+--Mushroom (1): Maybe edible mushroom.
+0be2e71e-9e82-42c5-90fd-bb49a9cbd925 - (Case: Some)
+Biggs (1): Red Wing soldier that bolsters your confidence.
+11c8778e-a2e3-41f0-9c7a-ffe65fab3a16 - (Case: Some)
+Crowbar (1): Gordon Freeman's weapon of choice.
+54c4d12b-66c3-4c60-8e2f-d4094219634d - (Case: Some)
+Star (3): A celestial object that creates temporary invincibility.
+
+"You found a bonus item! <21607b5f-089b-4784-9ec8-8fbd348fd1fd> | <Banana Peel>",
+--"You found a bonus item! <af4ea5d8-cdb5-4f26-95a4-4877c9d7a959> | <Buffalo>",
+"You found a bonus item! <75ab9b2f-9179-4404-a6fa-b5caf653725c> | <Fat Guys>"
+
+1a252e53-eb5f-454a-b6e9-dc6250a4a502 - (Case: Some)
+Holy Water (2): Throw at the floor to release temporary holy flames.
+
+7acfd17c-1739-45b8-988e-90d0af49863b - (Case: Some)
+Warthog (2): Recon vehicle that temporarily increases speed.
+83b271a3-92cc-4017-a023-e5fa7709a3f5 - (Case: Some)
+Rush the Dog (3): Loyal canine sidekick that can boost a hero's spirit.
+
+"You found a bonus item! <4bb7dfb3-ddd3-472a-84e6-716629c3db5c> | <Wedge>"],"TargetName":"ptrandem","Points":12939}
+
+ <f4470b1e-9bdc-41fd-945f-c074dc79aa6a> | <Green Shell>"],"TargetName":"ptrandem","Points":12977}
+
+ item! <cf4c4661-6f47-4bdc-910e-de6710d1dc91> | <Red Shell>"],"TargetName":"ptrandem","Points":13040}
+
+{"Messages":["You used <Pokeball> on ptrandem; 35 points for ptrandem!","You found a bonus item! <57de72a7-c9e0-46e7-9688-50b00e7011f8> | <Pandora's Box>"],"TargetName":"ptrandem","Points":13861}
+
+{"Messages":["You used <Pokeball> on ptrandem; 35 points for ptrandem!","You found a bonus item! <aec853c2-0c80-44c8-9a7b-00f3189c7fba> | <Carbuncle>"],"TargetName":"ptrandem","Points":16345}
+
+{"Case":"Some","Fields":[{"Name":"Bullet Bill","Id":"70f45517-a9db-4060-8259-16bc8a77dc54","Rarity":3,"Description":"Catapult ahead of the competition."}]}
+
+{"Case":"Some","Fields":[{"Name":"Roger Wilco","Id":"782d8dab-8258-4d5b-9a0d-4a4ffdac6700","Rarity":3,"Description":"You defeated aliens with this handy plunger!"}]}
+
+{"Case":"Some","Fields":[{"Name":"Hard Knuckle","Id":"e30d0abf-e9d3-4dd7-a9a5-0b13969aabef","Rarity":2,"Description":"Mega Man face punch."}]}
+
+{"Messages":["You used <Pokeball> on ptrandem; 35 points for ptrandem!","You found a bonus item! <e0c4a3a2-5960-4af2-a461-785b43bb6385> | <Roger Wilco>"],"TargetName":"ptrandem","Points":106177}
+----------------
+
+Star	ef059abb-02ad-43f4-9720-fbaafb41961a	3	A celestial object that creates temporary invincibility.
+Fat Guys	6e449901-7831-4172-ba37-72a328f65cdf	3	You may be slow, but you're solid!
+Golden Gun	f6b7319e-0801-4da1-ac30-233b9eafd825	3	Francisco Scaramanga's weapon of choice.
+Varia Suit	86ef1484-20c7-44d0-a597-9656e35d637a	3	Sleek pant suit offering significant protection from foes.
+Cardboard Box	efec11d8-784f-4b3d-b438-036c6d42c08b	2	Shhh. You can't see me.
+Gold Ring	e8700479-7135-4b1a-afaa-4233a1450e40	2	Shiny ring that provides temporary protection from damage.
+Gold Ring	76fd1b39-900b-4d00-ab53-e85a955fecce	2	Shiny ring that provides temporary protection from damage.
+Da Da Da Da Daaa Da DAA da da	177273fd-3a1f-43e5-96be-fb24baffd634	2	The victory song that delivers a sweet reward.
+Da Da Da Da Daaa Da DAA da da	d3d258fc-cebe-49c6-9354-18cc5f7b15ae	2	The victory song that delivers a sweet reward.
+Tanooki Suit	cc91c2b3-8993-425e-b7c9-0a061a844928	2	Adorable suit that provides temporary protection from attacks.
+Moogle	9e19e5fc-89e5-4927-be2d-c763c04d8205	2	Kupo! Your luck is temporarily increased.
+Buffalo	67ba06a6-a5ff-4180-a2a0-64341c525bb9	2	Absolutely not dying from dysentery today!
+Tanooki Suit	2167f723-73d1-468e-9ad5-69e6c054a594	2	Adorable suit that provides temporary protection from attacks.
+Gold Ring	391193d9-475d-46e0-bdc9-c0781d337d02	2	Shiny ring that provides temporary protection from damage.
+Da Da Da Da Daaa Da DAA da da	c90b4383-0920-4eb0-8982-5fb6c505a4e3	2	The victory song that delivers a sweet reward.
+Warthog	6adeda2f-1fc1-498d-a233-34b5b9b2ae8c	2	Recon vehicle that temporarily increases speed.
+Tanooki Suit	be544ddc-2944-419f-b785-90b6d52bf156	2	Adorable suit that provides temporary protection from attacks.
+Holy Water	6958bc3c-55c2-4b1f-bbef-7db475b5ee35	2	Throw at the floor to release temporary holy flames.
+Moogle	f971ef76-e5d1-4339-9543-9b896e26c172	2	Kupo! Your luck is temporarily increased.
+Da Da Da Da Daaa Da DAA da da	ecf292c0-34a6-41a5-a03d-2bf9adc44d1a	2	The victory song that delivers a sweet reward.
+Warthog	93f1d5f0-73b0-469a-b2f2-f4c85628f204	2	Recon vehicle that temporarily increases speed.
+Tanooki Suit	d505c854-4640-4274-9352-930d1df1da45	2	Adorable suit that provides temporary protection from attacks.
+Holy Water	f9b4ea05-22f7-432b-835a-936485cd8ae1	2	Throw at the floor to release temporary holy flames.
+Holy Water	afaff462-a722-4402-b8d0-ed8ba7a889f9	2	Throw at the floor to release temporary holy flames.
+Pokeball	560018b0-02ba-4b73-9cf2-64dad542514a	2	Gotta catch 'em all!
+Charizard	e3bc49ad-73ed-4ced-a641-2124d39d2da1	2	It's hard to be a diamond in a rhinestone world.
+Hard Knuckle	c68eff8b-53b4-4dc9-b8f5-f3d3da8905f0	2	Mega Man face punch.
+Pokeball	47bb250e-b02d-4726-8e07-38c59682eff1	2	Gotta catch 'em all!
+Tanooki Suit	50f348fb-94ab-442c-938c-6f9d7d9cad51	2	Adorable suit that provides temporary protection from attacks.
+Buffalo	32b40580-ee08-47e0-a4a6-66c4e72b7f04	2	Absolutely not dying from dysentery today!
+Tanooki Suit	184eb9c6-243b-4487-8ac0-b865ef81199d	2	Adorable suit that provides temporary protection from attacks.
+Banana Peel	b1064a53-1de8-48cd-a705-d491925a2eba	1	Person behind you 50% chance -100 points
+Mushroom	aca977ce-ec1b-47be-be88-e4291e40774b	1	Maybe edible mushroom.
+Biggs	79c166ca-8b13-4920-8ed9-931d4bed7a24	1	Red Wing soldier that bolsters your confidence.
+Green Shell	f4fdb6f8-6cc0-4180-958e-a8f5fb5930f5	1	Throw at opponent to deliver a good thump on the head.
+Crowbar	4cbfca19-3290-4c19-98a2-6b95a4439a94	1	Gordon Freeman's weapon of choice.
+Bo Jackson	ae323f3d-3488-4b50-88fd-69236d654723	1	TOUCHDOWN!
+Wedge	20eb5ebd-0613-49c9-b347-e851c21b2ec6	1	Red Wing soldier that bolsters your confidence.
+Pizza	32ac4b91-62cb-41ed-81db-7b2ed46c0259	1	Michelangelo's favorite food, dude.
+UUDDLRLRBA	e2f4b6fe-3564-4d32-af37-21ab6cfca796	1	Konami Code always gives a nice boost.
+Fire Flower	a1990ef8-6f2a-4db5-8154-0070f47dfe46	1	Throw balls of actual fire. Literally.
+Wedge	1baa3475-2029-4f3b-a69c-5af5d8b54d26	1	Red Wing soldier that bolsters your confidence.
+Banana Peel	2d94cc46-1afd-4886-aa4c-5eeed6e6bf09	1	Person behind you 50% chance -100 points
+Mushroom	2ed6f90a-d19a-47b9-9a2f-b7d783e6b394	1	Maybe edible mushroom.
+Mushroom	43e8f856-f44f-490e-a9bd-fa6ecd4d2850	1	Maybe edible mushroom.
+Mushroom	d4a50497-391d-409a-b444-b0decea2a1de	1	Maybe edible mushroom.
+Green Shell	7671bc82-43e6-4463-9228-44501ffcd8e3	1	Throw at opponent to deliver a good thump on the head.
+Fire Flower	84146351-cb0a-4d5f-a427-3a1412812e1d	1	Throw balls of actual fire. Literally.
+Fire Flower	9e0c6024-ac65-47ab-99e2-22407f114b4a	1	Throw balls of actual fire. Literally.
+Pizza	86531c3a-be1c-49dd-ac8d-8c5470fcce78	1	Michelangelo's favorite food, dude.
+Mushroom	eea19eff-86da-4cdd-8628-aa476fdb9202	1	Maybe edible mushroom.
+Fire Flower	935fbd59-d579-4363-9f1e-e0295052e1cd	1	Throw balls of actual fire. Literally.
+Mushroom	9c0e3d3d-292c-47e0-a4b0-11953ee6813a	1	Maybe edible mushroom.
+UUDDLRLRBA	04f2ef62-19c0-4e46-bdff-d196211266d1	1	Konami Code always gives a nice boost.
+Mushroom	49f9a8f3-113d-4c59-861d-762ade7171b1	1	Maybe edible mushroom.
+Red Shell	5e3a5bda-0dd9-43cc-aa59-b2378863983d	1	Toss ahead of you to unsuspecting victim.
+Banana Peel	0fa26d9b-6fbe-4e16-9c2b-da2b37f6d1a0	1	Person behind you 50% chance -100 points
+Biggs	fd543db1-8808-4807-a7a4-c75c9b0c5993	1	Red Wing soldier that bolsters your confidence.
+Biggs	fdbfcac2-a9f8-4f4c-ac28-963b4a6f3c81	1	Red Wing soldier that bolsters your confidence.
+Green Shell	a16ccd59-48c0-4b1a-832a-4c2136647929	1	Throw at opponent to deliver a good thump on the head.
+UUDDLRLRBA	835c1c6f-cf6f-44b6-982d-5c5b839abb5c	1	Konami Code always gives a nice boost.
+Wedge	19df55ca-6292-4b76-a6f6-f3df62a05be7	1	Red Wing soldier that bolsters your confidence.
+Banana Peel	547114c9-b3fd-447c-8941-7b786a57582b	1	Person behind you 50% chance -100 points
+Bo Jackson	a0de207a-b4eb-43eb-a002-5e0c8d37e662	1	TOUCHDOWN!
+Pizza	949557c7-3de5-4a46-a979-6cc083d7edc9	1	Michelangelo's favorite food, dude.
+UUDDLRLRBA	52da8dcb-b76c-44e8-a586-6965a1f653d7	1	Konami Code always gives a nice boost.
+Red Shell	fb5f8bcf-1eb8-4707-bad4-c45b52cb50bb	1	Toss ahead of you to unsuspecting victim.
+Fire Flower	5b39d7d8-2b0f-4272-b2a6-193e72f2436b	1	Throw balls of actual fire. Literally.
+Mushroom	174882f2-e446-40b4-b37c-3966e0078516	1	Maybe edible mushroom.
+Biggs	8d3b8046-7763-4aaa-b1a1-58793bce4aa3	1	Red Wing soldier that bolsters your confidence.
+Bo Jackson	2b71c751-0f1c-4981-a3e9-ea6089de7d77	1	TOUCHDOWN!
+Bo Jackson	1c73a4eb-e91a-4781-8401-4bcdf4c1c832	1	TOUCHDOWN!
+Fire Flower	c9254d47-2c67-4fff-a53e-4270611783c8	1	Throw balls of actual fire. Literally.
+Green Shell	d931d938-73d8-4abd-8058-49fc0b515248	1	Throw at opponent to deliver a good thump on the head.
+Banana Peel	5ec9fb5d-6008-470f-92c9-a6e60ab9a188	1	Person behind you 50% chance -100 points
+Mushroom	2aacb7c9-8b1d-4b7b-9f6c-45d8a37269f7	1	Maybe edible mushroom.
+Wedge	44641a5b-922b-4690-bbd4-3eac6faf7f27	1	Red Wing soldier that bolsters your confidence.
+Mushroom	21e77369-af7b-4379-8846-e0a51040087e	1	Maybe edible mushroom.
+Mushroom	fb86bf7a-6ede-4007-9d02-ec2f3e138b7a	1	Maybe edible mushroom.
+Biggs	787521dd-d51d-42a3-aa35-1b3d921a914d	1	Red Wing soldier that bolsters your confidence.
+Mushroom	7fe8a8fb-51a2-4bbd-b6db-404bf06edd7e	1	Maybe edible mushroom.
+Red Shell	d2bd853b-dd2c-4548-a0cf-d29f7e11ac7a	1	Toss ahead of you to unsuspecting victim.
+Banana Peel	d5a563f1-3548-423c-8c0e-c99d6160070b	1	Person behind you 50% chance -100 points
+Mushroom	770e7267-d0fb-442c-84f1-ada31410ec3d	1	Maybe edible mushroom.
+Mushroom	6f7c9332-ece5-4b8b-9c23-a62e3c243e18	1	Maybe edible mushroom.
+UUDDLRLRBA	7546f551-9942-48ec-a802-b90f1b5296cf	1	Konami Code always gives a nice boost.
+Red Shell	8f67fe2c-e769-45a4-bdca-8a8aecf5f7a2	1	Toss ahead of you to unsuspecting victim.
+Pizza	34e1a557-b043-4c06-b71a-e818801c304f	1	Michelangelo's favorite food, dude.
+Pizza	44fd87d7-1675-45d0-9d37-494d45fa63ea	1	Michelangelo's favorite food, dude.
+Red Shell	5d9e79b3-93de-45e5-8acd-63cfaa53fba4	1	Toss ahead of you to unsuspecting victim.
+Green Shell	b7a60dfa-ef3f-4369-bdde-ab7f83728d05	1	Throw at opponent to deliver a good thump on the head.
+Banana Peel	dfb0f577-32ed-46a1-9566-e0328ed8b7f2	1	Person behind you 50% chance -100 points
+Banana Peel	d21be602-f43f-485a-ba9d-ed9076580302	1	Person behind you 50% chance -100 points
+Bo Jackson	276b3280-f631-439f-91e0-f9f903594530	1	TOUCHDOWN!
+Wedge	be12a1eb-3fc3-4283-9c34-8f3c0a0e7093	1	Red Wing soldier that bolsters your confidence.
+Mushroom	eb9f9abc-8af6-4a43-a771-66d66a4e8e17	1	Maybe edible mushroom.
+Green Shell	7ef4b5b2-b746-46c1-9aae-2059ceb9df41	1	Throw at opponent to deliver a good thump on the head.
+Banana Peel	5eb1a1ae-9913-43bb-ad4e-f6ed02184d0c	1	Person behind you 50% chance -100 points
+Green Shell	e16b621a-6d4d-4933-810e-33f12ecf507f	1	Throw at opponent to deliver a good thump on the head.
+Mushroom	6e111daa-2cf1-4ae5-9b7b-4fa412284f39	1	Maybe edible mushroom.
+Banana Peel	7a0b6003-0b22-4620-8883-eeff8c5671aa	1	Person behind you 50% chance -100 points
+Biggs	330d1069-29d7-4962-ad11-cecb95fb0271	1	Red Wing soldier that bolsters your confidence.
+Banana Peel	1a3fd724-515c-480f-862a-9eb79627763f	1	Person behind you 50% chance -100 points
+Wedge	0df471a5-0e86-4b14-8307-7ffb98060053	1	Red Wing soldier that bolsters your confidence.
+Green Shell	f1bd9707-af08-4fb6-88cc-b4316bc80974	1	Throw at opponent to deliver a good thump on the head.
+Wedge	cc1756ac-a0b8-4f6a-b121-701206ec4973	1	Red Wing soldier that bolsters your confidence.
+Banana Peel	e7d04b66-4228-472c-8963-c22e01c9a6e4	1	Person behind you 50% chance -100 points
+Green Shell	7746ddd1-7db4-4c70-b1a9-53faf8f10115	1	Throw at opponent to deliver a good thump on the head.
+Wedge	efd060fc-01f3-472e-a537-44d50b0653bb	1	Red Wing soldier that bolsters your confidence.
+Mushroom	6eeb1b43-dc71-40ff-9465-c553358181bb	1	Maybe edible mushroom.
+			
+
+Red Shell	60bff63b-971c-4374-a02d-b71f4ff67666	1	Toss ahead of you to unsuspecting victim.
+Holy Water	773b12d1-3e61-4aa0-a6ce-282a9307c6c6	2	Throw at the floor to release temporary holy flames.
+Mushroom	6a02c6e4-a44c-4151-8aae-509bc20ddcb9	1	Maybe edible mushroom.
+Green Shell	2b6be478-f33b-4c45-8da6-2f52e2b9b9ae	1	Throw at opponent to deliver a good thump on the head.
+Mushroom	8a1cc32b-a037-4e9f-aec4-437e3012de74	1	Maybe edible mushroom.
+Banana Peel	3c9a64c8-476d-4358-9db2-38c9faa0b736	1	Person behind you 50% chance -100 points
+Banana Peel	f4612715-e6bc-474f-a173-90abd20328de	1	Person behind you 50% chance -100 points
+Banana Peel	c7521af5-43f7-4714-9c52-b723a569ff5e	1	Person behind you 50% chance -100 points
+Red Shell	e8cc6a30-44c5-4438-94fd-64d5d4c9739b	1	Toss ahead of you to unsuspecting victim.
+Green Shell	714573b6-2088-45c3-8411-bbac7a6b5acb	1	Throw at opponent to deliver a good thump on the head.
+Mushroom	e05c3d46-7457-42b9-b3c6-29f189f3873e	1	Maybe edible mushroom.
+Mushroom	bbe8cf2b-b035-4cfa-8bf9-cbaf8e3dd433	1	Maybe edible mushroom.
+Tanooki Suit	6e067bd0-b63c-4f1d-aa8d-cee18e7899e5	2	Adorable suit that provides temporary protection from attacks.
+Fire Flower	f226e4bc-3667-442e-8309-abc7f8ccb068	1	Throw balls of actual fire. Literally.
+Fire Flower	6bdf28f8-362c-4695-b3b5-0d5c15f4e8b0	1	Throw balls of actual fire. Literally.
+Banana Peel	31ab8846-ffa1-4122-b307-6e5f283ea01a	1	Person behind you 50% chance -100 points
+Mushroom	1d9d17f1-1b0d-4ce4-9bca-c9c8e9799433	1	Maybe edible mushroom.
+Mushroom	1478d734-91e5-4c24-8a33-c1d1064e630a	1	Maybe edible mushroom.
+Mushroom	7d4223c9-e16f-4f4f-b9ae-038dcb407691	1	Maybe edible mushroom.
+Banana Peel	3262281b-ecc4-41a4-bd74-ce432299f62b	1	Person behind you 50% chance -100 points
+Crowbar	3c81526a-37ac-4030-b08a-fd2ed91f779d	1	Gordon Freeman's weapon of choice.
+Banana Peel	ce541844-7c18-4d0b-9d70-d23458a44faf	1	Person behind you 50% chance -100 points
+Fire Flower	bf5966b3-86a6-4bed-8f73-e69587b4b3ca	1	Throw balls of actual fire. Literally.
+Red Shell	4f6482fc-ab2f-480f-b8d7-a29763d18120	1	Toss ahead of you to unsuspecting victim.
+Green Shell	d0778ba5-d242-49ae-a59a-6a8bb54b880f	1	Throw at opponent to deliver a good thump on the head.
+Mushroom	e6809a2d-bff6-49a7-97a0-0365c22b939a	1	Maybe edible mushroom.
+Tanooki Suit	5297ab51-7b2c-4960-a3b7-effb751ad543	2	Adorable suit that provides temporary protection from attacks.
+Fire Flower	f35693dc-b2be-43a9-a3e2-f720df92255f	1	Throw balls of actual fire. Literally.
+Moogle	6d0fe838-9276-456a-a599-a0634acb2a87	2	Kupo! Your luck is temporarily increased.
+Hard Knuckle	77c9a323-cb4a-472f-9a51-b4bd0219fa83	2	Mega Man face punch.
+Warthog	61271ed7-920c-411f-9f7d-af4b8ea6e1f6	2	Recon vehicle that temporarily increases speed.
+Mushroom	d75f2189-be14-4e73-aebe-bb96b8990dc1	1	Maybe edible mushroom.
+Da Da Da Da Daaa Da DAA da da	97f75498-78fa-43a3-b73c-412c13451b5f	2	The victory song that delivers a sweet reward.
+Hard Knuckle	a5cd01ce-8147-44f9-a866-cf1899f72d7f	2	Mega Man face punch.
+Red Shell	c1ca543e-84dd-4c08-9361-1606d8f8589d	1	Toss ahead of you to unsuspecting victim.
+Mushroom	d5bfa835-9c9e-4629-a7bb-4afa692c7b49	1	Maybe edible mushroom.
+Pizza	d9f39c3e-49ea-40d4-936d-6e028f033da5	1	Michelangelo's favorite food, dude.
+Holy Water	d9ffc715-9a5d-4598-8250-b51fa2c45561	2	Throw at the floor to release temporary holy flames.
+Pizza	40e82c8a-b96b-490a-b1bb-c3d308e8b1e8	1	Michelangelo's favorite food, dude.
+Leeroy Jenkins	279c5064-7596-4c92-89e0-3d3fcdda1d90	3	Absolutely pathetic battle cry.
+Treasure Chest	9bafdf82-8571-4381-ba82-4796f3387e34	3	Bountiful treasure chest containing three new items.
+UUDDLRLRBA	d77d6026-b233-4df2-9e50-94ab975899a8	1	Konami Code always gives a nice boost.
+Hadouken	5addbab6-3705-497d-9fae-8780fa55a41f	2	Burst of energy that pulses through the target and results in temporary after shocks.
+Crowbar	54c6a605-9857-480b-8353-14bb00faec75	1	Gordon Freeman's weapon of choice.
+Charizard	2ba57395-4dc8-4b4a-9a4d-19cdbb073b47	2	It's hard to be a diamond in a rhinestone world.
+Hadouken	28737db7-7d27-4ba4-9840-f0eaacf66390	2	Burst of energy that pulses through the target and results in temporary after shocks.
+--Morph Ball	a6231f28-4253-4542-be53-07e7530ac4a3	3	Transform into a sphere that passes two players.
+Mushroom	eb203588-68b0-4381-8db6-fa03342f06b9	1	Maybe edible mushroom.
+Rail Gun	d01f85c4-c60d-4d85-860f-c963e0288fbb	3	Fires depleted uranium slugs at high velocity.
+Pizza	3b26c4ba-600d-4900-a7cf-33f905a28d57	1	Michelangelo's favorite food, dude.
+Cardboard Box	4b8c510b-6e51-47a7-b574-de210bafe99d	2	Shhh. You can't see me.
+Wedge	85243547-594d-4d79-bd36-fd8d61328a24	1	Red Wing soldier that bolsters your confidence.
+
+
+			
+Banana Peel	b1064a53-1de8-48cd-a705-d491925a2eba	1	Person behind you 50% chance -100 points
+Banana Peel	d21be602-f43f-485a-ba9d-ed9076580302	1	Person behind you 50% chance -100 points
+Banana Peel	d5a563f1-3548-423c-8c0e-c99d6160070b	1	Person behind you 50% chance -100 points
+Banana Peel	5eb1a1ae-9913-43bb-ad4e-f6ed02184d0c	1	Person behind you 50% chance -100 points
+Banana Peel	5ec9fb5d-6008-470f-92c9-a6e60ab9a188	1	Person behind you 50% chance -100 points
+Banana Peel	7a0b6003-0b22-4620-8883-eeff8c5671aa	1	Person behind you 50% chance -100 points
+Banana Peel	2d94cc46-1afd-4886-aa4c-5eeed6e6bf09	1	Person behind you 50% chance -100 points
+Banana Peel	1a3fd724-515c-480f-862a-9eb79627763f	1	Person behind you 50% chance -100 points
+Banana Peel	dfb0f577-32ed-46a1-9566-e0328ed8b7f2	1	Person behind you 50% chance -100 points
+Banana Peel	547114c9-b3fd-447c-8941-7b786a57582b	1	Person behind you 50% chance -100 points
+Banana Peel	0fa26d9b-6fbe-4e16-9c2b-da2b37f6d1a0	1	Person behind you 50% chance -100 points
+Banana Peel	e7d04b66-4228-472c-8963-c22e01c9a6e4	1	Person behind you 50% chance -100 points
+Biggs	fdbfcac2-a9f8-4f4c-ac28-963b4a6f3c81	1	Red Wing soldier that bolsters your confidence.
+Biggs	787521dd-d51d-42a3-aa35-1b3d921a914d	1	Red Wing soldier that bolsters your confidence.
+Biggs	8d3b8046-7763-4aaa-b1a1-58793bce4aa3	1	Red Wing soldier that bolsters your confidence.
+Biggs	330d1069-29d7-4962-ad11-cecb95fb0271	1	Red Wing soldier that bolsters your confidence.
+Biggs	79c166ca-8b13-4920-8ed9-931d4bed7a24	1	Red Wing soldier that bolsters your confidence.
+Biggs	fd543db1-8808-4807-a7a4-c75c9b0c5993	1	Red Wing soldier that bolsters your confidence.
+Bo Jackson	ae323f3d-3488-4b50-88fd-69236d654723	1	TOUCHDOWN!
+Bo Jackson	1c73a4eb-e91a-4781-8401-4bcdf4c1c832	1	TOUCHDOWN!
+Bo Jackson	276b3280-f631-439f-91e0-f9f903594530	1	TOUCHDOWN!
+Bo Jackson	a0de207a-b4eb-43eb-a002-5e0c8d37e662	1	TOUCHDOWN!
+Bo Jackson	2b71c751-0f1c-4981-a3e9-ea6089de7d77	1	TOUCHDOWN!
+Buffalo	67ba06a6-a5ff-4180-a2a0-64341c525bb9	2	Absolutely not dying from dysentery today!
+Buffalo	32b40580-ee08-47e0-a4a6-66c4e72b7f04	2	Absolutely not dying from dysentery today!
+Cardboard Box	efec11d8-784f-4b3d-b438-036c6d42c08b	2	Shhh. You can't see me.
+Charizard	e3bc49ad-73ed-4ced-a641-2124d39d2da1	2	It's hard to be a diamond in a rhinestone world.
+Crowbar	4cbfca19-3290-4c19-98a2-6b95a4439a94	1	Gordon Freeman's weapon of choice.
+Da Da Da Da Daaa Da DAA da da	c90b4383-0920-4eb0-8982-5fb6c505a4e3	2	The victory song that delivers a sweet reward.
+Da Da Da Da Daaa Da DAA da da	d3d258fc-cebe-49c6-9354-18cc5f7b15ae	2	The victory song that delivers a sweet reward.
+Da Da Da Da Daaa Da DAA da da	ecf292c0-34a6-41a5-a03d-2bf9adc44d1a	2	The victory song that delivers a sweet reward.
+Da Da Da Da Daaa Da DAA da da	177273fd-3a1f-43e5-96be-fb24baffd634	2	The victory song that delivers a sweet reward.
+Fat Guys	6e449901-7831-4172-ba37-72a328f65cdf	3	You may be slow, but you're solid!
+Fire Flower	9e0c6024-ac65-47ab-99e2-22407f114b4a	1	Throw balls of actual fire. Literally.
+Fire Flower	84146351-cb0a-4d5f-a427-3a1412812e1d	1	Throw balls of actual fire. Literally.
+Fire Flower	5b39d7d8-2b0f-4272-b2a6-193e72f2436b	1	Throw balls of actual fire. Literally.
+Fire Flower	c9254d47-2c67-4fff-a53e-4270611783c8	1	Throw balls of actual fire. Literally.
+Fire Flower	935fbd59-d579-4363-9f1e-e0295052e1cd	1	Throw balls of actual fire. Literally.
+Fire Flower	a1990ef8-6f2a-4db5-8154-0070f47dfe46	1	Throw balls of actual fire. Literally.
+Gold Ring	76fd1b39-900b-4d00-ab53-e85a955fecce	2	Shiny ring that provides temporary protection from damage.
+Gold Ring	e8700479-7135-4b1a-afaa-4233a1450e40	2	Shiny ring that provides temporary protection from damage.
+Gold Ring	391193d9-475d-46e0-bdc9-c0781d337d02	2	Shiny ring that provides temporary protection from damage.
+Green Shell	f1bd9707-af08-4fb6-88cc-b4316bc80974	1	Throw at opponent to deliver a good thump on the head.
+Green Shell	e16b621a-6d4d-4933-810e-33f12ecf507f	1	Throw at opponent to deliver a good thump on the head.
+Green Shell	d931d938-73d8-4abd-8058-49fc0b515248	1	Throw at opponent to deliver a good thump on the head.
+Green Shell	f4fdb6f8-6cc0-4180-958e-a8f5fb5930f5	1	Throw at opponent to deliver a good thump on the head.
+Green Shell	7ef4b5b2-b746-46c1-9aae-2059ceb9df41	1	Throw at opponent to deliver a good thump on the head.
+Green Shell	7746ddd1-7db4-4c70-b1a9-53faf8f10115	1	Throw at opponent to deliver a good thump on the head.
+Green Shell	7671bc82-43e6-4463-9228-44501ffcd8e3	1	Throw at opponent to deliver a good thump on the head.
+Green Shell	b7a60dfa-ef3f-4369-bdde-ab7f83728d05	1	Throw at opponent to deliver a good thump on the head.
+Green Shell	a16ccd59-48c0-4b1a-832a-4c2136647929	1	Throw at opponent to deliver a good thump on the head.
+Hard Knuckle	c68eff8b-53b4-4dc9-b8f5-f3d3da8905f0	2	Mega Man face punch.
+Holy Water	afaff462-a722-4402-b8d0-ed8ba7a889f9	2	Throw at the floor to release temporary holy flames.
+Holy Water	6958bc3c-55c2-4b1f-bbef-7db475b5ee35	2	Throw at the floor to release temporary holy flames.
+Holy Water	f9b4ea05-22f7-432b-835a-936485cd8ae1	2	Throw at the floor to release temporary holy flames.
+Moogle	f971ef76-e5d1-4339-9543-9b896e26c172	2	Kupo! Your luck is temporarily increased.
+Moogle	9e19e5fc-89e5-4927-be2d-c763c04d8205	2	Kupo! Your luck is temporarily increased.
+Mushroom	43e8f856-f44f-490e-a9bd-fa6ecd4d2850	1	Maybe edible mushroom.
+Mushroom	2ed6f90a-d19a-47b9-9a2f-b7d783e6b394	1	Maybe edible mushroom.
+Mushroom	174882f2-e446-40b4-b37c-3966e0078516	1	Maybe edible mushroom.
+Mushroom	d4a50497-391d-409a-b444-b0decea2a1de	1	Maybe edible mushroom.
+Mushroom	6eeb1b43-dc71-40ff-9465-c553358181bb	1	Maybe edible mushroom.
+Mushroom	eea19eff-86da-4cdd-8628-aa476fdb9202	1	Maybe edible mushroom.
+Mushroom	9c0e3d3d-292c-47e0-a4b0-11953ee6813a	1	Maybe edible mushroom.
+Mushroom	aca977ce-ec1b-47be-be88-e4291e40774b	1	Maybe edible mushroom.
+Mushroom	49f9a8f3-113d-4c59-861d-762ade7171b1	1	Maybe edible mushroom.
+Mushroom	6e111daa-2cf1-4ae5-9b7b-4fa412284f39	1	Maybe edible mushroom.
+Mushroom	2aacb7c9-8b1d-4b7b-9f6c-45d8a37269f7	1	Maybe edible mushroom.
+Mushroom	770e7267-d0fb-442c-84f1-ada31410ec3d	1	Maybe edible mushroom.
+Mushroom	eb9f9abc-8af6-4a43-a771-66d66a4e8e17	1	Maybe edible mushroom.
+Mushroom	7fe8a8fb-51a2-4bbd-b6db-404bf06edd7e	1	Maybe edible mushroom.
+Mushroom	21e77369-af7b-4379-8846-e0a51040087e	1	Maybe edible mushroom.
+Mushroom	6f7c9332-ece5-4b8b-9c23-a62e3c243e18	1	Maybe edible mushroom.
+Mushroom	fb86bf7a-6ede-4007-9d02-ec2f3e138b7a	1	Maybe edible mushroom.
+Pizza	32ac4b91-62cb-41ed-81db-7b2ed46c0259	1	Michelangelo's favorite food, dude.
+Pizza	949557c7-3de5-4a46-a979-6cc083d7edc9	1	Michelangelo's favorite food, dude.
+Pizza	86531c3a-be1c-49dd-ac8d-8c5470fcce78	1	Michelangelo's favorite food, dude.
+Pizza	34e1a557-b043-4c06-b71a-e818801c304f	1	Michelangelo's favorite food, dude.
+Pizza	44fd87d7-1675-45d0-9d37-494d45fa63ea	1	Michelangelo's favorite food, dude.
+Pokeball	47bb250e-b02d-4726-8e07-38c59682eff1	2	Gotta catch 'em all!
+Pokeball	560018b0-02ba-4b73-9cf2-64dad542514a	2	Gotta catch 'em all!
+Red Shell	8f67fe2c-e769-45a4-bdca-8a8aecf5f7a2	1	Toss ahead of you to unsuspecting victim.
+Red Shell	fb5f8bcf-1eb8-4707-bad4-c45b52cb50bb	1	Toss ahead of you to unsuspecting victim.
+Red Shell	5d9e79b3-93de-45e5-8acd-63cfaa53fba4	1	Toss ahead of you to unsuspecting victim.
+Red Shell	5e3a5bda-0dd9-43cc-aa59-b2378863983d	1	Toss ahead of you to unsuspecting victim.
+Red Shell	d2bd853b-dd2c-4548-a0cf-d29f7e11ac7a	1	Toss ahead of you to unsuspecting victim.
+Star	ef059abb-02ad-43f4-9720-fbaafb41961a	3	A celestial object that creates temporary invincibility.
+Tanooki Suit	be544ddc-2944-419f-b785-90b6d52bf156	2	Adorable suit that provides temporary protection from attacks.
+Tanooki Suit	2167f723-73d1-468e-9ad5-69e6c054a594	2	Adorable suit that provides temporary protection from attacks.
+Tanooki Suit	50f348fb-94ab-442c-938c-6f9d7d9cad51	2	Adorable suit that provides temporary protection from attacks.
+Tanooki Suit	d505c854-4640-4274-9352-930d1df1da45	2	Adorable suit that provides temporary protection from attacks.
+Tanooki Suit	184eb9c6-243b-4487-8ac0-b865ef81199d	2	Adorable suit that provides temporary protection from attacks.
+Tanooki Suit	cc91c2b3-8993-425e-b7c9-0a061a844928	2	Adorable suit that provides temporary protection from attacks.
+UUDDLRLRBA	7546f551-9942-48ec-a802-b90f1b5296cf	1	Konami Code always gives a nice boost.
+UUDDLRLRBA	52da8dcb-b76c-44e8-a586-6965a1f653d7	1	Konami Code always gives a nice boost.
+UUDDLRLRBA	e2f4b6fe-3564-4d32-af37-21ab6cfca796	1	Konami Code always gives a nice boost.
+UUDDLRLRBA	835c1c6f-cf6f-44b6-982d-5c5b839abb5c	1	Konami Code always gives a nice boost.
+UUDDLRLRBA	04f2ef62-19c0-4e46-bdff-d196211266d1	1	Konami Code always gives a nice boost.
+Varia Suit	86ef1484-20c7-44d0-a597-9656e35d637a	3	Sleek pant suit offering significant protection from foes.
+Warthog	6adeda2f-1fc1-498d-a233-34b5b9b2ae8c	2	Recon vehicle that temporarily increases speed.
+Warthog	93f1d5f0-73b0-469a-b2f2-f4c85628f204	2	Recon vehicle that temporarily increases speed.
+Wedge	19df55ca-6292-4b76-a6f6-f3df62a05be7	1	Red Wing soldier that bolsters your confidence.
+Wedge	be12a1eb-3fc3-4283-9c34-8f3c0a0e7093	1	Red Wing soldier that bolsters your confidence.
+Wedge	cc1756ac-a0b8-4f6a-b121-701206ec4973	1	Red Wing soldier that bolsters your confidence.
+Wedge	1baa3475-2029-4f3b-a69c-5af5d8b54d26	1	Red Wing soldier that bolsters your confidence.
+Wedge	44641a5b-922b-4690-bbd4-3eac6faf7f27	1	Red Wing soldier that bolsters your confidence.
+Wedge	efd060fc-01f3-472e-a537-44d50b0653bb	1	Red Wing soldier that bolsters your confidence.
+Wedge	20eb5ebd-0613-49c9-b347-e851c21b2ec6	1	Red Wing soldier that bolsters your confidence.
+Wedge	0df471a5-0e86-4b14-8307-7ffb98060053	1	Red Wing soldier that bolsters your confidence.
+			
+
+Mushroom	b627e69b-5712-41bf-ae67-69c587dd5261	1	Maybe edible mushroom.
+Mushroom	485be329-0de2-401b-acf7-9378a4dce490	1	Maybe edible mushroom.
+Banana Peel	f15c27d3-a14f-4ada-b401-222e5a0e4469	1	Person behind you 50% chance -100 points
+Get Over Here	2e9204f3-816a-40ef-969f-2afaa0331e95	3	Chance to cuddle up to your opponent. Serious snuggles.
+
+Mushroom	394f69f6-15a6-403b-b6fa-35193e5e939f	1	Maybe edible mushroom.
+Mushroom	ca502dab-a07d-404f-b360-5a6b44cf079c	1	Maybe edible mushroom.
+Holy Water	92e5b86d-48c7-4eb6-9d6a-480da18aa83d	2	Throw at the floor to release temporary holy flames.
+Banana Peel	91f7cadf-67b1-434c-a7a5-7f8e0d0dadca	1	Person behind you 50% chance -100 points
+Cardboard Box	a2c99980-c220-46ee-b0e2-9cb30c455cfc	2	Shhh. You can't see me.
+Holy Water	b0a621ab-d288-47b7-8d98-7b6419edf0c2	2	Throw at the floor to release temporary holy flames.
+Green Shell	3dcf4e9d-1f9b-47bb-9e94-3b0ac4a1882d	1	Throw at opponent to deliver a good thump on the head.
+Banana Peel	ba1310bc-003a-46ce-8892-466994ad4c6c	1	Person behind you 50% chance -100 points
+
+Green Shell	4c561387-4d92-4b45-aa44-3d0a266a9e8e	1	Throw at opponent to deliver a good thump on the head.
+Fire Flower	519299f8-7313-43ac-80d7-1627231f08dd	1	Throw balls of actual fire. Literally.
+Hadouken	24cc2ef8-108b-4571-af04-0e37775a91f3	2	Burst of energy that pulses through the target and results in temporary after shocks.
+Red Shell	1fdb8cfa-ce59-404b-83c2-b3719c48148e	1	Toss ahead of you to unsuspecting victim.
+Green Shell	1d180df0-8f51-44a3-adf3-0453d1df093b	1	Throw at opponent to deliver a good thump on the head.
+Hard Knuckle	059b7d37-958a-44ee-9ae4-f2f18471cfc0	2	Mega Man face punch.
+Hard Knuckle	52a34125-c456-4b75-9807-6d808f0012a9	2	Mega Man face punch.
+Da Da Da Da Daaa Da DAA da da	c0ec1df2-cf6a-41df-8e6c-9c28981b5e22	2	The victory song that delivers a sweet reward.
+Green Shell	6b9230ea-cfc4-4183-9c00-54b27b8d30fa	1	Throw at opponent to deliver a good thump on the head.
+Banana Peel	29b38782-0ff1-4440-97ee-fe17e06efa7c	1	Person behind you 50% chance -100 points
+Mushroom	a8d0180c-af74-4d29-8c51-140ee0007580	1	Maybe edible mushroom.
+Banana Peel	11e91ef1-b80e-41d9-8c28-7d603ab33a38	1	Person behind you 50% chance -100 points
+
+Fire Flower	a9f317a8-8e9a-4dca-9dec-7c4035f08384	1	Throw balls of actual fire. Literally.
+UUDDLRLRBA	a1905053-d52a-4226-8f34-b4dfa542aaa3	1	Konami Code always gives a nice boost.
+Crowbar	5a9a632c-d223-467a-a734-19c31dd49d7d	1	Gordon Freeman's weapon of choice.
+
+Treasure Chest	dd359864-2dc8-49c7-a963-918262ff2088	3	Bountiful treasure chest containing three new items.	False
+Fat Guys	cec0face-85ac-4367-b6f6-b2fbff481766	3	You may be slow, but you're solid!	False
+Red Shell	c136d601-dc1f-43b8-9398-e42feb7b840d	1	Toss ahead of you to unsuspecting victim.	False
+
+Power Pellet: Blinky	ca2b36c4-71ab-454d-b858-cea26e51e795	4	Round object created for the sole purpose of trolling.	False
+Red Crystal	4da0658a-d30f-49a4-9f1b-9c680968ba74	3	You have the power of tornadoes! Take that Deborah Cliff.	False
+Carbuncle	4d6c91c8-f093-48b3-87eb-6fcc7b21d86f	3	Fairy creature that uses its red eye to temporarily reflect harm.	False
+SPNKR	152545ee-404b-4f70-98b8-df2bc7f58e3c	3	Heavy weapon that has questionable aim.	False
+Blue Shell	ca2e097d-1ebd-41ca-920b-0bc3571a10d7	3	Mighty Koopa shell that displaces the leader of the pack.	False
+Roger Wilco	fb271a61-7ac5-4915-9eb2-f72e2ce895f2	3	You defeated aliens with this handy plunger!	False
+Carbuncle	ddda5016-41fb-43d9-b83e-9d122acb1c69	3	Fairy creature that uses its red eye to temporarily reflect harm.	False
+Tanooki Suit	c7012ee4-cca4-4469-be63-db9450f58ba6	2	Adorable suit that provides temporary protection from attacks.	False
+Da Da Da Da Daaa Da DAA da da	a1580b70-8cd6-4fc2-ba02-25160a548593	2	The victory song that delivers a sweet reward.	False
+Gold Ring	47ea1462-4a7e-438c-851f-b30ec2e4f770	2	Shiny ring that provides temporary protection from damage.	False
+Mushroom	40b66eb8-5262-4028-85cd-20b9eabef4be	1	Maybe edible mushroom.	False
+Red Shell	11a334de-a535-45fa-9f1e-6a46b4190dc6	1	Toss ahead of you to unsuspecting victim.	False
+Mushroom	a47caa22-2fe1-4808-a4a3-835c2d929cd1	1	Maybe edible mushroom.	False
+Mushroom	f5f97b39-bf48-482d-89f1-e851b78fcb6a	1	Maybe edible mushroom.	False
+Banana Peel	d7fb7591-5f7f-4624-a478-2c63ff0ce600	1	Person behind you 50% chance -100 points	False
+Mushroom	3552fd8b-a214-45e0-a563-8bcf7b31972e	1	Maybe edible mushroom.	False
+Mushroom	c16ff163-d334-4fcf-ac7a-7d92f402f7e8	1	Maybe edible mushroom.	False
+Mushroom	8d11e8e4-dda2-4fb3-887f-19fb3d0a38af	1	Maybe edible mushroom.	False
+Mushroom	33467a78-214d-4b4f-a228-c4e482be7a7c	1	Maybe edible mushroom.	False
+Mushroom	6fa37af5-f24c-47a2-9789-480b41b1185b	1	Maybe edible mushroom.	False
+Mushroom	dd81efe0-c027-4408-943d-93c94f2279dd	1	Maybe edible mushroom.	False
+Green Shell	78304287-9231-4a81-a90e-eb2f8f5c3913	1	Throw at opponent to deliver a good thump on the head.	False
+Banana Peel	556871e4-d02f-4f6b-a178-917263d840f2	1	Person behind you 50% chance -100 points	False
+Mushroom	4605b1c2-65a5-4f25-b35d-806fadea920a	1	Maybe edible mushroom.	False
+Mushroom	45ea074f-2d73-477f-ad6b-6d0e1f55ec12	1	Maybe edible mushroom.	False
+
+Carbuncle	4d6c91c8-f093-48b3-87eb-6fcc7b21d86f	3	Fairy creature that uses its red eye to temporarily reflect harm.	False
+Rail Gun	48413ec2-54e6-417f-a05a-3167c5ee7ff6	3	Fires depleted uranium slugs at high velocity.	False
+Box of Bees	094231a9-0159-41f0-bf3e-2bb5ccaaa917	3	The Brian Bell Legacy.	False
+Star	7389981f-801c-4fd3-8db5-6e7aa5904b76	3	A celestial object that creates temporary invincibility.	False
+Fat Guys	155e8944-ec3b-47ef-a36a-903e6862913e	3	You may be slow, but you're solid!	False
+SPNKR	cd95770f-6d2e-45ea-813a-58ea90274ef8	3	Heavy weapon that has questionable aim.	False
+Miniature Giant Space Hamster	caf42311-5ff5-4eb7-8435-9dbc18bff125	3	Boo is always judging!	False
+Carbuncle	ddda5016-41fb-43d9-b83e-9d122acb1c69	3	Fairy creature that uses its red eye to temporarily reflect harm.	False
+Pony	5d9bb1fb-11ee-4e5d-9cb6-67cbf5007a6b	3	You are a casual gaming princess! Now harvest those crops, your majesty.	False
+Get Over Here	aef73f4c-9c44-49e9-80be-2c0f39cf1064	3	Chance to cuddle up to your opponent. Serious snuggles.	False
+Miniature Giant Space Hamster	0adb5c01-b9c5-4c8c-b8a8-6cf39c1db7ad	3	Boo is always judging!	False
+Varia Suit	dec6ebc9-8225-4956-be0e-0188b6e2222c	3	Sleek pant suit offering significant protection from foes.	False
+Star	435d60e4-eb22-47af-b04e-941556f7fd0c	3	A celestial object that creates temporary invincibility.	False
+Pony	49c2c905-ac1b-491f-b2bb-f57239ef22e2	3	You are a casual gaming princess! Now harvest those crops, your majesty.	False
+Da Da Da Da Daaa Da DAA da da	d3374918-7f50-4bc1-9fca-4ecf0a742e5e	2	The victory song that delivers a sweet reward.	False
+Gold Ring	ac0817b6-8fe9-42f3-9ed7-63b9e0d8d1a8	2	Shiny ring that provides temporary protection from damage.	False
+Cardboard Box	e1807c98-267b-4981-aa5d-3de899e620c2	2	Shhh. You can't see me.	False
+Gold Ring	59332d70-6c90-444b-9fb5-85b1347e1eab	2	Shiny ring that provides temporary protection from damage.	False
+Cardboard Box	1c83b025-342a-4628-9b30-7135289b1912	2	Shhh. You can't see me.	False
+Da Da Da Da Daaa Da DAA da da	a1580b70-8cd6-4fc2-ba02-25160a548593	2	The victory song that delivers a sweet reward.	False
+Gold Ring	47ea1462-4a7e-438c-851f-b30ec2e4f770	2	Shiny ring that provides temporary protection from damage.	False
+Gold Ring	0798745a-faaa-43e5-b9ba-d08171346e08	2	Shiny ring that provides temporary protection from damage.	False
+Da Da Da Da Daaa Da DAA da da	10407e86-88e7-4925-8b50-3d44bdf411d0	2	The victory song that delivers a sweet reward.	False
+Da Da Da Da Daaa Da DAA da da	87f778dc-970a-448e-8b40-12003caae24c	2	The victory song that delivers a sweet reward.	False
+Cardboard Box	4a4494cf-6f5a-428c-9f77-945f885eabc4	2	Shhh. You can't see me.	False
+Gold Ring	3b019ef5-aaeb-492d-9339-ef3bce9e1652	2	Shiny ring that provides temporary protection from damage.	False
+Mushroom	c57ed566-82d6-4b57-9f36-14d9d2cf2019	1	Maybe edible mushroom.	False
+Mushroom	ec412d71-5b18-4205-82c8-8bf3265e6b3c	1	Maybe edible mushroom.	False
+Mushroom	5d37b638-5bf5-47fa-a627-056d00b8a4fd	1	Maybe edible mushroom.	False
+Mushroom	c06c859e-bf76-4984-8d5a-a79e2164b214	1	Maybe edible mushroom.	False
+Mushroom	daa433ab-f139-4575-9a66-f2e3d3affd08	1	Maybe edible mushroom.	False
+Mushroom	45ea074f-2d73-477f-ad6b-6d0e1f55ec12	1	Maybe edible mushroom.	False
+Banana Peel	c2fe9da6-a039-4acf-93c6-1c251d2b3656	1	Person behind you 50% chance -100 points	False
+Mushroom	c2f6e289-cd07-4944-82e3-18293a3ded67	1	Maybe edible mushroom.	False
+Red Shell	a88b3203-05bc-4777-b366-6f9a6b332afe	1	Toss ahead of you to unsuspecting victim.	False
+Banana Peel	211ea2f4-41d1-4d00-b5f5-61f5f84a4257	1	Person behind you 50% chance -100 points	False
+Banana Peel	ab064fca-27f9-4754-a35f-a7c40e7a6f69	1	Person behind you 50% chance -100 points	False
+Mushroom	db5b1cf8-3532-4942-a4a7-18cd2c99ab50	1	Maybe edible mushroom.	False
+Banana Peel	ddce059d-0761-4581-bc50-d95b18644087	1	Person behind you 50% chance -100 points	False
+Mushroom	699f9751-1069-4ff5-9d1d-02b3d8ae795c	1	Maybe edible mushroom.	False
+Mushroom	c80b472e-3216-4c05-88e5-2c769f2e1625	1	Maybe edible mushroom.	False
+Banana Peel	7748f358-c95d-48e2-b956-5064d5f5cc28	1	Person behind you 50% chance -100 points	False
+Banana Peel	a6d34c99-1643-473c-8f3b-f1b6a8a3ebba	1	Person behind you 50% chance -100 points	False
+Banana Peel	217da99e-e3f2-4568-a219-cf8fa754d52c	1	Person behind you 50% chance -100 points	False
+Mushroom	9a53baaf-1b09-435b-806b-0531280b6435	1	Maybe edible mushroom.	False
+Mushroom	d30efa97-5d47-4ce4-beef-a57d84d48a0a	1	Maybe edible mushroom.	False
+Banana Peel	56a4531e-68aa-43c6-afdf-cdc9359669d6	1	Person behind you 50% chance -100 points	False
+Red Shell	40b9093a-f913-441c-a750-c0465da541f2	1	Toss ahead of you to unsuspecting victim.	False
+Mushroom	2fca8da6-69ed-4207-8fdb-5d3f58a582f6	1	Maybe edible mushroom.	False
+Mushroom	84818ef9-9796-4678-9647-b532f25ddd22	1	Maybe edible mushroom.	False
+Mushroom	f7972727-83d0-4855-b08a-7d4c2f291d3a	1	Maybe edible mushroom.	False
+Mushroom	865378af-347a-43de-a680-2b161b9d1f5e	1	Maybe edible mushroom.	False
+Mushroom	2a084bae-477b-4bb1-b97f-707dd63f34ea	1	Maybe edible mushroom.	False
+Banana Peel	556871e4-d02f-4f6b-a178-917263d840f2	1	Person behind you 50% chance -100 points	False
+Mushroom	dd81efe0-c027-4408-943d-93c94f2279dd	1	Maybe edible mushroom.	False
+Mushroom	ee4870da-11bb-404b-8495-0fcef0523e91	1	Maybe edible mushroom.	False
+Mushroom	8d11e8e4-dda2-4fb3-887f-19fb3d0a38af	1	Maybe edible mushroom.	False
+Mushroom	a47caa22-2fe1-4808-a4a3-835c2d929cd1	1	Maybe edible mushroom.	False
+Mushroom	f5f97b39-bf48-482d-89f1-e851b78fcb6a	1	Maybe edible mushroom.	False
+Mushroom	3552fd8b-a214-45e0-a563-8bcf7b31972e	1	Maybe edible mushroom.	False
+Mushroom	33467a78-214d-4b4f-a228-c4e482be7a7c	1	Maybe edible mushroom.	False
+Mushroom	6fa37af5-f24c-47a2-9789-480b41b1185b	1	Maybe edible mushroom.	False
+Mushroom	4605b1c2-65a5-4f25-b35d-806fadea920a	1	Maybe edible mushroom.	False
+Mushroom	c16ff163-d334-4fcf-ac7a-7d92f402f7e8	1	Maybe edible mushroom.	False
+Banana Peel	06c8493f-2da1-450e-a98f-1d5766a3a1fc	1	Person behind you 50% chance -100 points	False
+Mushroom	d6b5230d-6671-4e75-96f4-7ffeb9f6c478	1	Maybe edible mushroom.	False
+Mushroom	b215e2ef-8485-4428-ae81-50d32876d32a	1	Maybe edible mushroom.	False
+Mushroom	28bd686e-5bd9-419e-8d2b-ce84200d486d	1	Maybe edible mushroom.	False
+Mushroom	e0dea3b4-6fb0-4f63-8cd3-938daf145652	1	Maybe edible mushroom.	False
+Red Shell	df083981-693d-4fce-9bcc-619ae20ec52e	1	Toss ahead of you to unsuspecting victim.	False
+
+
+Carbuncle	48e808bf-6ad5-46e6-bb86-7810255e96c5	3	Fairy creature that uses its red eye to temporarily reflect harm.	False
+Pony	5feb3577-0656-4ec3-9198-5a85278b15ed	3	You are a casual gaming princess! Now harvest those crops, your majesty.	False
+Get Over Here	d2e3483f-879f-49d1-8212-33d529cf9b15	3	Chance to cuddle up to your opponent. Serious snuggles.	False
+Skinny Guys	cdf13b87-dff1-49f3-878d-5f7b1ead183f	3	You may be fragile, but you're quick!	False
+Varia Suit	1435ee50-8705-427b-88b3-64775d9fc54b	3	Sleek pant suit offering significant protection from foes.	False
+7777	e1cd06e5-30f4-43d7-ada1-fe68a4b497f6	3	All Lucky 7s!	False
+Leisure Suit	330e8ec7-6146-409e-b099-c3616ac4ea14	3	"Winning this game is about as easy as holding onto a mud wrestler!"	False
+Chocobo	7ddb2bce-0f4f-4b5e-9f53-4b8abb988e41	3	You are a master breeder! Gold chocobos bow at your feet.	False
+Leeroy Jenkins	79661dfd-647a-44c7-85b8-4d75a0126f38	3	Absolutely pathetic battle cry.	False
+Rush the Dog	f4719a56-c2fa-48b6-858e-f3f7e7cab398	3	Loyal canine sidekick that can boost a hero's spirit.	False
+Fat Guys	5b29a07b-bf8e-48c8-ab45-af2b1eb43990	3	You may be slow, but you're solid!	False
+Miniature Giant Space Hamster	b0e0bea1-44b5-4c5a-a35a-947af4bc7a40	3	Boo is always judging!	False
+Fat Guys	5e701531-3ac6-4a37-a756-b4bad2ffe7db	3	You may be slow, but you're solid!	False
+Varia Suit	94cb6dee-e7d2-4b8a-9252-034a77b68f4c	3	Sleek pant suit offering significant protection from foes.	False
+Roger Wilco	608b9628-8af3-429a-af49-07ae6a013741	3	You defeated aliens with this handy plunger!	False
+Skinny Guys	454443de-cbf7-466d-a25b-c8a1607f59d6	3	You may be fragile, but you're quick!	False
+Leisure Suit	4719d964-ac45-40f6-9fdc-177741e2e81e	3	"Winning this game is about as easy as holding onto a mud wrestler!"	False
+Roger Wilco	a0d02c74-b440-4eba-8796-46d9fc2f226e	3	You defeated aliens with this handy plunger!	False
+Star	a40ec1df-c071-4905-88b1-c254a4366a28	3	A celestial object that creates temporary invincibility.	False
+Pandora's Box	16ba860b-379b-4d19-8c19-4db2f6f72568	3	What's in here? OH NOES!	False
+Buster Sword	3abfd69c-f2aa-4ba0-8787-bc24908dde90	3	Save Aeris!! ... too soon?	False
+Varia Suit	c791815d-f157-4bb3-9b00-81b71ad29344	3	Sleek pant suit offering significant protection from foes.	False
+Princess	c8092c5e-49c4-4061-8fb9-95002177d4f7	3	A kiss from her majesty that turns a frog into her prince.	False
+Blue Shell	8579968b-5d12-406a-9859-bf954dc21a24	3	Mighty Koopa shell that displaces the leader of the pack.	False
+Get Over Here	2de96726-bc4a-4136-a29b-a75d7d00f07d	3	Chance to cuddle up to your opponent. Serious snuggles.	False
+Rail Gun	30b7c7e3-e7d8-4170-80b2-3067bf0bc412	3	Fires depleted uranium slugs at high velocity.	False
+Fus Ro Dah	caeb8536-8725-4616-9c0b-63aadf70530c	3	Dragon shout that silences the target.	False
+Chocobo	beec2406-c1d6-4407-aa5e-80676522618b	3	You are a master breeder! Gold chocobos bow at your feet.	False
+7777	4c39cd05-f62a-485a-86fd-8c803da98f81	3	All Lucky 7s!	False
+Treasure Chest	7126395a-5838-4d19-86c2-2dea8b7e456c	3	Bountiful treasure chest containing three new items.	False
+Varia Suit	40ebd105-4bce-4118-8155-d0d66612c485	3	Sleek pant suit offering significant protection from foes.	False
+Blue Shell	e0b35338-da9b-443d-aeaa-8c94fc7edec8	3	Mighty Koopa shell that displaces the leader of the pack.	False
+Buster Sword	1c8f555d-0424-404e-a0e2-a0d766014166	3	Save Aeris!! ... too soon?	False
+Princess	c63b0a4a-b43e-44ae-9f99-420064fce42f	3	A kiss from her majesty that turns a frog into her prince.	False
+Rail Gun	1325aeab-c6c2-4fa8-a735-e83b36e3d86f	3	Fires depleted uranium slugs at high velocity.	False
+Gold Ring	8e1d0e44-65fd-40c6-be47-9a00aef31f77	2	Shiny ring that provides temporary protection from damage.	False
+Cardboard Box	0d3e7ce1-d3b9-4dd6-be03-4a0ed9eeee35	2	Shhh. You can't see me.	False
+Tanooki Suit	24b12d21-6def-489c-97a2-735b52d1968d	2	Adorable suit that provides temporary protection from attacks.	False
+Cardboard Box	64f253aa-9bab-4b4e-8aaa-ae6131e96c0e	2	Shhh. You can't see me.	False
+Tanooki Suit	c755e7a2-8755-42e1-89fc-bce607212606	2	Adorable suit that provides temporary protection from attacks.	False
+Cardboard Box	37c2f35d-07f7-4b2c-a865-0e73dde7da84	2	Shhh. You can't see me.	False
+Cardboard Box	a66dedba-2f57-457c-a04f-556a30d71554	2	Shhh. You can't see me.	False
+Da Da Da Da Daaa Da DAA da da	4724547e-f7b4-4aa0-b234-82b25bb1548f	2	The victory song that delivers a sweet reward.	False
+Cardboard Box	6ba17680-d1e7-4fa8-b6cf-e0faac81cb73	2	Shhh. You can't see me.	False
+Tanooki Suit	d92bd1ec-9549-4572-806b-37b654f2d09a	2	Adorable suit that provides temporary protection from attacks.	False
+Cardboard Box	f85672ea-1d34-45b0-a2b3-5d3dc4927f0c	2	Shhh. You can't see me.	False
+Da Da Da Da Daaa Da DAA da da	ef30f29a-06cc-4ec6-b425-e1c9f1f4c586	2	The victory song that delivers a sweet reward.	False
+Cardboard Box	44caec6a-16d8-4d6d-a15e-59c6591628f3	2	Shhh. You can't see me.	False
+Da Da Da Da Daaa Da DAA da da	1063237d-d4ef-45b6-bced-b4b41357078f	2	The victory song that delivers a sweet reward.	False
+Da Da Da Da Daaa Da DAA da da	a0c4d20f-4ca9-4a59-a11b-262b1b0c233b	2	The victory song that delivers a sweet reward.	False
+Gold Ring	ae5d5370-9182-4cd9-9d91-1b8a02b89974	2	Shiny ring that provides temporary protection from damage.	False
+Cardboard Box	549c3f05-d3bb-4b35-a9e5-3bc96f8f448c	2	Shhh. You can't see me.	False
+Da Da Da Da Daaa Da DAA da da	740a1114-04dd-4b08-a327-fe8bee49c96c	2	The victory song that delivers a sweet reward.	False
+Da Da Da Da Daaa Da DAA da da	da8d1d6e-4fa2-415a-95fa-56d4d75ecd46	2	The victory song that delivers a sweet reward.	False
+Cardboard Box	6b691956-0fc0-44e2-967d-209c793c872c	2	Shhh. You can't see me.	False
+Gold Ring	4ca0f7cf-e39b-4f92-a845-8e5cd8756b04	2	Shiny ring that provides temporary protection from damage.	False
+Da Da Da Da Daaa Da DAA da da	f3f2f5e2-3f4b-4f99-b4fd-182afd32d4a5	2	The victory song that delivers a sweet reward.	False
+Gold Ring	9c8ae353-bc2d-45b3-b5d0-95e7c5af500c	2	Shiny ring that provides temporary protection from damage.	False
+Pokeball	68250596-2051-4135-b408-9f5e09138a4b	2	Gotta catch 'em all!	True
+Pokeball	6060a65d-439e-48e7-a1a4-853be61f0436	2	Gotta catch 'em all!	True
+Hadouken	8c444c45-f6cf-4d40-96b7-1b362be4501e	2	Burst of energy that pulses through the target and results in temporary after shocks.	True
+Cardboard Box	06f0b9f9-9d7e-44cd-ba43-26ead494f2a4	2	Shhh. You can't see me.	False
+Tanooki Suit	7d173afb-a75b-420e-ab5e-a244c428e259	2	Adorable suit that provides temporary protection from attacks.	False
+Da Da Da Da Daaa Da DAA da da	462f651f-c529-4373-b86e-82c8971f1a9e	2	The victory song that delivers a sweet reward.	False
+Hard Knuckle	9843e133-7aba-4c25-aa6d-b4c7224e66f7	2	Mega Man face punch.	True
+
+
+
+
+				
+
+Hadouken	0df11e66-34a9-402b-8da1-1f6fd7423974	2	Burst of energy that pulses through the target and results in temporary after shocks.
+
+,"You found a bonus item! <721d024d-0d9a-433f-a1fd-db6ae6c8fefc> | <Biggs>"],"TargetName":"ptrandem","Points":98842}
+
+{"Messages":["You used <Pokeball> on ptrandem; 35 points for ptrandem!","You found a bonus item! <511e8bbe-5521-4417-a4d8-df4bd15c8eae> | <Red Shell>"],"TargetName":"ptrandem","Points":119181}
+
+
+
+Good
+-----
+Pokeball (35 pts - bonus item possibility)
+Da Da Da Da Daaa Da DAA da da (10 pts, free item)
+Warthog - double 1-second points; only use 1 at a time
+UUDDLRLRBA (30 pts)
+Biggs (50 pts)
+Pizza (50 pts)
+Bo Jackson (7 pts)
+Buffalo (100 pts)
+Wedge (50 pts)
+
+Roger Wilco (unknown effect)
+
+7777 (changes 1-second pts to 7 each)
+
+Chocobo (unknown effect)
+
+Morph Ball (jump ahead 2 spots)
+
+Miniature Giant Space Hamster (seems to limit gains somehow; avoid using until more is known)
+Red Crystal (unknown effect)
+
+
+Attacks:
+--------
+Red Shell (-100, unspecified target)
+Crowbar (-200, unspecified target)
+Charizard (-500)
+Holy Water (Changes 1-second pts to -10 pts instead of +1 pts)
+Knuckle Punch (-200)
+Hard Knuckle (-100)
+Fire Flower (-35)
+Master Sword (-24916)
+Green Shell (-100) (direct attack)
+Red Shell
+Banana Peel (-50-100) (behind attack)
+Get Over Here (unknown effect)
+
+Golden Gun
+SPNKR (-100)
+Hadouken (.75 points instead of 1)
+
+Box of Bees (unknown effect)
+Portal Nun (appears to be verbally abusive at worst)
+
+Buster Sword (-500)
+
+
+Changes:
+1) Check opponent's effects before firing; perhaps adjust opponent if effects are present (or silence?)
+2) Validate warthog-style logic (appears to be double buffing)
+3) Validate suit logic (appears to be not firing at all)
+4) Consider checking timing on suits to ensure no gaps; also ensure no overlap of different kinds of protections
+
+
+
+
+
+
+
+
+
+Fus Ro Dah	Dragon shout that silences the target. ()
+
+
+<2c619568-dea7-4f07-a7ae-391ad61aca0d> | <Varia Suit>"],"TargetName":"ptrandem","Points":101447}
+
+6 
+Kupo!
+2 2 2 2 

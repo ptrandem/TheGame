@@ -1,0 +1,1564 @@
+1 1 
+{"Messages":["You used <Master Sword> on bliset; -38504 points for bliset!"],"TargetName":"bliset","Points":115512}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Crowbar>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Crowbar>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Crowbar> on amorger; -200 points for amorger!"],"TargetName":"amorger","Points":149140}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Buffalo>
+1 1 1 1 1 
+{"Messages":["You used <Crowbar> on sahart; -200 points for sahart!"],"TargetName":"sahart","Points":149713}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Buffalo> on ptrandem; 100 points for ptrandem!","ptrandem gained 1 points! Total points: 149321"],"TargetName":"ptrandem","Points":149421}
+
+1 1 1 1 1 
+You aqcuired a new item! <Fire Flower>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Fire Flower> on sahart; -35 points for sahart!"],"TargetName":"sahart","Points":149775}
+
+1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Bo Jackson>
+1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Mushroom>
+1 1 1 
+You aqcuired a new item! <Da Da Da Da Daaa Da DAA da da>
+1 1 1 1 1 1 1 
+{"Messages":["You used <Bo Jackson> on ptrandem; 7 points for ptrandem!","ptrandem gained 1 points! Total points: 149477"],"TargetName":"ptrandem","Points":149484}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <UUDDLRLRBA>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Mushroom>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Princess>
+1 1 1 1 1 
+{"Messages":["You used <UUDDLRLRBA> on ptrandem; 30 points for ptrandem!","ptrandem gained 1 points! Total points: 149541"],"TargetName":"ptrandem","Points":149571}
+
+
+You aqcuired a new item! <Gold Ring>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Biggs>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Biggs> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":149679}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Mushroom>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Bo Jackson>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Bo Jackson> on ptrandem; 7 points for ptrandem!","ptrandem gained 1 points! Total points: 149850"],"TargetName":"ptrandem","Points":149857}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Hard Knuckle>
+1 1 1 
+You aqcuired a new item! <Warthog>
+1 
+{"Messages":["You afflicted ptrandem with <Warthog>."],"TargetName":"ptrandem","Points":149941}
+
+2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Get Over Here>
+2 2 
+You aqcuired a new item! <Holy Water>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You used <Hard Knuckle> on amorger; -200 points for amorger!"],"TargetName":"amorger","Points":149797}
+
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You afflicted amorger with <Holy Water>."],"TargetName":"amorger","Points":149842}
+
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Mushroom>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Biggs>
+2 2 
+You aqcuired a new item! <Warthog>
+2 2 2 2 2 
+{"Messages":["You afflicted ptrandem with <Warthog>."],"TargetName":"ptrandem","Points":150221}
+
+2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Biggs>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You used <Biggs> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":150327}
+
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You used <Biggs> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":150431}
+
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Tanooki Suit>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Banana Peel>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You used <Banana Peel> on amorger; -100 points for amorger!"],"TargetName":"amorger","Points":150063}
+
+
+You aqcuired a new item! <Buster Sword>
+2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Warthog>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You afflicted ptrandem with <Warthog>."],"TargetName":"ptrandem","Points":150711}
+
+2 2 2 
+You aqcuired a new item! <Hard Knuckle>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You used <Hard Knuckle> on sahart; -200 points for sahart!"],"TargetName":"sahart","Points":150857}
+
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 1 1 
+You aqcuired a new item! <Crowbar>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Treasure Chest>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Crowbar> on sahart; -200 points for sahart!"],"TargetName":"sahart","Points":150803}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Holy Water>
+1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Wedge>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Green Shell>
+1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Wedge> on ptrandem; 50 points for ptrandem!","ptrandem gained 1 points! Total points: 150954"],"TargetName":"ptrandem","Points":151004}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You afflicted meastes with <Holy Water>."],"TargetName":"meastes","Points":152587}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Hadouken>
+1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Green Shell> on meastes; -100 points for meastes!"],"TargetName":"meastes","Points":152430}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You afflicted meastes with <Hadouken>."],"TargetName":"meastes","Points":152485}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Rail Gun>
+1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <UUDDLRLRBA>
+1 1 1 
+You aqcuired a new item! <Bullet Bill>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Bullet Bill> on meastes; 0 points for meastes!"],"TargetName":"meastes","Points":152992}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <UUDDLRLRBA> on ptrandem; 30 points for ptrandem!","ptrandem gained 1 points! Total points: 153021"],"TargetName":"ptrandem","Points":153051}
+
+1 1 1 1 
+You aqcuired a new item! <Pizza>
+1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Crowbar>
+1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Pizza> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":153128}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Crowbar> on ptrandem; -200 points for ptrandem!"],"TargetName":"ptrandem","Points":152955}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Chocobo>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Mushroom>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <UUDDLRLRBA>
+1 1 1 1 1 1 1 
+{"Messages":["You used <UUDDLRLRBA> on ptrandem; 30 points for ptrandem!","ptrandem gained 1 points! Total points: 153092"],"TargetName":"ptrandem","Points":153122}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Banana Peel>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Banana Peel> on sahart; -100 points for sahart!"],"TargetName":"sahart","Points":151624}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Fus Ro Dah>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Pokeball>
+1 1 1 1 1 1 1 1 
+{"Messages":["You used <Pokeball> on ptrandem; 35 points for ptrandem!","You found a bonus item! <30802762-449d-4c9c-969e-d1edd0e6275e> | <Wedge>"],"TargetName":"ptrandem","Points":153322}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Gold Ring>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Gold Ring>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Green Shell>
+1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Green Shell> on rvanbelk; -100 points for rvanbelk!"],"TargetName":"rvanbelk","Points":153831}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Hard Knuckle>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Biggs>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <UUDDLRLRBA>
+1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Biggs> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":153619}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <UUDDLRLRBA> on ptrandem; 30 points for ptrandem!","ptrandem gained 1 points! Total points: 153647"],"TargetName":"ptrandem","Points":153677}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Hard Knuckle> on rvanbelk; 0 points for rvanbelk!"],"TargetName":"rvanbelk","Points":154237}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Banana Peel>
+1 1 1 1 1 1 1 
+You aqcuired a new item! <UUDDLRLRBA>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <UUDDLRLRBA> on ptrandem; 30 points for ptrandem!","ptrandem gained 1 points! Total points: 153869"],"TargetName":"ptrandem","Points":153899}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Banana Peel> on jmullin; -100 points for jmullin!"],"TargetName":"jmullin","Points":152760}
+
+
+You aqcuired a new item! <Holy Water>
+1 1 1 1 1 
+You aqcuired a new item! <Moogle>
+1 1 
+You aqcuired a new item! <Green Shell>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You afflicted ptrandem with <Moogle>."],"TargetName":"ptrandem","Points":153954}
+
+1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Green Shell> on rvanbelk; -100 points for rvanbelk!"],"TargetName":"rvanbelk","Points":154966}
+
+3 
+Kupo!
+1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 
+You aqcuired a new item! <Green Shell>
+1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+
+{"Messages":["You afflicted rvanbelk with <Holy Water>."],"TargetName":"rvanbelk","Points":155103}
+
+1 1 1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+
+You aqcuired a new item! <UUDDLRLRBA>
+1 
+{"Messages":["You used <Green Shell> on rvanbelk; 0 points for rvanbelk!"],"TargetName":"rvanbelk","Points":155078}
+
+3 
+Kupo!
+1 1 1 1 1 1 1 1 1 3 
+Kupo!
+1 1 1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 
+{"Messages":["You used <UUDDLRLRBA> on ptrandem; 30 points for ptrandem!","ptrandem gained 1 points! Total points: 154135"],"TargetName":"ptrandem","Points":154165}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Cardboard Box>
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 
+You aqcuired a new item! <Tanooki Suit>
+1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 1 1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 1 1 
+You aqcuired a new item! <Mushroom>
+1 1 1 1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 1 1 1 1 1 1 1 3 
+Kupo!
+1 1 1 1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+1 1 1 1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 1 1 1 
+You aqcuired a new item! <Hard Knuckle>
+1 1 1 1 1 1 1 1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 
+{"Messages":["You used <Hard Knuckle> on rvanbelk; -200 points for rvanbelk!"],"TargetName":"rvanbelk","Points":156230}
+
+3 
+Kupo!
+1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 
+You aqcuired a new item! <Biggs>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 
+{"Messages":["You used <Biggs> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":154786}
+
+1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 1 1 3 
+Kupo!
+1 1 1 1 1 1 1 
+You aqcuired a new item! <Banana Peel>
+3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 
+{"Messages":["You used <Banana Peel> on jmullin; -100 points for jmullin!"],"TargetName":"jmullin","Points":153521}
+
+3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+
+You aqcuired a new item! <Banana Peel>
+3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 1 
+{"Messages":["You used <Banana Peel> on jmullin; -100 points for jmullin!"],"TargetName":"jmullin","Points":153474}
+
+3 
+Kupo!
+1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 
+You aqcuired a new item! <Green Shell>
+1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 
+You aqcuired a new item! <Hard Knuckle>
+1 3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 
+{"Messages":["You used <Green Shell> on rvanbelk; 0 points for rvanbelk!"],"TargetName":"rvanbelk","Points":157342}
+
+1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Hard Knuckle> on rvanbelk; 0 points for rvanbelk!"],"TargetName":"rvanbelk","Points":157444}
+
+1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 1 
+You aqcuired a new item! <Fire Flower>
+1 
+You aqcuired a new item! <UUDDLRLRBA>
+3 
+Kupo!
+1 1 1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 1 1 1 1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 1 
+{"Messages":["You used <UUDDLRLRBA> on ptrandem; 30 points for ptrandem!","ptrandem gained 1 points! Total points: 155234"],"TargetName":"ptrandem","Points":155264}
+
+1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Green Shell>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Fire Flower> on rvanbelk; -35 points for rvanbelk!"],"TargetName":"rvanbelk","Points":158300}
+
+1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Bo Jackson>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Bo Jackson> on ptrandem; 7 points for ptrandem!","ptrandem gained 1 points! Total points: 155339"],"TargetName":"ptrandem","Points":155346}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Charizard>
+1 1 1 1 1 1 
+{"Messages":["You used <Green Shell> on rvanbelk; -100 points for rvanbelk!"],"TargetName":"rvanbelk","Points":158401}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Bo Jackson>
+1 1 1 1 1 1 1 
+{"Messages":["You used <Bo Jackson> on ptrandem; 7 points for ptrandem!","ptrandem gained 1 points! Total points: 155400"],"TargetName":"ptrandem","Points":155407}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Charizard> on rvanbelk; -500 points for rvanbelk!"],"TargetName":"rvanbelk","Points":158156}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Pokeball>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Pokeball> on ptrandem; 35 points for ptrandem!","You found a bonus item! <25342a28-fd42-4dc7-bba1-82f6bc673de4> | <UUDDLRLRBA>"],"TargetName":"ptrandem","Points":155449}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Buffalo>
+1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Wedge>
+1 1 1 
+You aqcuired a new item! <Cardboard Box>
+1 
+{"Messages":["You used <Buffalo> on ptrandem; 100 points for ptrandem!","ptrandem gained 1 points! Total points: 155476"],"TargetName":"ptrandem","Points":155576}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Wedge> on ptrandem; 50 points for ptrandem!","ptrandem gained 1 points! Total points: 155604"],"TargetName":"ptrandem","Points":155654}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Da Da Da Da Daaa Da DAA da da>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Tanooki Suit>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Banana Peel>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Biggs>
+1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Mushroom>
+1 1 1 1 1 
+{"Messages":["You used <Biggs> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":155840}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Banana Peel> on amorger; -100 points for amorger!"],"TargetName":"amorger","Points":154658}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Pizza>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Pizza> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":155969}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Red Shell>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Red Shell> on eweiss; -100 points for eweiss!"],"TargetName":"eweiss","Points":158894}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Mushroom>
+1 1 1 1 1 1 
+You aqcuired a new item! <Buffalo>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Green Shell>
+1 1 
+You aqcuired a new item! <Bo Jackson>
+1 1 1 1 1 1 1 
+{"Messages":["You used <Buffalo> on ptrandem; 100 points for ptrandem!","ptrandem gained 1 points! Total points: 156178"],"TargetName":"ptrandem","Points":156278}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Bo Jackson> on ptrandem; 7 points for ptrandem!","ptrandem gained 1 points! Total points: 156303"],"TargetName":"ptrandem","Points":156310}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Morph Ball>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Morph Ball> on revans; 0 points for revans!"],"TargetName":"revans","Points":159424}
+
+1 1 1 1 1 1 1 
+You aqcuired a new item! <Mushroom>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Green Shell> on eweiss; -100 points for eweiss!"],"TargetName":"eweiss","Points":158294}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Fire Flower>
+1 1 1 1 1 
+{"Messages":["You used <Fire Flower> on nhotalli; -35 points for nhotalli!"],"TargetName":"nhotalli","Points":160177}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Green Shell>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Green Shell> on revans; -100 points for revans!"],"TargetName":"revans","Points":159691}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Blue Shell>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Moogle>
+1 
+You aqcuired a new item! <Da Da Da Da Daaa Da DAA da da>
+1 1 1 
+You aqcuired a new item! <Crowbar>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You afflicted ptrandem with <Moogle>."],"TargetName":"ptrandem","Points":159688}
+
+1 3 
+Kupo!
+1 1 1 1 1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 3 
+Kupo!
+
+You aqcuired a new item! <Fire Flower>
+1 1 1 3 
+Kupo!
+1 1 1 1 
+{"Messages":["You broke rule <Used two items in the span of less than a minute> and got Scope Creep","ptrandem gained 1 points! Total points: 159726"],"TargetName":"revans","Points":160052}
+
+0 1 
+Kupo!
+0 1 
+Kupo!
+0 1 
+Kupo!
+0 1 
+Kupo!
+0 0 0 1 
+Kupo!
+1 
+Kupo!
+0 
+You aqcuired a new item! <Wedge>
+0 1 
+Kupo!
+0 1 
+Kupo!
+0 1 
+Kupo!
+0 1 
+Kupo!
+0 0 0 
+{"Messages":["You used <Wedge> on ptrandem; 50 points for ptrandem!","ptrandem gained 0.5 points! Total points: 159749"],"TargetName":"ptrandem","Points":159799}
+
+1 
+Kupo!
+0 0 0 0 0 0 0 1 
+Kupo!
+0 0 1 
+Kupo!
+0 0 1 
+Kupo!
+0 1 
+Kupo!
+0 1 
+Kupo!
+0 0 0 0 1 
+Kupo!
+0 
+{"Messages":["You used <Crowbar> on revans; -200 points for revans!"],"TargetName":"revans","Points":160026}
+
+1 
+Kupo!
+1 
+Kupo!
+0 1 
+Kupo!
+0 0 0 0 1 
+Kupo!
+0 
+You aqcuired a new item! <Hadouken>
+1 
+Kupo!
+0 0 1 
+Kupo!
+0 1 
+Kupo!
+0 0 1 
+Kupo!
+1 
+Kupo!
+1 
+Kupo!
+0 0 0 0 0 
+{"Messages":["You afflicted revans with <Hadouken>."],"TargetName":"revans","Points":160130}
+
+0 0 1 
+Kupo!
+0 0 0 1 
+Kupo!
+0 0 1 
+Kupo!
+0 0 1 
+Kupo!
+1 
+Kupo!
+1 
+Kupo!
+
+You aqcuired a new item! <UUDDLRLRBA>
+0 0 1 
+Kupo!
+0 1 
+Kupo!
+0 0 0 1 
+Kupo!
+0 0 
+{"Messages":["You used <UUDDLRLRBA> on ptrandem; 30 points for ptrandem!","ptrandem gained 0.5 points! Total points: 159863"],"TargetName":"ptrandem","Points":159893}
+
+0 0 0 0 0 0 0 0 0 0 0 1 
+Kupo!
+0 0 0 0 0 0 1 
+Kupo!
+1 
+Kupo!
+1 
+Kupo!
+0 1 
+Kupo!
+0 0 0 0 0 0 0 0 0 0 1 
+Kupo!
+0 0 0 0 0 0 0 0 1 
+Kupo!
+0 0 0 0 0 1 
+Kupo!
+0 0 0 1 
+Kupo!
+0 1 
+Kupo!
+0 0 1 
+Kupo!
+
+You aqcuired a new item! <Bullet Bill>
+0 0 0 0 0 0 0 0 
+You aqcuired a new item! <Bullet Bill>
+0 0 0 
+You aqcuired a new item! <Banana Peel>
+1 
+Kupo!
+1 
+Kupo!
+1 
+Kupo!
+0 1 
+Kupo!
+
+You aqcuired a new item! <Red Shell>
+0 0 0 
+{"Messages":["You used <Bullet Bill> on meastes; 0 points for meastes!"],"TargetName":"meastes","Points":161207}
+
+0 1 
+Kupo!
+0 1 
+Kupo!
+0 1 
+Kupo!
+1 
+Kupo!
+0 0 0 0 1 
+Kupo!
+0 0 1 
+Kupo!
+1 
+Kupo!
+0 1 
+Kupo!
+0 1 
+Kupo!
+0 0 0 1 
+Kupo!
+
+{"Messages":["You used <Bullet Bill> on meastes; 0 points for meastes!"],"TargetName":"meastes","Points":161254}
+
+0 0 0 0 
+You aqcuired a new item! <Red Shell>
+0 
+You aqcuired a new item! <Warthog>
+0 0 0 1 
+Kupo!
+1 
+Kupo!
+0 0 1 
+Kupo!
+1 
+Kupo!
+1 
+Kupo!
+0 1 
+Kupo!
+0 0 0 1 
+Kupo!
+1 
+Kupo!
+0 0 0 
+{"Messages":["You afflicted ptrandem with <Warthog>."],"TargetName":"ptrandem","Points":161275}
+
+1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 
+{"Messages":["You used <Banana Peel> on amorger; -100 points for amorger!"],"TargetName":"amorger","Points":155864}
+
+3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+
+{"Messages":["You used <Red Shell> on meastes; -100 points for meastes!"],"TargetName":"meastes","Points":161304}
+
+1 3 
+Kupo!
+1 1 1 1 1 1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+
+{"Messages":["You broke rule <Used two items in the span of less than a minute> and got Slow","ptrandem gained 3.0 points! Total points: 161403","Kupo!"],"TargetName":"eweiss","Points":175127}
+
+0 0 0 0 1 
+Kupo!
+0 0 0 0 0 1 
+Kupo!
+0 1 
+Kupo!
+0 0 0 1 
+Kupo!
+0 0 0 1 
+Kupo!
+1 
+Kupo!
+0 0 0 0 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":161422}
+
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 
+You aqcuired a new item! <Red Shell>
+1 1 1 1 1 1 1 1 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":161459}
+
+
+You aqcuired a new item! <Bo Jackson>
+1 1 1 1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 
+You aqcuired a new item! <Biggs>
+1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+1 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":161499}
+
+1 3 
+Kupo!
+1 1 1 1 1 1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 1 1 1 1 1 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":161535}
+
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+1 
+You aqcuired a new item! <Varia Suit>
+1 1 1 3 
+Kupo!
+1 1 1 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":161586}
+
+1 3 
+Kupo!
+1 
+You aqcuired a new item! <Hard Knuckle>
+1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 0 1 
+Kupo!
+0 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":161634}
+
+3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 1 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":161674}
+
+3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+1 1 1 1 1 1 1 1 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":161711}
+
+1 1 1 1 1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 1 1 1 1 1 1 1 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":161749}
+
+3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 1 1 1 1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":161789}
+
+1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 1 1 1 1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 0 1 
+Kupo!
+
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":161825}
+
+0 0 0 0 
+Kupo!
+0 
+Kupo!
+0 
+Kupo!
+0 
+Kupo!
+0 0 0 0 
+Kupo!
+0 0 0 0 0 
+Kupo!
+0 
+Kupo!
+0 
+Kupo!
+0 0 0 0 
+Kupo!
+0 0 0 0 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":161835}
+
+0 0 
+Kupo!
+
+You aqcuired a new item! <Bo Jackson>
+0 0 0 0 0 0 0 
+Kupo!
+0 
+Kupo!
+0 0 0 0 0 0 
+Kupo!
+0 0 0 0 
+Kupo!
+0 0 0 0 0 0 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":161839}
+
+0 0 0 0 0 0 0 0 0 0 
+Kupo!
+0 
+Kupo!
+0 0 0 0 0 0 0 0 
+You aqcuired a new item! <Moogle>
+0 0 0 0 0 0 
+Kupo!
+0 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":161843}
+
+0 0 
+You aqcuired a new item! <Biggs>
+0 0 0 0 0 
+Kupo!
+0 0 
+Kupo!
+
+You aqcuired a new item! <Red Shell>
+0 0 0 
+Kupo!
+0 0 0 0 0 
+Kupo!
+0 
+Kupo!
+0 0 0 0 0 
+Kupo!
+0 0 0 0 
+{"Messages":["You broke rule <Used two items in the span of less than a minute> and got TKO","ptrandem gained 0.25 points! Total points: 161649"],"TargetName":"ptrandem","Points":161649}
+
+0 0 0 0 
+Kupo!
+0 
+Kupo!
+0 0 0 0 0 
+Kupo!
+0 0 
+Kupo!
+0 0 
+Kupo!
+0 0 0 0 
+Kupo!
+0 0 0 
+Kupo!
+0 0 0 
+You aqcuired a new item! <Fire Flower>
+0 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":161660}
+
+0 0 0 0 0 0 0 0 0 0 0 0 
+Kupo!
+0 
+Kupo!
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":161667}
+
+0 0 
+You aqcuired a new item! <Green Shell>
+0 0 0 
+You aqcuired a new item! <Green Shell>
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+You aqcuired a new item! <Hadouken>
+0 0 0 0 0 0 0 0 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":161674}
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":161680}
+
+0 0 0 
+You aqcuired a new item! <Crowbar>
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":161687}
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+You aqcuired a new item! <Mushroom>
+0 0 0 
+You aqcuired a new item! <Pokeball>
+0 0 0 0 0 0 0 0 0 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":161694}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":161721}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Pokeball>
+1 1 1 1 1 1 1 1 1 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":161747}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":161772}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Crowbar>
+1 1 1 1 1 1 1 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":161797}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":161822}
+
+1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <7777>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":161847}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":161874}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":161900}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":161927}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Warthog>
+1 1 1 1 1 1 1 1 1 1 1 1 0 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":161953}
+
+1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Green Shell>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":161980}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":162006}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":162032}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":162059}
+
+1 1 1 1 
+You aqcuired a new item! <Bo Jackson>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":162083}
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":162089}
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":162095}
+
+0 0 0 0 0 0 0 0 0 
+You aqcuired a new item! <Mushroom>
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+{"Messages":["You broke rule <Used two items in the span of less than a minute> and got Slow","ptrandem gained 0.25 points! Total points: 162101"],"TargetName":"ptrandem","Points":162101}
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+You aqcuired a new item! <Wedge>
+0 0 0 0 0 0 0 0 0 0 0 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":162107}
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":162114}
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":162120}
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":162127}
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":162133}
+
+0 0 0 0 0 0 
+You aqcuired a new item! <Gold Ring>
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":162140}
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":162147}
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+{"Messages":["You afflicted ptrandem with <Moogle>."],"TargetName":"ptrandem","Points":162153}
+
+0 0 0 0 0 0 1 
+Kupo!
+0 0 0 0 0 1 
+Kupo!
+0 0 1 
+Kupo!
+0 0 0 0 0 0 1 
+Kupo!
+1 
+Kupo!
+0 
+{"Messages":["You afflicted ptrandem with <Mushroom>."],"TargetName":"ptrandem","Points":162171}
+
+0 1 
+Kupo!
+0 0 0 0 0 0 1 
+Kupo!
+0 1 
+Kupo!
+0 0 0 0 1 
+Kupo!
+1 
+Kupo!
+1 
+Kupo!
+1 
+Kupo!
+1 
+Kupo!
+1 
+Kupo!
+0 0 1 
+Kupo!
+0 
+{"Messages":["You afflicted ptrandem with <Warthog>."],"TargetName":"ptrandem","Points":162193}
+
+1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 

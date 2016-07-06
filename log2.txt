@@ -1,0 +1,4508 @@
+
+You aqcuired a new item! <Fire Flower>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Fire Flower> on nbrunett; -35 points for nbrunett!"],"TargetName":"nbrunett","Points":129649}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Pizza>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Crowbar>
+1 1 1 1 
+You aqcuired a new item! <Morph Ball>
+1 1 
+{"Messages":["You used <Pizza> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":129799}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Master Sword>
+1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Morph Ball> on kdiale; 0 points for kdiale!"],"TargetName":"kdiale","Points":130243}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Crowbar> on kdiale; -200 points for kdiale!"],"TargetName":"kdiale","Points":130074}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Master Sword> on kluhman; -38521 points for kluhman!"],"TargetName":"kluhman","Points":115564}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <UUDDLRLRBA>
+1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <UUDDLRLRBA> on ptrandem; 30 points for ptrandem!","ptrandem gained 1 points! Total points: 130357"],"TargetName":"ptrandem","Points":130387}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Carbuncle>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Pizza>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Pizza> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":130549}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Banana Peel>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Pokeball>
+1 1 1 1 1 1 1 
+{"Messages":["You used <Banana Peel> on nbrunett; -100 points for nbrunett!"],"TargetName":"nbrunett","Points":130320}
+
+1 1 1 1 1 
+You aqcuired a new item! <Charizard>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Gold Ring>
+1 1 1 1 1 1 1 
+{"Messages":["You used <Pokeball> on ptrandem; 35 points for ptrandem!","You found a bonus item! <ba5e16e4-a5b9-434f-9f51-15d07941cea9> | <Fire Flower>"],"TargetName":"ptrandem","Points":130670}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Leisure Suit>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Buster Sword>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Moogle>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You afflicted ptrandem with <Moogle>."],"TargetName":"ptrandem","Points":130836}
+
+1 1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 
+You aqcuired a new item! <Green Shell>
+3 
+Kupo!
+1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 
+{"Messages":["You used <Charizard> on eweiss; -500 points for eweiss!"],"TargetName":"eweiss","Points":131870}
+
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 
+{"Messages":["You used <Green Shell> on eweiss; -100 points for eweiss!"],"TargetName":"eweiss","Points":131889}
+
+1 1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 1 1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 1 1 1 1 1 1 1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+
+You aqcuired a new item! <Moogle>
+1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+
+{"Messages":["You afflicted ptrandem with <Moogle>."],"TargetName":"ptrandem","Points":131120}
+
+3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 1 1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 1 1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 1 1 1 1 1 3 
+Kupo!
+1 1 1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 1 
+You aqcuired a new item! <UUDDLRLRBA>
+1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 
+{"Messages":["You used <UUDDLRLRBA> on ptrandem; 30 points for ptrandem!","ptrandem gained 1 points! Total points: 131344"],"TargetName":"ptrandem","Points":131374}
+
+3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 1 1 
+You aqcuired a new item! <Crowbar>
+1 1 1 1 3 
+Kupo!
+1 1 1 1 1 1 1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+
+{"Messages":["You used <Crowbar> on mglanzer; -200 points for mglanzer!"],"TargetName":"mglanzer","Points":133015}
+
+1 1 1 
+You aqcuired a new item! <Crowbar>
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+
+{"Messages":["You used <Crowbar> on nbrunett; -200 points for nbrunett!"],"TargetName":"nbrunett","Points":131363}
+
+1 1 1 1 1 1 3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+1 
+You aqcuired a new item! <Fire Flower>
+3 
+Kupo!
+1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 1 1 
+{"Messages":["You used <Fire Flower> on mglanzer; -35 points for mglanzer!"],"TargetName":"mglanzer","Points":133254}
+
+1 3 
+Kupo!
+
+You aqcuired a new item! <Skinny Guys>
+1 1 1 1 1 1 1 1 1 1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 1 
+{"Messages":["You used <Buster Sword> on eweiss; -500 points for eweiss!"],"TargetName":"eweiss","Points":134508}
+
+1 1 1 1 1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 
+{"Messages":["You afflicted ptrandem with <Gold Ring>."],"TargetName":"ptrandem","Points":131681}
+
+1 3 
+Kupo!
+1 1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 1 1 1 1 
+You aqcuired a new item! <Mushroom>
+1 1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 1 
+{"Messages":["You used <Skinny Guys> on ptrandem; 0 points for ptrandem!"],"TargetName":"ptrandem","Points":131725}
+
+1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 1 1 1 1 1 1 
+You aqcuired a new item! <Red Shell>
+1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 
+{"Messages":["You used <Red Shell> on mglanzer; -100 points for mglanzer!"],"TargetName":"mglanzer","Points":133781}
+
+3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 1 1 
+You aqcuired a new item! <Mushroom>
+1 1 1 3 
+Kupo!
+
+You aqcuired a new item! <Biggs>
+1 3 
+Kupo!
+
+You aqcuired a new item! <Bo Jackson>
+1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 1 1 1 
+{"Messages":["You used <Biggs> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":131948}
+
+1 1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 
+{"Messages":["You used <Bo Jackson> on ptrandem; 7 points for ptrandem!","ptrandem gained 1 points! Total points: 131996"],"TargetName":"ptrandem","Points":132003}
+
+1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+1 
+You aqcuired a new item! <Rail Gun>
+1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 1 1 1 1 1 1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+
+You aqcuired a new item! <Hard Knuckle>
+1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 
+You aqcuired a new item! <Pokeball>
+1 1 1 1 3 
+Kupo!
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Pokeball> on ptrandem; 35 points for ptrandem!","You found a bonus item! <d78a497a-e41c-43e3-8091-44eafcd5a985> | <Mushroom>"],"TargetName":"ptrandem","Points":132205}
+
+1 1 1 1 1 1 
+You aqcuired a new item! <Banana Peel>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Hard Knuckle> on mglanzer; -200 points for mglanzer!"],"TargetName":"mglanzer","Points":133832}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Green Shell>
+1 1 1 1 1 1 1 1 
+{"Messages":["You used <Banana Peel> on nbrunett; -100 points for nbrunett!"],"TargetName":"nbrunett","Points":132035}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Warthog>
+1 1 1 1 
+You aqcuired a new item! <Da Da Da Da Daaa Da DAA da da>
+1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You afflicted ptrandem with <Warthog>."],"TargetName":"ptrandem","Points":132289}
+
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You used <Green Shell> on mglanzer; 0 points for mglanzer!"],"TargetName":"mglanzer","Points":133898}
+
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Mushroom>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Bo Jackson>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <UUDDLRLRBA>
+2 2 2 2 2 
+{"Messages":["You used <Bo Jackson> on ptrandem; 7 points for ptrandem!","ptrandem gained 2 points! Total points: 132511"],"TargetName":"ptrandem","Points":132518}
+
+2 2 2 2 2 2 2 
+You aqcuired a new item! <Hadouken>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You used <UUDDLRLRBA> on ptrandem; 30 points for ptrandem!","ptrandem gained 2 points! Total points: 132574"],"TargetName":"ptrandem","Points":132604}
+
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You afflicted mglanzer with <Hadouken>."],"TargetName":"mglanzer","Points":134140}
+
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Gold Ring>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Mushroom>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Red Shell>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Red Shell> on mglanzer; -100 points for mglanzer!"],"TargetName":"mglanzer","Points":134040}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Fire Flower>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Fire Flower> on nbrunett; -35 points for nbrunett!"],"TargetName":"nbrunett","Points":133037}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Bo Jackson>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <UUDDLRLRBA>
+1 1 1 1 
+{"Messages":["You used <Bo Jackson> on ptrandem; 7 points for ptrandem!","ptrandem gained 1 points! Total points: 132815"],"TargetName":"ptrandem","Points":132822}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <UUDDLRLRBA> on ptrandem; 30 points for ptrandem!","ptrandem gained 1 points! Total points: 132350"],"TargetName":"ptrandem","Points":132380}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Bo Jackson>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Bo Jackson> on ptrandem; 7 points for ptrandem!","ptrandem gained 1 points! Total points: 132490"],"TargetName":"ptrandem","Points":132497}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Roger Wilco>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Mushroom>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Warthog>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You afflicted ptrandem with <Warthog>."],"TargetName":"ptrandem","Points":132662}
+
+2 2 
+You aqcuired a new item! <Skinny Guys>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Holy Water>
+2 2 2 2 
+You aqcuired a new item! <Mushroom>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You afflicted kdiale with <Holy Water>."],"TargetName":"kdiale","Points":133469}
+
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Biggs>
+2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You used <Biggs> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":132878}
+
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Pizza>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Fire Flower>
+2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You used <Pizza> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":133204}
+
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You used <Fire Flower> on nbrunett; -35 points for nbrunett!"],"TargetName":"nbrunett","Points":133718}
+
+2 2 2 
+You aqcuired a new item! <Warthog>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You afflicted ptrandem with <Warthog>."],"TargetName":"ptrandem","Points":133312}
+
+
+You aqcuired a new item! <Green Shell>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Wedge>
+2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You used <Wedge> on ptrandem; 50 points for ptrandem!","ptrandem gained 2 points! Total points: 133366"],"TargetName":"ptrandem","Points":133416}
+
+2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Mushroom>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You used <Green Shell> on nbrunett; 0 points for nbrunett!"],"TargetName":"nbrunett","Points":133872}
+
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Biggs>
+2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Green Shell>
+2 2 2 2 2 2 2 2 
+{"Messages":["You used <Biggs> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":133630}
+
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 1 1 1 1 1 1 
+{"Messages":["You used <Green Shell> on nbrunett; 0 points for nbrunett!"],"TargetName":"nbrunett","Points":134025}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Gold Ring>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Biggs>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Biggs> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":133960}
+
+1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Crowbar>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Wedge>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Green Shell>
+1 1 
+{"Messages":["You used <Wedge> on ptrandem; 50 points for ptrandem!","ptrandem gained 1 points! Total points: 134127"],"TargetName":"ptrandem","Points":134177}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Wedge>
+1 
+{"Messages":["You used <Green Shell> on nbrunett; 0 points for nbrunett!"],"TargetName":"nbrunett","Points":134575}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Wedge> on ptrandem; 50 points for ptrandem!","ptrandem gained 1 points! Total points: 134232"],"TargetName":"ptrandem","Points":134282}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Cardboard Box>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Mushroom>
+1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Pizza>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Buffalo>
+1 1 1 
+{"Messages":["You used <Pizza> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":134496}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Buffalo> on ptrandem; 100 points for ptrandem!","ptrandem gained 1 points! Total points: 134523"],"TargetName":"ptrandem","Points":134623}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Red Shell>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Warthog>
+1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You afflicted ptrandem with <Warthog>."],"TargetName":"ptrandem","Points":134732}
+
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You used <Red Shell> on nbrunett; -100 points for nbrunett!"],"TargetName":"nbrunett","Points":135130}
+
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You used <Crowbar> on nbrunett; -200 points for nbrunett!"],"TargetName":"nbrunett","Points":134933}
+
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Tanooki Suit>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Bo Jackson>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You used <Bo Jackson> on ptrandem; 7 points for ptrandem!","ptrandem gained 2 points! Total points: 135004"],"TargetName":"ptrandem","Points":135011}
+
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Biggs>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You used <Biggs> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":135229}
+
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Miniature Giant Space Hamster>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Pizza>
+2 2 2 
+You aqcuired a new item! <Varia Suit>
+2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Green Shell>
+2 2 2 2 
+{"Messages":["You used <Pizza> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":135559}
+
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You used <Green Shell> on mglanzer; 0 points for mglanzer!"],"TargetName":"mglanzer","Points":137553}
+
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Hard Knuckle>
+1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Hard Knuckle> on mglanzer; -200 points for mglanzer!"],"TargetName":"mglanzer","Points":137425}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Rush the Dog>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Green Shell>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Green Shell> on mglanzer; 0 points for mglanzer!"],"TargetName":"mglanzer","Points":137674}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Gold Ring>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Wedge>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Wedge> on ptrandem; 50 points for ptrandem!","ptrandem gained 1 points! Total points: 135860"],"TargetName":"ptrandem","Points":135910}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Red Shell>
+1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Red Shell> on mglanzer; -100 points for mglanzer!"],"TargetName":"mglanzer","Points":137959}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Chocobo>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Tanooki Suit>
+1 1 1 
+You aqcuired a new item! <Pizza>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Pizza> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":136128}
+
+1 1 1 1 1 1 1 
+You aqcuired a new item! <Pokeball>
+1 1 1 1 
+You aqcuired a new item! <Green Shell>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Pokeball> on ptrandem; 35 points for ptrandem!","You found a bonus item! <bb16b000-58e9-4c1d-829f-1a70fe7e841d> | <Pizza>"],"TargetName":"ptrandem","Points":136191}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Charizard>
+1 
+{"Messages":["You used <Green Shell> on mglanzer; -100 points for mglanzer!"],"TargetName":"mglanzer","Points":138208}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Charizard> on revans; -500 points for revans!"],"TargetName":"revans","Points":137564}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Hard Knuckle>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Hard Knuckle> on revans; -200 points for revans!"],"TargetName":"revans","Points":137307}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Leisure Suit>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Banana Peel>
+1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Crowbar>
+1 1 1 1 1 1 1 1 
+{"Messages":["You used <Banana Peel> on nbrunett; -100 points for nbrunett!"],"TargetName":"nbrunett","Points":135248}
+
+1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Fire Flower>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Crowbar> on revans; -200 points for revans!"],"TargetName":"revans","Points":137221}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Fire Flower> on revans; -35 points for revans!"],"TargetName":"revans","Points":137226}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 
+You aqcuired a new item! <Crowbar>
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+{"Messages":["You used <Crowbar> on revans; -200 points for revans!"],"TargetName":"revans","Points":137114}
+
+0 
+You aqcuired a new item! <Pizza>
+0 0 
+You aqcuired a new item! <Green Shell>
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+{"Messages":["You used <Pizza> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":136506}
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 
+You got BURNED
+0 0 0 0 0 
+You aqcuired a new item! <Crowbar>
+0 0 0 0 0 0 
+{"Messages":["You used <Green Shell> on revans; -100 points for revans!"],"TargetName":"revans","Points":137084}
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+{"Messages":["You used <Crowbar> on revans; -200 points for revans!"],"TargetName":"revans","Points":136911}
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+You aqcuired a new item! <Pizza>
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+{"Messages":["You used <Pizza> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":136629}
+
+0 0 0 0 0 0 0 0 0 
+You aqcuired a new item! <Mushroom>
+4 
+You got BURNED
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+You aqcuired a new item! <Red Shell>
+0 0 0 0 0 0 
+{"Messages":["You used <Red Shell> on revans; -100 points for revans!"],"TargetName":"revans","Points":137153}
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+You aqcuired a new item! <Green Shell>
+0 0 0 0 0 0 0 0 0 0 0 0 0 4 
+You got BURNED
+0 0 0 0 0 0 0 
+{"Messages":["You used <Green Shell> on revans; -100 points for revans!"],"TargetName":"revans","Points":137117}
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+You aqcuired a new item! <Mushroom>
+0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Crowbar>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Wedge>
+1 1 1 1 
+You aqcuired a new item! <Green Shell>
+1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Hadouken>
+1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Crowbar>
+1 1 
+{"Messages":["You used <Wedge> on ptrandem; 50 points for ptrandem!","ptrandem gained 1 points! Total points: 136842"],"TargetName":"ptrandem","Points":136892}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You afflicted revans with <Hadouken>."],"TargetName":"revans","Points":137481}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Varia Suit>
+1 1 
+{"Messages":["You used <Green Shell> on revans; -100 points for revans!"],"TargetName":"revans","Points":137422}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Crowbar> on revans; -200 points for revans!"],"TargetName":"revans","Points":137154}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Hadouken>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You afflicted revans with <Hadouken>."],"TargetName":"revans","Points":137284}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Hard Knuckle>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <UUDDLRLRBA>
+1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Hard Knuckle> on revans; -200 points for revans!"],"TargetName":"revans","Points":137118}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Green Shell>
+1 1 1 1 1 1 1 
+{"Messages":["You used <UUDDLRLRBA> on ptrandem; 30 points for ptrandem!","ptrandem gained 1 points! Total points: 137165"],"TargetName":"ptrandem","Points":137195}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Crowbar> on revans; -200 points for revans!"],"TargetName":"revans","Points":137002}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Green Shell> on revans; 0 points for revans!"],"TargetName":"revans","Points":137044}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+No such item found
+
+
+Error deploying usage with id 3843b075-50de-4dd0-8607-17fe67271c94
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Skinny Guys>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Warthog>
+1 1 1 1 1 1 1 
+{"Messages":["You afflicted ptrandem with <Warthog>."],"TargetName":"ptrandem","Points":137233}
+
+2 2 2 2 2 2 2 
+You aqcuired a new item! <Wedge>
+2 2 2 2 
+You aqcuired a new item! <Green Shell>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You used <Wedge> on ptrandem; 50 points for ptrandem!","ptrandem gained 2 points! Total points: 137287"],"TargetName":"ptrandem","Points":137337}
+
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You used <Green Shell> on nbrunett; -100 points for nbrunett!"],"TargetName":"nbrunett","Points":137324}
+
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Crowbar>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Biggs>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You used <Biggs> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":137987}
+
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Mushroom>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Fire Flower>
+2 2 2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You used <Crowbar> on meastes; -100 points for meastes!"],"TargetName":"meastes","Points":138928}
+
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 1 1 1 
+You aqcuired a new item! <Bo Jackson>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Bo Jackson> on ptrandem; 7 points for ptrandem!","ptrandem gained 1 points! Total points: 138169"],"TargetName":"ptrandem","Points":138176}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Red Shell>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Mushroom>
+1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Mushroom>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+You aqcuired a new item! <Fire Flower>
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+{"Messages":["You used <Fire Flower> on nbrunett; -35 points for nbrunett!"],"TargetName":"nbrunett","Points":138291}
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+{"Messages":["You used <Fire Flower> on nbrunett; -35 points for nbrunett!"],"TargetName":"nbrunett","Points":138309}
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+You aqcuired a new item! <Mushroom>
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+You aqcuired a new item! <Pizza>
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+{"Messages":["You used <Pizza> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":138436}
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+{"Messages":["You used <Red Shell> on nbrunett; -100 points for nbrunett!"],"TargetName":"nbrunett","Points":138494}
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+You aqcuired a new item! <Pony>
+0 0 0 0 0 0 0 0 0 0 0 
+You aqcuired a new item! <Wedge>
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+{"Messages":["You used <Wedge> on ptrandem; 50 points for ptrandem!","ptrandem gained 0.75 points! Total points: 138538"],"TargetName":"ptrandem","Points":138588}
+
+4 
+You got BURNED
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+You aqcuired a new item! <Green Shell>
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+{"Messages":["You used <Green Shell> on amatmati; 0 points for amatmati!"],"TargetName":"amatmati","Points":138606}
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Banana Peel>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Cardboard Box>
+1 
+{"Messages":["You used <Banana Peel> on revans; -100 points for revans!"],"TargetName":"revans","Points":138359}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Wedge>
+1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Wedge> on ptrandem; 50 points for ptrandem!","ptrandem gained 1 points! Total points: 138778"],"TargetName":"ptrandem","Points":138828}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Warthog>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Cardboard Box>
+1 
+{"Messages":["You afflicted ptrandem with <Warthog>."],"TargetName":"ptrandem","Points":138881}
+
+
+You aqcuired a new item! <Wedge>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You used <Wedge> on ptrandem; 50 points for ptrandem!","ptrandem gained 2 points! Total points: 138935"],"TargetName":"ptrandem","Points":138985}
+
+2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Mushroom>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Cardboard Box>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Portal Nun>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You afflicted ptrandem with <Portal Nun>."],"TargetName":"ptrandem","Points":139313}
+
+2 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+2 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+2 
+The nun following you says: "There will be cake!"
+2 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+2 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+2 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+2 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+2 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+2 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+2 
+The nun following you says: "Are you sure you want to do that?"
+2 
+The nun following you says: "There will be cake!"
+2 
+The nun following you says: "There will be cake!"
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+
+You aqcuired a new item! <Warthog>
+2 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+2 
+The nun following you says: "There will be cake!"
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+2 
+The nun following you says: "Are you sure you want to do that?"
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+2 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+2 
+The nun following you says: "Are you sure you want to do that?"
+2 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+2 
+The nun following you says: "Are you sure you want to do that?"
+
+{"Messages":["You afflicted ptrandem with <Warthog>."],"TargetName":"ptrandem","Points":139363}
+
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+2 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+
+You aqcuired a new item! <Mushroom>
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+2 
+The nun following you says: "There will be cake!"
+2 
+The nun following you says: "There will be cake!"
+2 
+The nun following you says: "There will be cake!"
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+2 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+2 
+The nun following you says: "Are you sure you want to do that?"
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+2 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+2 
+The nun following you says: "Are you sure you want to do that?"
+2 
+The nun following you says: "There will be cake!"
+2 
+The nun following you says: "Are you sure you want to do that?"
+2 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+2 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+2 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+2 
+The nun following you says: "There will be cake!"
+2 
+The nun following you says: "There will be cake!"
+2 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+2 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+2 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+2 
+The nun following you says: "There will be cake!"
+2 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+2 
+The nun following you says: "There will be cake!"
+2 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+2 
+The nun following you says: "Are you sure you want to do that?"
+2 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+2 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+2 
+The nun following you says: "Are you sure you want to do that?"
+2 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+2 
+The nun following you says: "There will be cake!"
+2 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+2 
+The nun following you says: "Are you sure you want to do that?"
+2 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+2 
+The nun following you says: "There will be cake!"
+
+You aqcuired a new item! <Pokeball>
+2 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+2 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+2 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+2 
+The nun following you says: "Are you sure you want to do that?"
+2 
+The nun following you says: "There will be cake!"
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+2 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+
+You aqcuired a new item! <Wedge>
+2 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+2 
+The nun following you says: "Are you sure you want to do that?"
+2 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+2 
+The nun following you says: "There will be cake!"
+2 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+2 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+2 
+The nun following you says: "There will be cake!"
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+2 
+The nun following you says: "Are you sure you want to do that?"
+2 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+2 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+2 
+The nun following you says: "Are you sure you want to do that?"
+2 
+The nun following you says: "Are you sure you want to do that?"
+
+You aqcuired a new item! <Hadouken>
+2 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+2 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+2 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+2 
+The nun following you says: "Are you sure you want to do that?"
+2 
+The nun following you says: "There will be cake!"
+2 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+2 
+The nun following you says: "There will be cake!"
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+2 
+The nun following you says: "Are you sure you want to do that?"
+2 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+2 
+The nun following you says: "Are you sure you want to do that?"
+2 
+The nun following you says: "Are you sure you want to do that?"
+2 
+The nun following you says: "Are you sure you want to do that?"
+
+{"Messages":["You used <Wedge> on ptrandem; 50 points for ptrandem!","ptrandem gained 2 points! Total points: 139515","The nun following you says: \"Are you sure you want to do that?\""],"TargetName":"ptrandem","Points":139565}
+
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+2 
+The nun following you says: "There will be cake!"
+2 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+2 
+The nun following you says: "Are you sure you want to do that?"
+2 
+The nun following you says: "Are you sure you want to do that?"
+
+You aqcuired a new item! <Fire Flower>
+2 
+The nun following you says: "Are you sure you want to do that?"
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+2 
+The nun following you says: "There will be cake!"
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+2 
+The nun following you says: "Are you sure you want to do that?"
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+2 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+2 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+2 
+The nun following you says: "There will be cake!"
+2 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+2 
+The nun following you says: "There will be cake!"
+2 
+The nun following you says: "There will be cake!"
+2 
+The nun following you says: "There will be cake!"
+
+{"Messages":["You used <Pokeball> on ptrandem; 35 points for ptrandem!","You found a bonus item! <be51368b-6825-432d-b0e0-874128e9cd60> | <Gold Ring>"],"TargetName":"ptrandem","Points":139648}
+
+2 
+The nun following you says: "There will be cake!"
+2 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+2 
+The nun following you says: "Are you sure you want to do that?"
+2 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+2 
+The nun following you says: "There will be cake!"
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+2 
+The nun following you says: "There will be cake!"
+2 
+The nun following you says: "There will be cake!"
+2 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+2 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+2 
+The nun following you says: "There will be cake!"
+2 
+The nun following you says: "Are you sure you want to do that?"
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+2 
+The nun following you says: "There will be cake!"
+2 
+The nun following you says: "There will be cake!"
+2 
+The nun following you says: "There will be cake!"
+2 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+2 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+2 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+2 
+The nun following you says: "Are you sure you want to do that?"
+2 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+2 
+The nun following you says: "There will be cake!"
+2 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+2 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+
+{"Messages":["You afflicted nbrunett with <Hadouken>."],"TargetName":"nbrunett","Points":139262}
+
+2 
+The nun following you says: "There will be cake!"
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+2 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+2 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+2 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+2 
+The nun following you says: "There will be cake!"
+2 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+2 
+The nun following you says: "Are you sure you want to do that?"
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+2 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+2 
+The nun following you says: "Are you sure you want to do that?"
+2 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+2 
+The nun following you says: "There will be cake!"
+2 
+The nun following you says: "Are you sure you want to do that?"
+2 
+The nun following you says: "Are you sure you want to do that?"
+2 
+The nun following you says: "There will be cake!"
+2 
+The nun following you says: "Are you sure you want to do that?"
+2 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+2 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+2 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+2 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+
+{"Messages":["You used <Fire Flower> on meastes; -35 points for meastes!"],"TargetName":"meastes","Points":139702}
+
+2 
+The nun following you says: "Are you sure you want to do that?"
+2 
+The nun following you says: "Are you sure you want to do that?"
+2 
+The nun following you says: "There will be cake!"
+2 
+The nun following you says: "Are you sure you want to do that?"
+2 
+The nun following you says: "There will be cake!"
+
+You aqcuired a new item! <Fire Flower>
+2 
+The nun following you says: "There will be cake!"
+2 
+The nun following you says: "Are you sure you want to do that?"
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+2 
+The nun following you says: "There will be cake!"
+2 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+9 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+9 
+The nun following you says: "There will be cake!"
+9 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+9 
+The nun following you says: "Are you sure you want to do that?"
+9 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+9 
+The nun following you says: "Are you sure you want to do that?"
+9 
+The nun following you says: "There will be cake!"
+9 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+
+You aqcuired a new item! <Bullet Bill>
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+
+{"Messages":["You used <Bullet Bill> on revans; 0 points for revans!"],"TargetName":"revans","Points":139813}
+
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+
+You aqcuired a new item! <Biggs>
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+
+{"Messages":["You used <Biggs> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":139778}
+
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+
+You aqcuired a new item! <Mushroom>
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+
+{"Messages":["You used <Fire Flower> on amatmati; -35 points for amatmati!"],"TargetName":"amatmati","Points":139842}
+
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+
+You aqcuired a new item! <Banana Peel>
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+
+You aqcuired a new item! <Red Shell>
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+
+{"Messages":["You used <Banana Peel> on meastes; -100 points for meastes!"],"TargetName":"meastes","Points":139648}
+
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "There will be cake!"
+
+{"Messages":["You used <Red Shell> on ptrandem; -100 points for ptrandem!","ptrandem gained 1 points! Total points: 139704","The nun following you says: \"There will be cake!\""],"TargetName":"ptrandem","Points":139604}
+
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+
+You aqcuired a new item! <Fire Flower>
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+
+{"Messages":["You used <Fire Flower> on revans; -35 points for revans!"],"TargetName":"revans","Points":139646}
+
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "There will be cake!"
+
+You aqcuired a new item! <Mushroom>
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+
+You aqcuired a new item! <UUDDLRLRBA>
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+
+{"Messages":["You used <UUDDLRLRBA> on ptrandem; 30 points for ptrandem!","ptrandem gained 1 points! Total points: 139698","The nun following you says: \"Would you like a companion cube? GLaDOS gives these as gifts!\""],"TargetName":"ptrandem","Points":139728}
+
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+
+You aqcuired a new item! <Wedge>
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+
+{"Messages":["You used <Wedge> on ptrandem; 50 points for ptrandem!","ptrandem gained 1 points! Total points: 139774","The nun following you says: \"Have you heard of our lord and savior GLaDOS?\""],"TargetName":"ptrandem","Points":139824}
+
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Are you sure you want to do that?"
+
+You aqcuired a new item! <Green Shell>
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+
+{"Messages":["You used <Green Shell> on revans; -100 points for revans!"],"TargetName":"revans","Points":140087}
+
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+
+You aqcuired a new item! <Mushroom>
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+
+You aqcuired a new item! <Master Sword>
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+
+{"Messages":["You used <Master Sword> on nbrunett; -34955 points for nbrunett!"],"TargetName":"nbrunett","Points":104867}
+
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "Would you like a companion cube? GLaDOS gives these as gifts!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "There will be cake!"
+1 
+The nun following you touches her elbow and says: "GLaDOS is still alive!"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Are you sure you want to do that?"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 
+The nun following you says: "Have you heard of our lord and savior GLaDOS?"
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Da Da Da Da Daaa Da DAA da da>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Fat Guys>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Biggs>
+1 1 1 1 1 1 1 1 
+{"Messages":["You used <Biggs> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":139829}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Hard Knuckle>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Hard Knuckle> on amatmati; -200 points for amatmati!"],"TargetName":"amatmati","Points":139815}
+
+1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Gold Ring>
+1 1 1 1 1 1 1 
+You aqcuired a new item! <Cardboard Box>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <UUDDLRLRBA>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <UUDDLRLRBA> on ptrandem; 30 points for ptrandem!","ptrandem gained 1 points! Total points: 140080"],"TargetName":"ptrandem","Points":140110}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Banana Peel>
+1 1 1 
+You aqcuired a new item! <Tanooki Suit>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Banana Peel> on revans; -100 points for revans!"],"TargetName":"revans","Points":140039}
+
+
+You aqcuired a new item! <UUDDLRLRBA>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <UUDDLRLRBA> on ptrandem; 30 points for ptrandem!","ptrandem gained 1 points! Total points: 140127"],"TargetName":"ptrandem","Points":140157}
+
+1 
+You aqcuired a new item! <Pizza>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Pizza> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":140232}
+
+1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Pizza>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Pizza> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":140307}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Green Shell>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Green Shell> on amatmati; -100 points for amatmati!"],"TargetName":"amatmati","Points":140314}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Mushroom>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Wedge>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Wedge> on ptrandem; 50 points for ptrandem!","ptrandem gained 1 points! Total points: 140484"],"TargetName":"ptrandem","Points":140534}
+
+1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Biggs>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Biggs> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":140509}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+You aqcuired a new item! <Get Over Here>
+0 0 0 0 0 0 0 0 0 0 0 0 
+You aqcuired a new item! <Cardboard Box>
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+You aqcuired a new item! <Buffalo>
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+{"Messages":["You used <Buffalo> on ptrandem; 100 points for ptrandem!","ptrandem gained 0.75 points! Total points: 140588"],"TargetName":"ptrandem","Points":140688}
+
+0 0 0 0 0 0 4 
+You got BURNED
+0 
+You aqcuired a new item! <Tanooki Suit>
+0 0 0 0 0 0 0 0 0 0 0 4 
+You got BURNED
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+You aqcuired a new item! <Mushroom>
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+You aqcuired a new item! <Buffalo>
+0 0 0 0 0 0 0 0 0 0 0 0 
+{"Messages":["You used <Buffalo> on ptrandem; 100 points for ptrandem!","ptrandem gained 0.75 points! Total points: 140562"],"TargetName":"ptrandem","Points":140662}
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Fire Flower>
+1 1 1 
+You aqcuired a new item! <Cardboard Box>
+1 1 1 1 1 
+{"Messages":["You used <Fire Flower> on meastes; -35 points for meastes!"],"TargetName":"meastes","Points":140824}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <UUDDLRLRBA>
+1 1 1 
+You aqcuired a new item! <Mushroom>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <UUDDLRLRBA> on ptrandem; 30 points for ptrandem!","ptrandem gained 1 points! Total points: 141134"],"TargetName":"ptrandem","Points":141164}
+
+1 1 
+You aqcuired a new item! <Green Shell>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Green Shell> on kluhman; 0 points for kluhman!"],"TargetName":"kluhman","Points":141262}
+
+1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Fire Flower>
+1 1 1 1 1 
+You aqcuired a new item! <Cardboard Box>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Golden Gun>
+1 1 1 1 1 1 1 
+{"Messages":["You used <Fire Flower> on meastes; -35 points for meastes!"],"TargetName":"meastes","Points":140989}
+
+1 1 1 1 
+You aqcuired a new item! <SPNKR>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Golden Gun> on kluhman; 0 points for kluhman!"],"TargetName":"kluhman","Points":141231}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <SPNKR> on kluhman; -100 points for kluhman!"],"TargetName":"kluhman","Points":141286}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Crowbar>
+1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Crowbar> on meastes; -200 points for meastes!"],"TargetName":"meastes","Points":141107}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Crowbar>
+1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Warthog>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You afflicted ptrandem with <Warthog>."],"TargetName":"ptrandem","Points":141333}
+
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Green Shell>
+2 2 2 
+{"Messages":["You used <Crowbar> on sahart; -200 points for sahart!"],"TargetName":"sahart","Points":141267}
+
+2 2 
+You aqcuired a new item! <Pizza>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You used <Pizza> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":141483}
+
+2 2 2 2 2 
+You aqcuired a new item! <Red Shell>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You used <Green Shell> on meastes; 0 points for meastes!"],"TargetName":"meastes","Points":141633}
+
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You used <Red Shell> on jheilema; -100 points for jheilema!"],"TargetName":"jheilema","Points":141528}
+
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Bo Jackson>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You used <Bo Jackson> on ptrandem; 7 points for ptrandem!","ptrandem gained 2 points! Total points: 141681"],"TargetName":"ptrandem","Points":141688}
+
+2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Pokeball>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You used <Pokeball> on ptrandem; 35 points for ptrandem!","You found a bonus item! <bc3fb490-2651-4dbd-b5ef-89a6eb711fc2> | <UUDDLRLRBA>"],"TargetName":"ptrandem","Points":141673}
+
+2 2 2 2 
+You aqcuired a new item! <Mushroom>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <7777>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Golden Gun>
+2 2 2 2 
+You aqcuired a new item! <Warthog>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You afflicted ptrandem with <Warthog>."],"TargetName":"ptrandem","Points":141773}
+
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You used <Golden Gun> on nhotalli; 0 points for nhotalli!"],"TargetName":"nhotalli","Points":142019}
+
+2 2 
+You aqcuired a new item! <UUDDLRLRBA>
+2 2 2 2 2 2 
+You aqcuired a new item! <Moogle>
+2 2 2 2 2 2 2 2 2 2 1 1 1 1 1 1 
+{"Messages":["You afflicted ptrandem with <Moogle>."],"TargetName":"ptrandem","Points":141865}
+
+1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 3 
+Kupo!
+
+{"Messages":["You used <UUDDLRLRBA> on ptrandem; 30 points for ptrandem!","ptrandem gained 3 points! Total points: 141903","Kupo!"],"TargetName":"ptrandem","Points":141933}
+
+1 3 
+Kupo!
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Pokeball>
+1 
+You aqcuired a new item! <Red Shell>
+1 3 
+Kupo!
+1 1 1 1 
+You aqcuired a new item! <Tanooki Suit>
+1 
+No such item found
+
+
+Error deploying usage with id 4b1ec57e-8fe4-4a78-82dc-5f4fe020a4cd
+3 
+Kupo!
+1 1 1 1 1 1 1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+
+You aqcuired a new item! <Crowbar>
+1 1 1 1 1 1 1 1 
+{"Messages":["You used <Pokeball> on ptrandem; 35 points for ptrandem!","You found a bonus item! <aa33d8fc-f7d5-4016-af33-2ae418d9e2b7> | <Pandora's Box>"],"TargetName":"ptrandem","Points":142028}
+
+1 
+You aqcuired a new item! <Pizza>
+1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 1 1 1 1 1 1 1 3 
+Kupo!
+1 1 1 1 
+{"Messages":["You used <Pizza> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":142109}
+
+1 1 1 1 1 1 1 3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+1 
+{"Messages":["You used <Red Shell> on sahart; -100 points for sahart!"],"TargetName":"sahart","Points":142101}
+
+3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 3 
+Kupo!
+
+{"Messages":["You used <Crowbar> on nhotalli; -200 points for nhotalli!"],"TargetName":"nhotalli","Points":142113}
+
+1 1 1 1 1 3 
+Kupo!
+1 1 1 1 1 1 1 1 1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 1 1 1 1 
+You aqcuired a new item! <Leeroy Jenkins>
+1 3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+1 1 1 1 1 1 
+You aqcuired a new item! <Holy Water>
+1 1 1 1 1 1 
+You aqcuired a new item! <Fat Guys>
+1 1 1 1 3 
+Kupo!
+1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You afflicted sahart with <Holy Water>."],"TargetName":"sahart","Points":142302}
+
+1 3 
+Kupo!
+
+You aqcuired a new item! <Banana Peel>
+1 3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 
+{"Messages":["You used <Banana Peel> on sahart; -100 points for sahart!"],"TargetName":"sahart","Points":142141}
+
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 1 1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 
+You aqcuired a new item! <Cardboard Box>
+1 1 1 1 1 1 1 1 3 
+Kupo!
+1 1 1 1 
+You aqcuired a new item! <Mushroom>
+1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+
+You aqcuired a new item! <Wedge>
+1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 
+You aqcuired a new item! <Banana Peel>
+1 3 
+Kupo!
+
+You aqcuired a new item! <Hadouken>
+3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+
+You aqcuired a new item! <Warthog>
+3 
+Kupo!
+1 
+You aqcuired a new item! <Wedge>
+1 1 1 
+{"Messages":["You used <Wedge> on ptrandem; 50 points for ptrandem!","ptrandem gained 1 points! Total points: 142622"],"TargetName":"ptrandem","Points":142672}
+
+1 1 
+You aqcuired a new item! <Mushroom>
+3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 1 1 1 1 
+{"Messages":["You afflicted ptrandem with <Warthog>."],"TargetName":"ptrandem","Points":142707}
+
+2 2 6 
+Kupo!
+6 
+Kupo!
+2 6 
+Kupo!
+2 2 6 
+Kupo!
+2 2 2 2 2 2 2 2 2 2 6 
+Kupo!
+2 2 6 
+Kupo!
+2 
+{"Messages":["You used <Wedge> on ptrandem; 50 points for ptrandem!","ptrandem gained 2 points! Total points: 142779"],"TargetName":"ptrandem","Points":142829}
+
+2 2 2 2 2 6 
+Kupo!
+2 2 6 
+Kupo!
+2 6 
+Kupo!
+6 
+Kupo!
+
+You aqcuired a new item! <Hadouken>
+2 2 2 2 2 2 2 2 6 
+Kupo!
+2 2 6 
+Kupo!
+
+{"Messages":["You used <Banana Peel> on sahart; -100 points for sahart!"],"TargetName":"sahart","Points":142544}
+
+6 
+Kupo!
+2 2 2 6 
+Kupo!
+2 6 
+Kupo!
+6 
+Kupo!
+6 
+Kupo!
+2 2 2 6 
+Kupo!
+2 6 
+Kupo!
+2 2 6 
+Kupo!
+6 
+Kupo!
+2 2 2 6 
+Kupo!
+
+{"Messages":["You afflicted nhotalli with <Hadouken>."],"TargetName":"nhotalli","Points":142980}
+
+2 6 
+Kupo!
+2 2 2 6 
+Kupo!
+2 2 2 2 6 
+Kupo!
+2 2 2 2 6 
+Kupo!
+2 6 
+Kupo!
+2 6 
+Kupo!
+2 6 
+Kupo!
+2 6 
+Kupo!
+
+{"Messages":["You afflicted jheilema with <Hadouken>."],"TargetName":"jheilema","Points":143197}
+
+6 
+Kupo!
+2 2 2 2 2 2 6 
+Kupo!
+2 2 6 
+Kupo!
+2 6 
+Kupo!
+2 2 2 2 6 
+Kupo!
+6 
+Kupo!
+2 2 6 
+Kupo!
+2 2 2 6 
+Kupo!
+6 
+Kupo!
+6 
+Kupo!
+2 2 2 2 2 2 6 
+Kupo!
+6 
+Kupo!
+2 2 
+You aqcuired a new item! <Crowbar>
+2 2 2 2 2 2 2 2 2 6 
+Kupo!
+6 
+Kupo!
+2 2 6 
+Kupo!
+6 
+Kupo!
+2 2 6 
+Kupo!
+2 6 
+Kupo!
+2 2 6 
+Kupo!
+2 6 
+Kupo!
+2 2 6 
+Kupo!
+6 
+Kupo!
+2 2 
+{"Messages":["You used <Crowbar> on jheilema; -200 points for jheilema!"],"TargetName":"jheilema","Points":143133}
+
+2 2 6 
+Kupo!
+2 2 2 6 
+Kupo!
+2 6 
+Kupo!
+2 6 
+Kupo!
+2 2 2 6 
+Kupo!
+2 2 6 
+Kupo!
+2 6 
+Kupo!
+6 
+Kupo!
+2 2 2 2 2 2 6 
+Kupo!
+2 6 
+Kupo!
+6 
+Kupo!
+6 
+Kupo!
+2 6 
+Kupo!
+2 2 2 2 2 2 2 6 
+Kupo!
+2 2 6 
+Kupo!
+6 
+Kupo!
+2 2 2 2 2 6 
+Kupo!
+2 6 
+Kupo!
+6 
+Kupo!
+6 
+Kupo!
+6 
+Kupo!
+2 
+You aqcuired a new item! <Biggs>
+2 6 
+Kupo!
+2 6 
+Kupo!
+2 1 4 
+Kupo!
+1 1 1 1 1 
+{"Messages":["You used <Biggs> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":143575}
+
+1 1 1 4 
+Kupo!
+4 
+Kupo!
+1 1 1 4 
+Kupo!
+1 4 
+Kupo!
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Buffalo>
+1 1 1 1 1 1 
+{"Messages":["You used <Buffalo> on ptrandem; 100 points for ptrandem!","ptrandem gained 1.50 points! Total points: 143495"],"TargetName":"ptrandem","Points":143595}
+
+1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Da Da Da Da Daaa Da DAA da da>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+You aqcuired a new item! <UUDDLRLRBA>
+0 0 
+You aqcuired a new item! <Crowbar>
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+{"Messages":["You used <UUDDLRLRBA> on ptrandem; 30 points for ptrandem!","ptrandem gained 0.75 points! Total points: 143647"],"TargetName":"ptrandem","Points":143677}
+
+0 0 0 0 
+You aqcuired a new item! <Pizza>
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+{"Messages":["You used <Pizza> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":143745}
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+{"Messages":["You used <Crowbar> on ptrandem; -200 points for ptrandem!","ptrandem gained 0.75 points! Total points: 143728"],"TargetName":"ptrandem","Points":143528}
+
+0 0 
+You aqcuired a new item! <Cardboard Box>
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+You aqcuired a new item! <Fire Flower>
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+{"Messages":["You used <Fire Flower> on meastes; -35 points for meastes!"],"TargetName":"meastes","Points":143591}
+
+0 0 4 
+You got BURNED
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Mushroom>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Pizza>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Pizza> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":143634}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Da Da Da Da Daaa Da DAA da da>
+1 1 1 
+You aqcuired a new item! <Banana Peel>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Banana Peel> on meastes; -100 points for meastes!"],"TargetName":"meastes","Points":143575}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Moogle>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You afflicted ptrandem with <Moogle>."],"TargetName":"ptrandem","Points":143801}
+
+3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 1 1 1 
+You aqcuired a new item! <Mushroom>
+1 1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 
+You aqcuired a new item! <Morph Ball>
+3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+1 
+You aqcuired a new item! <Charizard>
+3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 1 1 1 1 3 
+Kupo!
+1 
+{"Messages":["You used <Morph Ball> on rvanbelk; 0 points for rvanbelk!"],"TargetName":"rvanbelk","Points":144044}
+
+3 
+Kupo!
+1 1 1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 
+You aqcuired a new item! <Red Shell>
+1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 
+{"Messages":["You used <Charizard> on meastes; -500 points for meastes!"],"TargetName":"meastes","Points":143512}
+
+1 
+You aqcuired a new item! <Fire Flower>
+1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 1 1 
+{"Messages":["You used <Fire Flower> on rvanbelk; -35 points for rvanbelk!"],"TargetName":"rvanbelk","Points":144114}
+
+1 1 3 
+Kupo!
+1 1 1 1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+3 
+Kupo!
+
+{"Messages":["You used <Red Shell> on rvanbelk; -100 points for rvanbelk!"],"TargetName":"rvanbelk","Points":144066}
+
+1 1 3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+1 
+You aqcuired a new item! <Charizard>
+1 3 
+Kupo!
+3 
+Kupo!
+
+{"Messages":["You used <Charizard> on rvanbelk; -500 points for rvanbelk!"],"TargetName":"rvanbelk","Points":143618}
+
+1 1 1 3 
+Kupo!
+1 
+You aqcuired a new item! <Hadouken>
+1 1 1 3 
+Kupo!
+1 1 1 1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 
+{"Messages":["You afflicted nhotalli with <Hadouken>."],"TargetName":"nhotalli","Points":144147}
+
+3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+1 1 1 1 1 1 1 1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 1 1 1 3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 
+You aqcuired a new item! <Pokeball>
+1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+
+You aqcuired a new item! <Holy Water>
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+
+{"Messages":["You used <Pokeball> on ptrandem; 35 points for ptrandem!","You found a bonus item! <d0893556-89a8-44b0-9ce3-a13878bdd3cd> | <Gold Ring>"],"TargetName":"ptrandem","Points":144220}
+
+1 1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 1 1 1 1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 
+{"Messages":["You afflicted revans with <Holy Water>."],"TargetName":"revans","Points":144451}
+
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 1 1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 1 1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 1 1 1 1 1 1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+1 1 1 1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+1 
+You aqcuired a new item! <Da Da Da Da Daaa Da DAA da da>
+1 1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+1 1 1 1 1 1 3 
+Kupo!
+1 1 1 1 1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 1 1 1 
+You aqcuired a new item! <Wedge>
+1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 1 1 3 
+Kupo!
+1 1 1 
+{"Messages":["You used <Wedge> on ptrandem; 50 points for ptrandem!","ptrandem gained 1 points! Total points: 144779"],"TargetName":"ptrandem","Points":144829}
+
+3 
+Kupo!
+1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 1 1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+
+You aqcuired a new item! <Biggs>
+1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Biggs> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":144943}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Cardboard Box>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Star>
+1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Warthog>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You afflicted ptrandem with <Warthog>."],"TargetName":"ptrandem","Points":145111}
+
+2 2 2 
+You aqcuired a new item! <Pokeball>
+2 2 
+You aqcuired a new item! <Wedge>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You used <Wedge> on ptrandem; 50 points for ptrandem!","ptrandem gained 2 points! Total points: 145159"],"TargetName":"ptrandem","Points":145209}
+
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Pizza>
+2 2 2 2 2 2 2 
+{"Messages":["You used <Pokeball> on ptrandem; 35 points for ptrandem!","You found a bonus item! <675f23ae-5bba-4628-b622-a393a0e74494> | <Banana Peel>"],"TargetName":"ptrandem","Points":145292}
+
+2 2 2 
+You aqcuired a new item! <UUDDLRLRBA>
+2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Pizza>
+2 2 2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You used <Pizza> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":145390}
+
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Hard Knuckle>
+2 2 2 2 2 2 
+{"Messages":["You used <UUDDLRLRBA> on ptrandem; 30 points for ptrandem!","ptrandem gained 2 points! Total points: 145236"],"TargetName":"ptrandem","Points":145266}
+
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Mushroom>
+2 2 2 2 
+You aqcuired a new item! <Biggs>
+2 2 2 2 2 2 
+{"Messages":["You used <Pizza> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":145364}
+
+2 2 2 2 2 
+You aqcuired a new item! <Pandora's Box>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You used <Biggs> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":145362}
+
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Green Shell>
+2 2 
+You aqcuired a new item! <Fire Flower>
+2 2 2 2 
+{"Messages":["You used <Hard Knuckle> on meastes; -200 points for meastes!"],"TargetName":"meastes","Points":145228}
+
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You used <Green Shell> on meastes; 0 points for meastes!"],"TargetName":"meastes","Points":145281}
+
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Mushroom>
+2 2 2 2 2 2 2 
+{"Messages":["You used <Fire Flower> on sahart; -35 points for sahart!"],"TargetName":"sahart","Points":145490}
+
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Holy Water>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You afflicted sahart with <Holy Water>."],"TargetName":"sahart","Points":145696}
+
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Hard Knuckle>
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+{"Messages":["You used <Hard Knuckle> on nhotalli; -200 points for nhotalli!"],"TargetName":"nhotalli","Points":145436}
+
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+You aqcuired a new item! <Princess>
+2 2 2 2 2 2 2 2 2 2 2 1 1 1 
+You aqcuired a new item! <Red Shell>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Red Shell> on meastes; -100 points for meastes!"],"TargetName":"meastes","Points":145608}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Red Shell>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Red Shell> on jheilema; -100 points for jheilema!"],"TargetName":"jheilema","Points":145663}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Fire Flower>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Fire Flower> on rvanbelk; -35 points for rvanbelk!"],"TargetName":"rvanbelk","Points":145827}
+
+1 1 1 1 1 1 
+You aqcuired a new item! <Biggs>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Biggs> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":145892}
+
+1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Biggs>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Biggs> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":145966}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Mushroom>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <UUDDLRLRBA>
+1 
+You aqcuired a new item! <Banana Peel>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <UUDDLRLRBA> on ptrandem; 30 points for ptrandem!","ptrandem gained 1 points! Total points: 146084"],"TargetName":"ptrandem","Points":146114}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Banana Peel> on meastes; -100 points for meastes!"],"TargetName":"meastes","Points":146000}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 
+You aqcuired a new item! <Pokeball>
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+{"Messages":["You used <Pokeball> on ptrandem; 35 points for ptrandem!","You found a bonus item! <2dada989-1059-4863-8d04-f66a03fddf46> | <Biggs>"],"TargetName":"ptrandem","Points":146213}
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+You aqcuired a new item! <Bo Jackson>
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+You aqcuired a new item! <Mushroom>
+0 0 0 0 0 
+{"Messages":["You used <Bo Jackson> on ptrandem; 7 points for ptrandem!","ptrandem gained 0.75 points! Total points: 146267"],"TargetName":"ptrandem","Points":146274}
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+You aqcuired a new item! <Crowbar>
+0 0 0 0 0 0 0 0 0 0 
+{"Messages":["You used <Crowbar> on jheilema; -200 points for jheilema!"],"TargetName":"jheilema","Points":146150}
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+You aqcuired a new item! <Cardboard Box>
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+You aqcuired a new item! <UUDDLRLRBA>
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+{"Messages":["You used <UUDDLRLRBA> on ptrandem; 30 points for ptrandem!","ptrandem gained 0.75 points! Total points: 146416"],"TargetName":"ptrandem","Points":146446}
+
+0 0 0 0 0 0 
+You aqcuired a new item! <Pizza>
+0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 
+{"Messages":["You used <Pizza> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":146516}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Wedge>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Wedge> on ptrandem; 50 points for ptrandem!","ptrandem gained 1 points! Total points: 146563"],"TargetName":"ptrandem","Points":146613}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Charizard>
+1 1 1 1 1 1 
+You aqcuired a new item! <Hadouken>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Charizard> on jheilema; -500 points for jheilema!"],"TargetName":"jheilema","Points":146417}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Bo Jackson>
+1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Bo Jackson> on ptrandem; 7 points for ptrandem!","ptrandem gained 1 points! Total points: 146584"],"TargetName":"ptrandem","Points":146591}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Fire Flower>
+1 1 1 1 1 1 1 
+{"Messages":["You afflicted jheilema with <Hadouken>."],"TargetName":"jheilema","Points":146779}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Da Da Da Da Daaa Da DAA da da>
+1 1 
+{"Messages":["You used <Fire Flower> on sahart; -35 points for sahart!"],"TargetName":"sahart","Points":146669}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Buffalo>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <UUDDLRLRBA>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Buffalo> on ptrandem; 100 points for ptrandem!","ptrandem gained 1 points! Total points: 146685"],"TargetName":"ptrandem","Points":146785}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <UUDDLRLRBA> on ptrandem; 30 points for ptrandem!","ptrandem gained 1 points! Total points: 146809"],"TargetName":"ptrandem","Points":146839}
+
+1 1 1 
+You aqcuired a new item! <Crowbar>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Crowbar> on sahart; -200 points for sahart!"],"TargetName":"sahart","Points":146666}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Wedge>
+1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Wedge> on ptrandem; 50 points for ptrandem!","ptrandem gained 1 points! Total points: 146886"],"TargetName":"ptrandem","Points":146936}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Hadouken>
+1 1 1 1 
+{"Messages":["You afflicted amorger with <Hadouken>."],"TargetName":"amorger","Points":146998}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Mushroom>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Mushroom>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Varia Suit>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Bo Jackson>
+1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Bo Jackson> on ptrandem; 7 points for ptrandem!","ptrandem gained 1 points! Total points: 147196"],"TargetName":"ptrandem","Points":147203}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Mushroom>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Hadouken>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You afflicted amorger with <Hadouken>."],"TargetName":"amorger","Points":147834}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Master Sword>
+1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Master Sword> on eweiss; 0 points for eweiss!"],"TargetName":"eweiss","Points":150439}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Roger Wilco>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Green Shell>
+1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Green Shell> on amorger; 0 points for amorger!"],"TargetName":"amorger","Points":148074}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Moogle>
+1 1 1 
+{"Messages":["You afflicted ptrandem with <Moogle>."],"TargetName":"ptrandem","Points":147701}
+
+1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 
+You aqcuired a new item! <Da Da Da Da Daaa Da DAA da da>
+1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 1 1 1 1 
+You aqcuired a new item! <Green Shell>
+1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 
+{"Messages":["You used <Green Shell> on amorger; 0 points for amorger!"],"TargetName":"amorger","Points":148257}
+
+1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 1 1 1 1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+
+You aqcuired a new item! <Hard Knuckle>
+3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 1 1 1 1 1 1 
+{"Messages":["You used <Hard Knuckle> on amorger; -200 points for amorger!"],"TargetName":"amorger","Points":148132}
+
+3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 
+You aqcuired a new item! <Pizza>
+1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 
+{"Messages":["You used <Pizza> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":148002}
+
+1 1 1 1 1 1 1 3 
+Kupo!
+1 
+You aqcuired a new item! <Banana Peel>
+1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 
+{"Messages":["You used <Banana Peel> on jmullin; -100 points for jmullin!"],"TargetName":"jmullin","Points":146212}
+
+3 
+Kupo!
+1 1 1 1 1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 1 1 1 1 1 3 
+Kupo!
+1 1 
+You aqcuired a new item! <Holy Water>
+1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You afflicted amorger with <Holy Water>."],"TargetName":"amorger","Points":148375}
+
+3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+
+You aqcuired a new item! <Pizza>
+1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+
+{"Messages":["You used <Pizza> on ptrandem; 50 points for ptrandem!"],"TargetName":"ptrandem","Points":148324}
+
+1 1 
+You aqcuired a new item! <Red Shell>
+1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 1 1 1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 1 1 1 1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+
+{"Messages":["You used <Red Shell> on amorger; -100 points for amorger!"],"TargetName":"amorger","Points":148499}
+
+1 1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 1 1 
+You aqcuired a new item! <Buffalo>
+3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 
+{"Messages":["You used <Buffalo> on ptrandem; 100 points for ptrandem!","ptrandem gained 1 points! Total points: 148463"],"TargetName":"ptrandem","Points":148563}
+
+1 1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 
+You aqcuired a new item! <Buster Sword>
+3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 1 1 1 1 1 1 1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 1 3 
+Kupo!
+1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 1 
+You aqcuired a new item! <Green Shell>
+1 3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 
+You aqcuired a new item! <Hard Knuckle>
+1 1 
+{"Messages":["You used <Green Shell> on amorger; 0 points for amorger!"],"TargetName":"amorger","Points":148739}
+
+3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+
+You aqcuired a new item! <Da Da Da Da Daaa Da DAA da da>
+1 1 1 1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 1 1 1 1 1 
+{"Messages":["You used <Hard Knuckle> on amorger; -200 points for amorger!"],"TargetName":"amorger","Points":148588}
+
+1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 1 1 1 1 1 1 1 1 1 1 3 
+Kupo!
+
+You aqcuired a new item! <Gold Ring>
+1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 
+You aqcuired a new item! <Banana Peel>
+3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+
+You aqcuired a new item! <Mushroom>
+1 1 3 
+Kupo!
+1 1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 
+{"Messages":["You used <Banana Peel> on amorger; -100 points for amorger!"],"TargetName":"amorger","Points":148633}
+
+1 1 1 1 1 3 
+Kupo!
+3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 1 1 1 3 
+Kupo!
+1 
+You aqcuired a new item! <Mushroom>
+1 3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 3 
+Kupo!
+1 3 
+Kupo!
+1 1 1 1 1 1 1 1 3 
+Kupo!
+1 3 
+Kupo!
+3 
+Kupo!
+1 3 
+Kupo!
+1 1 3 
+Kupo!
+1 1 1 1 3 
+Kupo!
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Bo Jackson>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Crowbar>
+1 1 1 1 1 
+{"Messages":["You used <Bo Jackson> on ptrandem; 7 points for ptrandem!","ptrandem gained 1 points! Total points: 149006"],"TargetName":"ptrandem","Points":149013}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+{"Messages":["You used <Crowbar> on sahart; -200 points for sahart!"],"TargetName":"sahart","Points":149661}
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Mushroom>
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+You aqcuired a new item! <Master Sword>
+1 1 1 1 1 1 1 1 1 1 1 1 
