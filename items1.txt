@@ -752,6 +752,84 @@ Crowbar	9e5930e6-9ceb-4e3e-9bfa-03d3aec2e9b7	1	Gordon Freeman's weapon of choice
 		0		False
 				
 
+Blue Shell	de3be0ba-c463-4a7e-b5eb-8101fa22afb5	3	Mighty Koopa shell that displaces the leader of the pack.	False
+Blue Shell	dcd57559-5868-4aab-9f07-106649857010	3	Mighty Koopa shell that displaces the leader of the pack.	False
+Cardboard Box	aec625e9-5110-445a-b4e1-8aafd0427527	2	Shhh. You can't see me.	False
+Fat Guys	113bbb2d-eb3f-481d-bdb5-f459403b8e41	3	You may be slow, but you're solid!	False
+Leeroy Jenkins	3721d39b-dff7-4fc2-bb35-b67dadc01343	3	Absolutely pathetic battle cry.	False
+Miniature Giant Space Hamster	3aa4c012-51b9-4d7a-9f28-fa0a0453137d	3	Boo is always judging!	False
+Miniature Giant Space Hamster	038c669f-3a32-40df-bb5b-bb8cfd5cd0b0	3	Boo is always judging!	False
+Mushroom	6716254a-10a8-405c-b2fd-a6c88f89d6a3	1	Maybe edible mushroom.	False
+Mushroom	1ef9e85b-75e0-4dac-a1ec-81b158c6c88c	1	Maybe edible mushroom.	False
+Mushroom	0a9fa758-fb38-4682-980b-0718928161f3	1	Maybe edible mushroom.	False
+Mushroom	d5223d85-fea9-43eb-8c45-7b06b82aa4ab	1	Maybe edible mushroom.	False
+Mushroom	dee0f821-ba74-4efd-a99f-f22e45783d90	1	Maybe edible mushroom.	False
+Mushroom	6fc3fb39-d842-4e7f-90f8-adb380394920	1	Maybe edible mushroom.	False
+Red Crystal	a34e34c3-da4c-4599-b46e-d374e9339264	3	You have the power of tornadoes! Take that Deborah Cliff.	False
+Skinny Guys	294de94c-fa5f-4105-8a18-ef00926a5473	3	You may be fragile, but you're quick!	False
+Mushroom	9c849801-59c7-4045-90a2-f1b86d127a62	1	Maybe edible mushroom.	False
+Mushroom	d2de3e1a-4318-4e04-952b-39169f1da8d3	1	Maybe edible mushroom.	False
+Mushroom	91e1db86-2e50-41b7-bc3f-7fd8b0f5dc3f	1	Maybe edible mushroom.	False
+Mushroom	7d81865d-f5d6-45e8-aafb-080bd20d7e92	1	Maybe edible mushroom.	False
+Mushroom	f2c3e4a1-924e-4fea-a0ba-63c18f6b9475	1	Maybe edible mushroom.	False
+Mushroom	8bd3b4a7-1389-40fb-985d-d3ea9e40ba9e	1	Maybe edible mushroom.	False
+Mushroom	0cce3040-a87b-49c9-bc6d-6187fdfc3fe5	1	Maybe edible mushroom.	False
+Cardboard Box	c8881645-fdfb-4ac7-8bb9-359e0abd26db	2	Shhh. You can't see me.	False
+Mushroom	c317ce5d-cd69-4469-86ae-04fb0f1f42ba	1	Maybe edible mushroom.	False
+Mushroom	26879987-73f1-4d17-b09b-e24a32c15d17	1	Maybe edible mushroom.	False
+Mushroom	bd42cba4-5716-4ff6-8977-d14873e5f1ac	1	Maybe edible mushroom.	False
+Mushroom	ea7f220d-6e67-4e29-be2d-cbe75ca4711b	0		False
+Bullet Bill	ae9e3e00-6746-44e1-b3c0-36419a2da388	3	Catapult ahead of the competition.	False
+Ambrosia	51c0ac77-e6a5-42c7-b3bb-2de9c2f43b65	4	A sweet treat that soothes the senses.	False
+Mushroom	33b07894-9156-4f6e-9033-2e50689a06a2	1	Maybe edible mushroom.	False
+Cardboard Box	3daaf116-6c3d-4f08-8e3e-4cf39828fcb8	2	Shhh. You can't see me.	False
+Pony	8c13f98d-3143-41ba-8e44-04c79f4988f2	3	You are a casual gaming princess! Now harvest those crops, your majesty.	False
+Treasure Chest	f446dc35-6981-49b0-8e46-87e80b76dcbe	3	Bountiful treasure chest containing three new items.	False
+Red Crystal	4e50ae38-b595-493b-89ef-080b2753f524	3	You have the power of tornadoes! Take that Deborah Cliff.	False
+Rail Gun	042cb8db-bf36-448c-b2d2-850e9bce5a40	3	Fires depleted uranium slugs at high velocity.	False
+Mushroom	6e111d7d-9a7b-4b2e-b786-af394f537635	1	Maybe edible mushroom.	False
+Mushroom	cc176ab0-4d47-4b7d-a552-3bbf4b3dcec1	1	Maybe edible mushroom.	False
+Mushroom	bbb40b03-07de-4247-a74d-51a4bd4a6c0a	0		False
+Miniature Giant Space Hamster	382b3c45-405f-44f6-9580-16902a6ddb42	3	Boo is always judging!	False
+Mushroom	e16507c4-b06c-4b19-8b31-7208652965c8	1	Maybe edible mushroom.	False
+Rail Gun	5783e242-d69d-4613-b377-adbac124b9d5	3	Fires depleted uranium slugs at high velocity.	False
+Mushroom	15eae5c6-1fd8-414f-8cdf-d9206b435d35	1	Maybe edible mushroom.	False
+Mushroom	22db31c2-71ee-47cf-baa4-51a55971291d	1	Maybe edible mushroom.	False
+Mushroom	ac885368-f2d6-45a0-87d7-78c17546460a	1	Maybe edible mushroom.	False
+Mushroom	9ce083ef-4777-47d5-b91c-44b72c096f94	1	Maybe edible mushroom.	False
+Fus Ro Dah	18dc9482-07c0-4ee1-abd4-c73ed98df2c6	3	Dragon shout that silences the target.	False
+Morph Ball	4ad4ab96-40cf-434a-8b08-109285bd673e	3	Transform into a sphere that passes two players.	False
+Mushroom	2fcecb18-19ae-46e2-a192-4bfc6dab7855	1	Maybe edible mushroom.	False
+Roger Wilco	345d1b1c-94a9-47ec-adbf-82c618ba2257	3	You defeated aliens with this handy plunger!	False
+Get Over Here	da409c6e-3e26-4b57-8b72-b4c2652e5ee1	3	Chance to cuddle up to your opponent. Serious snuggles.	False
+Mushroom	43eae567-ac5c-4b73-b2fc-436c88eff24d	1	Maybe edible mushroom.	False
+Mushroom	bf3b5d80-8fb0-485d-a565-c0e467c872df	1	Maybe edible mushroom.	False
+Mushroom	2a0aa2eb-3b64-4def-b759-3171dca17292	0		False
+Mushroom	bc0ceae6-98ef-4f03-ba7d-027a81253310	1	Maybe edible mushroom.	False
+Mushroom	df071aa1-d006-4a18-8159-6fc5fedd815a	1	Maybe edible mushroom.	False
+Princess	a1e685fc-8543-49c1-8c25-ade5b9a9179d	3	A kiss from her majesty that turns a frog into her prince.	False
+Bullet Bill	404d2366-a295-4770-b561-20becbf08b6c	3	Catapult ahead of the competition.	False
+Leeroy Jenkins	739809c4-f512-4287-a9bb-28c7e952c328	3	Absolutely pathetic battle cry.	False
+Mushroom	da9850d6-7e9c-4e35-8008-c053bae9130b	1	Maybe edible mushroom.	False
+Mushroom	6eea9015-1d36-427f-816a-77cec4ed8448	1	Maybe edible mushroom.	False
+Mushroom	ab01555d-5c0d-4be7-8ce1-a9a461ddd9c1	1	Maybe edible mushroom.	False
+Red Crystal	c1745d4e-c638-4395-80cc-6b20195a1686	3	You have the power of tornadoes! Take that Deborah Cliff.	False
+Mushroom	4758e0ae-5447-43de-92e5-fe16eff7bd38	1	Maybe edible mushroom.	False
+Mushroom	b8b1fe92-a3dc-48a9-812d-3356c2950491	1	Maybe edible mushroom.	False
+Morph Ball	9524604b-1c70-468c-b725-85cd974e9b8b	3	Transform into a sphere that passes two players.	False
+Mushroom	7d80e3be-6e6d-4c13-91f1-bdd662fb98c6	1	Maybe edible mushroom.	False
+Mushroom	427ecada-7383-48b7-971c-a3e10ec60585	1	Maybe edible mushroom.	False
+Red Shell	5a2d2a90-4a5f-4f98-b5ed-ae532338980c	1	Toss ahead of you to unsuspecting victim.	True
+Mushroom	9c6c45aa-2025-4800-9f9c-7af91e58be07	1	Maybe edible mushroom.	False
+Banana Peel	b2723510-4a88-42d0-90bf-e9b42f333de2	1	Person behind you 50% chance -100 points	True
+Wedge	ecfb3282-47e8-4303-8151-3350b9dbf428	1	Red Wing soldier that bolsters your confidence.	True
+Warthog	43eb42ef-87f9-47ea-a60d-dd2a9db0ddd3	2	Recon vehicle that temporarily increases speed.	True
+Fire Flower	2a9a9755-bc4b-4309-98fb-6b844c297fbe	1	Throw balls of actual fire. Literally.	True
+Mushroom	e736a45a-39b5-4f5e-89cb-aff80376c0de	1	Maybe edible mushroom.	False
+Hard Knuckle	2666347a-33df-4ebf-99cf-dd7404406358	2	Mega Man face punch.	True
+Green Shell	f93e5dda-ed86-4008-a64e-6d15f87c8edd	1	Throw at opponent to deliver a good thump on the head.	True
+				
+
 
 
 
