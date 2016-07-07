@@ -35,7 +35,7 @@ namespace TheGame
         public MainWindow()
         {
             InitializeComponent();
-            _pointsTimer.Interval = 2000;
+            _pointsTimer.Interval = 1500;
             _pointsTimer.Elapsed += _timer_Elapsed;
             _itemsTimer.Elapsed += _itemsTimer_Elapsed;
             _intermediateTimer.Elapsed += _intermediateTimer_Elapsed;
@@ -459,6 +459,10 @@ namespace TheGame
                     WriteLog($"Error deploying usage with id {usage.ItemId}");
                 }
                 
+            }
+            else
+            {
+                WriteLog($"Used {item.Name} ({ usage.ItemId})");
             }
             
             if (item != null)

@@ -812,6 +812,10 @@ Portal Nun (appears to be verbally abusive at worst)
 
 Buster Sword (-500)
 
+Questionables:
+Goomba (-144?)
+Jigglypuff (-1000?)
+Cthulu (uknown, possibly piddly attack)
 
 Changes:
 1) Check opponent's effects before firing; perhaps adjust opponent if effects are present (or silence?)
@@ -819,9 +823,12 @@ Changes:
 3) Validate suit logic (appears to be not firing at all)
 4) Consider checking timing on suits to ensure no gaps; also ensure no overlap of different kinds of protections
 
-Rush the Dog + Mushroom = 2 pts per click
-
+Mushrooms - chance of 2x or .5x; cannot alter midstream
+Rush the Dog - appears to give random chance of 5s, but only with mushrooms? unclear.
+Rail Gun to attacks
 Can Princess and Pony be used together somehow?
+
+07-06 23:17 ptrandem conjured the benevolent Cardboard to bless ptrandem with 10650 points (how did this happen? perhaps distance-based? or perhaps mushroom-related?)
 
 
 When effects are Moogle, Warthog and Tanooki Suit Buffalo does nothing much:
@@ -836,4 +843,5 @@ Fus Ro Dah	Dragon shout that silences the target. ()
 6 
 Kupo!
 2 2 2 2 
+
 
