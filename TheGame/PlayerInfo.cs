@@ -11,5 +11,13 @@ namespace TheGame
         public string PlayerName { get; set; }
         public string Points { get; set; }
         public List<string> Effects { get; set; }
+
+        public string EffectsString
+        {
+            get
+            {
+                return string.Join(", ", Effects);
+            }
+        }
     }
 }

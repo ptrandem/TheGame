@@ -17,10 +17,9 @@
         <TextBox x:Name="BadgesLog" HorizontalAlignment="Left" Height="117" Margin="597,96,0,0" TextWrapping="WrapWithOverflow" VerticalAlignment="Top" Width="156" VerticalScrollBarVisibility="Auto"  />
         <Label x:Name="label2" Content="Effects&#xA;" HorizontalAlignment="Left" Margin="436,67,0,0" VerticalAlignment="Top" Height="29" Width="57"/>
         <Label x:Name="label3" Content="Badges&#xA;" HorizontalAlignment="Left" Margin="597,62,0,0" VerticalAlignment="Top" Height="29" Width="57" RenderTransformOrigin="4.333,0.103"/>
-        <TextBox x:Name="ItemsLog" HorizontalAlignment="Left" Height="117" Margin="758,96,0,0" TextWrapping="WrapWithOverflow" VerticalAlignment="Top" Width="476" VerticalScrollBarVisibility="Auto" RenderTransformOrigin="1.286,0.071" />
         <DataGrid x:Name="ItemsGrid" Margin="436,353,10,10" AutoGenerateColumns="True" >
         </DataGrid>
-        <Label x:Name="label3_Copy" Content="Items Log&#xA;" HorizontalAlignment="Left" Margin="758,62,0,0" VerticalAlignment="Top" Height="29" Width="91" RenderTransformOrigin="4.333,0.103"/>
+        <Label x:Name="label3_Copy" Content="Leaderboard&#xA;" HorizontalAlignment="Left" Margin="758,10,0,0" VerticalAlignment="Top" Height="29" Width="91" RenderTransformOrigin="4.333,0.103"/>
         <GroupBox x:Name="groupBox" Header="Item actions" HorizontalAlignment="Left" Margin="436,218,0,0" VerticalAlignment="Top" Height="130" Width="798">
             <Grid>
                 <Grid.ColumnDefinitions>
@@ -38,7 +37,10 @@
         </GroupBox>
         <Label Content="Queued:&#xA;" HorizontalAlignment="Left" Margin="768,242,0,0" VerticalAlignment="Top" Height="29" Width="59" RenderTransformOrigin="4.333,0.103"/>
         <Label x:Name="QueueCountLabel" Content="0&#xA;" HorizontalAlignment="Left" Margin="832,242,0,0" VerticalAlignment="Top" Height="29" Width="91" RenderTransformOrigin="4.333,0.103"/>
-        <Label Content="Current Leader:&#xA;" HorizontalAlignment="Left" Margin="448,242,0,0" VerticalAlignment="Top" Height="29" Width="97" RenderTransformOrigin="4.333,0.103"/>
-        <Label x:Name="CurrentLeaderLabel" Content="0&#xA;" HorizontalAlignment="Left" Margin="550,242,0,0" VerticalAlignment="Top" Height="29" Width="91" RenderTransformOrigin="4.333,0.103"/>
+        <Label Content="Current Leader:&#xA;" HorizontalAlignment="Left" Margin="448,238,0,0" VerticalAlignment="Top" Height="28" Width="97" RenderTransformOrigin="4.333,0.103"/>
+        <Label x:Name="CurrentLeaderLabel" Content="0&#xA;" HorizontalAlignment="Left" Margin="550,238,0,0" VerticalAlignment="Top" Height="29" Width="91" RenderTransformOrigin="4.333,0.103"/>
+        <Label Content="Your Rank:&#xA;" HorizontalAlignment="Left" Margin="448,253,0,0" VerticalAlignment="Top" Height="28" Width="97" RenderTransformOrigin="4.333,0.103"/>
+        <Label x:Name="CurrentRankLabel" Content="0&#xA;" HorizontalAlignment="Left" Margin="550,252,0,0" VerticalAlignment="Top" Height="29" Width="91" RenderTransformOrigin="4.333,0.103"/>
+        <DataGrid x:Name="LeaderboardDatagrid" Margin="758,38,10,557" AutoGenerateColumns="True" />
     </Grid>
 </Window>

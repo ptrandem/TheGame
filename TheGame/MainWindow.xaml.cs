@@ -4,6 +4,8 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text.RegularExpressions;
+using System.Threading;
+using System.Threading.Tasks;
 using System.Timers;
 using System.Windows;
 using System.Windows.Controls;
@@ -19,14 +21,16 @@ namespace TheGame
         public const string Self = "ptrandem";
 
         private RestClient _client = new RestClient("http://thegame.nerderylabs.com");
-        private Timer _pointsTimer = new Timer();
-        private Timer _itemsTimer = new Timer(61000);
-        private Timer _intermediateTimer = new Timer(30000);
+        private System.Timers.Timer _pointsTimer = new System.Timers.Timer();
+        private System.Timers.Timer _itemsTimer = new System.Timers.Timer(61000);
+        private System.Timers.Timer _intermediateTimer = new System.Timers.Timer(20000);
         private List<PlayerInfo> _players = new List<PlayerInfo>();
+        
         private PriorityQueue<ItemUsage> _itemQueue = new PriorityQueue<ItemUsage>();
 
         protected ObservableCollection<ItemFields> Items { get; set; }
         protected ObservableCollection<string> Effects { get; set; }
+        protected ObservableCollection<PlayerInfo> Players { get; set; }
 
         public MainWindow()
         {
@@ -38,25 +42,42 @@ namespace TheGame
 
             
             Items = new ObservableCollection<ItemFields>();
+            Players = new ObservableCollection<PlayerInfo>();
             Effects = new ObservableCollection<string>();
 
+            LeaderboardDatagrid.AutoGeneratingColumn += LeaderboardDatagrid_AutoGeneratingColumn;
             ItemsGrid.ItemsSource = Items;
+            LeaderboardDatagrid.ItemsSource = Players;
+
             GetLeaderboard();
 
             _itemsTimer.Start();
             _intermediateTimer.Start();
 
-            //Items.Add(new ItemFields { Name = "whatever", Id = "4", Rarity = 3, Description = "yep, it's a thing" });
-            //Items.Add(new ItemFields { Name = "whatever 2", Id = "2", Rarity = 6, Description = "yep, it's also a thing" });
+        }
 
+        private void LeaderboardDatagrid_AutoGeneratingColumn(object sender, DataGridAutoGeneratingColumnEventArgs e)
+        {
+            if(e.PropertyName == "Effects")
+            {
+                e.Cancel = true;
+            }
+
+            if(e.PropertyName == "EffectsString")
+            {
+                e.Column.Header = "Effects";
+            }
         }
 
         private void _intermediateTimer_Elapsed(object sender, ElapsedEventArgs e)
         {
             GetLeaderboard();
             ApplyQueueRules();
+            
+            
         }
 
+        
         private void _itemsTimer_Elapsed(object sender, ElapsedEventArgs e)
         {
             _itemsTimer.Stop();
@@ -80,16 +101,17 @@ namespace TheGame
 
 
             // Protections
-            EnqueueEffectIfNoneEquipped(new[] { "Varia Suit", "Tanooki Suit", "Gold Ring" }, Self, 0);
+            EnqueueEffectIfNoneEquipped(new[] { "Varia Suit", "Tanooki Suit", "Gold Ring", "Carbuncle", "Star" }, Self, 0);
             
             // Points
-            EnqueueFirstAvailable("Morph Ball", priority: 1);
-            EnqueueFirstAvailable("Bullet Bill", priority: 1);
+            //EnqueueFirstAvailable("Morph Ball", priority: 1); // Let's save these for final game time
+            //EnqueueFirstAvailable("Bullet Bill", priority: 1);
             EnqueueAllAvailable("Buffalo");
             EnqueueAllAvailable("Biggs");
             EnqueueAllAvailable("Pizza");
             EnqueueAllAvailable("Wedge");
-            EnqueueFirstAvailable("Pokeball");
+            EnqueueFirstAvailable("Pokeball", priority: 1);
+            EnqueueFirstAvailable("Da Da Da Da Daaa Da DAA da da", priority: 1);
             EnqueueFirstAvailable("Bo Jackson", priority: 3);
             EnqueueFirstAvailable("UUDDLRLRBA", priority: 3);
 
@@ -124,7 +146,8 @@ namespace TheGame
                     EnqueueFirstAvailable("Hadouken", playerAhead.PlayerName, 3);
                     EnqueueFirstAvailable("Green Shell", playerAhead.PlayerName, 3);
                     EnqueueFirstAvailable("Holy Water", playerAhead.PlayerName, 3);
-                    
+                    EnqueueFirstAvailable("Buster Sword", playerAhead.PlayerName, 3);
+
                     EnqueueFirstAvailable("Knuckle Punch", playerAhead.PlayerName, 3);
                     EnqueueFirstAvailable("SPNKR", playerAhead.PlayerName, 3);
                     EnqueueFirstAvailable("Golden Gun", playerAhead.PlayerName, 3);
@@ -146,23 +169,16 @@ namespace TheGame
 
         private bool IsPlayerInvincible(PlayerInfo player)
         {
-            if(player.Effects.Contains("Varia Suit"))
-            {
-                return true;
-            }
-
-            if (player.Effects.Contains("Tanooki Suit"))
-            {
-                return true;
-            }
-
-            if(player.Effects.Contains("Gold Ring"))
-            {
-                return true;
-            }
+            if (player.Effects.Contains("Varia Suit")) { return true; }
+            if (player.Effects.Contains("Tanooki Suit")) { return true;}
+            if (player.Effects.Contains("Gold Ring")) { return true; }
+            if (player.Effects.Contains("Carbuncle")) { return true; }
+            if (player.Effects.Contains("Star")) { return true; }
 
             return false;
         }
+
+        
 
         private void EnqueueEffectIfNoneEquipped(string[] effects, string target = Self, int priority = 2)
         {
@@ -245,6 +261,15 @@ namespace TheGame
                 {
                     WriteLog(message);
                 }
+                var bonusItems = ItemHelpers.FindBonusItems(message);
+                if(bonusItems.Count > 0)
+                {
+                    foreach(var item in bonusItems)
+                    {
+                        Items.Add(item);
+                    }
+                }
+
             }
 
             if (response.Data.Item != null)
@@ -267,16 +292,16 @@ namespace TheGame
 
         }
 
-        private void GetLeaderboard()
+        private async void GetLeaderboard()
         {
             var top10Request = new RestRequest("/", Method.GET);
-            top10Request.AddHeader("apikey", APIKey);
+//            top10Request.AddHeader("apikey", APIKey);
             top10Request.AddHeader("Accept", "application/json");
-            var response = _client.Execute<List<PlayerInfo>>(top10Request);
-            if (response != null && response.Data != null)
+            var response1 = _client.Execute<List<PlayerInfo>>(top10Request);
+            if (response1 != null && response1.Data != null)
             {
                 _players.Clear();
-                _players.AddRange(response.Data);
+                _players.AddRange(response1.Data);
 
                 this.Dispatcher.Invoke((Action)(() =>
                 {
@@ -284,15 +309,21 @@ namespace TheGame
                 }));
             }
 
-            var next50Request = new RestRequest("/?page=1&pagesize=200", Method.GET);
-            next50Request.AddHeader("apikey", APIKey);
-            next50Request.AddHeader("Accept", "application/json");
+            Thread.Sleep(300);
 
-            response = _client.Execute<List<PlayerInfo>>(next50Request);
-            if (response != null && response.Data != null)
+            var nextFew = new RestRequest("/?page=1", Method.GET);
+//            nextFew.AddHeader("apikey", APIKey);
+            nextFew.AddHeader("Accept", "application/json");
+
+            var response2 = _client.Execute<List<PlayerInfo>>(nextFew);
+            if (response2 != null && response2.Data != null)
             {
-                _players.AddRange(response.Data);
+                _players.AddRange(response2.Data);
             }
+
+            SyncPlayers();
+            
+
         }
 
 
@@ -301,12 +332,12 @@ namespace TheGame
             this.Dispatcher.Invoke((Action)(() =>
             {
                 
-                ItemsLog.Text += item.ToString();
+                //ItemsLog.Text += item.ToString();
                 foreach (var f in item.Fields)
                 {
                     Items.Add(f);
                 }
-                ScrollToEnd(ItemsLog);
+                //ScrollToEnd(ItemsLog);
             }));
         }
 
@@ -330,13 +361,13 @@ namespace TheGame
         private void UseOnSelfButton_Click(object sender, RoutedEventArgs e)
         {
             var selectedItemId = GetActiveItemIdFromGUI();
-            EnqueueItemUsage(selectedItemId, Self);
+            EnqueueItemUsage(selectedItemId, Self, 0);
         }
 
         private void UseOnTargetButton_Click(object sender, RoutedEventArgs e)
         {
             var selectedItemId = GetActiveItemIdFromGUI();
-            EnqueueItemUsage(selectedItemId, ItemTarget.Text);
+            EnqueueItemUsage(selectedItemId, ItemTarget.Text, 0);
         }
 
         private void UseOnLeaderButton_Click(object sender, RoutedEventArgs e)
@@ -345,7 +376,7 @@ namespace TheGame
             var leader = _players.FirstOrDefault();
             if (leader != null)
             {
-                EnqueueItemUsage(selectedItemId, leader.PlayerName);
+                EnqueueItemUsage(selectedItemId, leader.PlayerName, 0);
             }
         }
 
@@ -405,6 +436,18 @@ namespace TheGame
             WriteLog(response.Content + "\n");
             var item = Items.FirstOrDefault(x => x.Id == usage.ItemId);
 
+            var bonusItems = ItemHelpers.FindBonusItems(response.Content);
+            if (bonusItems.Count > 0)
+            {
+                foreach (var bonus in bonusItems)
+                {
+                    this.Dispatcher.Invoke((Action)(() =>
+                    {
+                        Items.Add(bonus);
+                    }));
+                }
+            }
+
             if (response.Content.StartsWith("No such item found"))
             {
                 if(item != null)
@@ -417,18 +460,14 @@ namespace TheGame
                 }
                 
             }
-            else
-            {
-                if (item != null)
-                {
-                    this.Dispatcher.Invoke((Action)(() =>
-                    {
-                        Items.Remove(item);
-                    }));
-                }
-            }
-
             
+            if (item != null)
+            {
+                this.Dispatcher.Invoke((Action)(() =>
+                {
+                    Items.Remove(item);
+                }));
+            }
         }
 
         private string GetActiveItemIdFromGUI()
@@ -456,6 +495,27 @@ namespace TheGame
             this.Dispatcher.Invoke((Action)(() =>
             {
                 EffectsLog.Text = string.Join("\n", effects);
+            }));
+        }
+
+        private void SyncPlayers()
+        {
+            
+            this.Dispatcher.Invoke((Action)(() =>
+            {
+                Players.Clear();
+                foreach (var e in _players)
+                {
+                    Players.Add(e);
+                }
+
+                var self = Players.FirstOrDefault(x => x.PlayerName == Self);
+                if(self != null)
+                {
+                    CurrentRankLabel.Content = Players.IndexOf(self) + 1;
+                    LeaderboardDatagrid.ScrollIntoView(self);
+                }
+                
             }));
         }
 

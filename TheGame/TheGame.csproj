@@ -69,6 +69,7 @@
     </Compile>
     <Compile Include="Item.cs" />
     <Compile Include="ItemFields.cs" />
+    <Compile Include="ItemHelpers.cs" />
     <Compile Include="ItemImporter.cs" />
     <Compile Include="ItemUsage.cs" />
     <Compile Include="MainWindow.xaml.cs">

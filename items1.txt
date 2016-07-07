@@ -132,8 +132,6 @@ Space Invaders (1): Pixelated alien face that creates timeboxed urgency to score
 Space Invaders (1): Pixelated alien face that creates timeboxed urgency to score points.
 43c71e70-bd2a-42f9-a2a9-daaa476e1b75 - (Case: Some)
 Warthog (2): Recon vehicle that temporarily increases speed.
-64dbc1eb-09dd-4496-b1ab-2ae99542a08b - (Case: Some)
-Space Invaders (1): Pixelated alien face that creates timeboxed urgency to score points.
 324f3618-6e3b-4eeb-bbb8-5a08528f8095 - (Case: Some)
 Crowbar (1): Gordon Freeman's weapon of choice.
 24471485-fed4-4150-95e9-974320b1648d - (Case: Some)
@@ -142,10 +140,6 @@ Fire Flower (1): Throw balls of actual fire. Literally.
 --Mushroom (1): Maybe edible mushroom.
 071e84cf-d1bd-4677-96c4-7b13de64d91e - (Case: Some)
 Hadouken (2): Burst of energy that pulses through the target and results in temporary after shocks.
----a1e8fcad-8c7b-43a6-a9b2-256d67921022 - (Case: Some)
----Treasure Chest (3): Bountiful treasure chest containing three new items.
---2014da7e-6c7e-48be-af51-8f47d57e0222 - (Case: Some)
---Mushroom (1): Maybe edible mushroom.
 0be2e71e-9e82-42c5-90fd-bb49a9cbd925 - (Case: Some)
 Biggs (1): Red Wing soldier that bolsters your confidence.
 11c8778e-a2e3-41f0-9c7a-ffe65fab3a16 - (Case: Some)
@@ -160,8 +154,6 @@ Star (3): A celestial object that creates temporary invincibility.
 1a252e53-eb5f-454a-b6e9-dc6250a4a502 - (Case: Some)
 Holy Water (2): Throw at the floor to release temporary holy flames.
 
-7acfd17c-1739-45b8-988e-90d0af49863b - (Case: Some)
-Warthog (2): Recon vehicle that temporarily increases speed.
 83b271a3-92cc-4017-a023-e5fa7709a3f5 - (Case: Some)
 Rush the Dog (3): Loyal canine sidekick that can boost a hero's spirit.
 
@@ -182,6 +174,12 @@ Rush the Dog (3): Loyal canine sidekick that can boost a hero's spirit.
 {"Case":"Some","Fields":[{"Name":"Hard Knuckle","Id":"e30d0abf-e9d3-4dd7-a9a5-0b13969aabef","Rarity":2,"Description":"Mega Man face punch."}]}
 
 {"Messages":["You used <Pokeball> on ptrandem; 35 points for ptrandem!","You found a bonus item! <e0c4a3a2-5960-4af2-a461-785b43bb6385> | <Roger Wilco>"],"TargetName":"ptrandem","Points":106177}
+{"Messages":["You used <Da Da Da Da Daaa Da DAA da da> on ptrandem; 0 points for ptrandem!","You found a bonus item! <844be574-c6d6-4b6c-bc9a-991eff57f541> | <Fire Flower>"],"TargetName":"ptrandem","Points":167031}
+
+
+
+				
+
 ----------------
 
 Star	ef059abb-02ad-43f4-9720-fbaafb41961a	3	A celestial object that creates temporary invincibility.
@@ -191,18 +189,12 @@ Varia Suit	86ef1484-20c7-44d0-a597-9656e35d637a	3	Sleek pant suit offering signi
 Cardboard Box	efec11d8-784f-4b3d-b438-036c6d42c08b	2	Shhh. You can't see me.
 Gold Ring	e8700479-7135-4b1a-afaa-4233a1450e40	2	Shiny ring that provides temporary protection from damage.
 Gold Ring	76fd1b39-900b-4d00-ab53-e85a955fecce	2	Shiny ring that provides temporary protection from damage.
-Da Da Da Da Daaa Da DAA da da	177273fd-3a1f-43e5-96be-fb24baffd634	2	The victory song that delivers a sweet reward.
-Da Da Da Da Daaa Da DAA da da	d3d258fc-cebe-49c6-9354-18cc5f7b15ae	2	The victory song that delivers a sweet reward.
-Tanooki Suit	cc91c2b3-8993-425e-b7c9-0a061a844928	2	Adorable suit that provides temporary protection from attacks.
-Moogle	9e19e5fc-89e5-4927-be2d-c763c04d8205	2	Kupo! Your luck is temporarily increased.
-Buffalo	67ba06a6-a5ff-4180-a2a0-64341c525bb9	2	Absolutely not dying from dysentery today!
-Tanooki Suit	2167f723-73d1-468e-9ad5-69e6c054a594	2	Adorable suit that provides temporary protection from attacks.
 Gold Ring	391193d9-475d-46e0-bdc9-c0781d337d02	2	Shiny ring that provides temporary protection from damage.
 Da Da Da Da Daaa Da DAA da da	c90b4383-0920-4eb0-8982-5fb6c505a4e3	2	The victory song that delivers a sweet reward.
 Warthog	6adeda2f-1fc1-498d-a233-34b5b9b2ae8c	2	Recon vehicle that temporarily increases speed.
 Tanooki Suit	be544ddc-2944-419f-b785-90b6d52bf156	2	Adorable suit that provides temporary protection from attacks.
 Holy Water	6958bc3c-55c2-4b1f-bbef-7db475b5ee35	2	Throw at the floor to release temporary holy flames.
-Moogle	f971ef76-e5d1-4339-9543-9b896e26c172	2	Kupo! Your luck is temporarily increased.
+
 Da Da Da Da Daaa Da DAA da da	ecf292c0-34a6-41a5-a03d-2bf9adc44d1a	2	The victory song that delivers a sweet reward.
 Warthog	93f1d5f0-73b0-469a-b2f2-f4c85628f204	2	Recon vehicle that temporarily increases speed.
 Tanooki Suit	d505c854-4640-4274-9352-930d1df1da45	2	Adorable suit that provides temporary protection from attacks.
@@ -663,8 +655,105 @@ Hard Knuckle	9843e133-7aba-4c25-aa6d-b4c7224e66f7	2	Mega Man face punch.	True
 
 
 
+----------------- 7:27PM 7/5/16
+Leisure Suit	c5f53712-58e3-4ac1-bcea-ad370e558f7a	3	"Winning this game is about as easy as holding onto a mud wrestler!"	False
+Treasure Chest	1339a89b-48be-46d3-80e9-9dfe07ddf7d9	3	Bountiful treasure chest containing three new items.	False
+Carbuncle	2e373909-cb72-42bd-88bc-8a0213bfebe4	3	Fairy creature that uses its red eye to temporarily reflect harm.	False
+Star	9eae4668-a8ab-4ad0-b3f0-8955b5a9cf78	3	A celestial object that creates temporary invincibility.	False
+Skinny Guys	f0908d5e-7197-4175-b35c-4756e47bc69a	3	You may be fragile, but you're quick!	False
+Leeroy Jenkins	24e54362-9bfb-4206-910e-900326ee7573	3	Absolutely pathetic battle cry.	False
+Princess	50d330f8-b83b-4ea5-aa48-0ef914ccd340	3	A kiss from her majesty that turns a frog into her prince.	False
+Red Crystal	ec793369-f684-4e52-9134-1f02e523409c	3	You have the power of tornadoes! Take that Deborah Cliff.	False
+Fat Guys	4b34c035-c311-48e3-8a00-78ea91770cd3	3	You may be slow, but you're solid!	False
+Cardboard Box	4d61c0a6-aa47-495c-b05d-3999cd358705	2	Shhh. You can't see me.	False
+Cardboard Box	b44d8fde-2652-40b8-ac3e-8cb8f2e3e8fa	2	Shhh. You can't see me.	False
+Da Da Da Da Daaa Da DAA da da	68c277b2-4b11-4ce3-95cc-4b4271853475	2	The victory song that delivers a sweet reward.	False
+Cardboard Box	ff90fd53-61ae-4d95-934d-bac41ca4900a	2	Shhh. You can't see me.	False
+Cardboard Box	757fa066-cf69-44c8-bf85-c660ff6cf51e	2	Shhh. You can't see me.	False
+Cardboard Box	f623ed6b-d632-435b-accd-37b86e78f284	2	Shhh. You can't see me.	False
+Da Da Da Da Daaa Da DAA da da	3015add4-9b21-4bee-b2fd-27de6ccc3ecd	2	The victory song that delivers a sweet reward.	False
+Cardboard Box	86a384d9-5f1a-4d3b-943c-fd1f35f973ec	2	Shhh. You can't see me.	False
+--Da Da Da Da Daaa Da DAA da da	a6a2e0ab-77b0-4fdf-a22f-d535ea2207df	2	The victory song that delivers a sweet reward.	False
+Cardboard Box	51e4441e-f19d-4907-b367-b620d93a03ff	2	Shhh. You can't see me.	False
+Chocobo	3ea91485-bb3c-4423-81e9-cb903bdd0802	3	You are a master breeder! Gold chocobos bow at your feet.	False
+Cardboard Box	f346af73-61f3-4c9e-ac2d-acfc120ebd2f	2	Shhh. You can't see me.	False
+Da Da Da Da Daaa Da DAA da da	8bb8a00e-3002-416c-b0a8-c04f5110ff3e	2	The victory song that delivers a sweet reward.	False
+Cardboard Box	35735eac-80b1-471b-9b80-0a182cacef2d	2	Shhh. You can't see me.	False
+Cardboard Box	07bb2b33-0f88-4b96-be17-7d531cb0e4da	2	Shhh. You can't see me.	False
+Cardboard Box	881b5515-f9a9-414e-b211-7cea37665010	2	Shhh. You can't see me.	False
+Cardboard Box	8b060050-9706-4827-9334-bf9fdf6d96f6	2	Shhh. You can't see me.	False
+Crowbar	7d0fe296-05d1-445f-92f2-4a75c6b316ea	0		False
+Red Shell	af751b15-b39f-4682-bf78-65ef49c24e8f	1	Toss ahead of you to unsuspecting victim.	False
 
+
+
+Cardboard Box	7d4f5297-c644-49ef-88e1-162e1e2803f1	2	Shhh. You can't see me.	False
+Mushroom	da0d9829-e22b-47c3-9354-19229059c934	1	Maybe edible mushroom.	False
+Mushroom	7782e0bb-3b20-46fb-974c-6c9dcaeba901	1	Maybe edible mushroom.	False
+Mushroom	dc65885c-5615-49ab-b0e9-53f52887ec7d	1	Maybe edible mushroom.	False
+Mushroom	26a2e4cd-e102-4f37-a3e7-5f8020ecabf3	1	Maybe edible mushroom.	False
+Mushroom	ad0c806a-cde3-4303-9fbd-718738a1115f	1	Maybe edible mushroom.	False
+Mushroom	55116130-f227-4203-ac61-80a74222d0c8	1	Maybe edible mushroom.	False
+Mushroom	b3361fd4-484a-4fca-85a0-3ecf0ba2837b	1	Maybe edible mushroom.	False
+Mushroom	9b5b8e23-c613-48c6-ac9d-ad68243b1a18	1	Maybe edible mushroom.	False
+Mushroom	31a2480d-8250-48c3-a3ae-fd14d4e743a9	1	Maybe edible mushroom.	False
+Mushroom	e4b04154-4c69-4950-b382-51d9076f85db	1	Maybe edible mushroom.	False
+Mushroom	0eb4ef5b-7f38-4797-8a5e-299614c34ab6	1	Maybe edible mushroom.	False
+Mushroom	d84e92ef-1b40-4b41-8b88-eb93b921fcf8	1	Maybe edible mushroom.	False
+Mushroom	ea605f99-1bc9-450e-84f1-85f70aac70ea	1	Maybe edible mushroom.	False
+Mushroom	cd50975a-c0ac-4b2d-bc08-7e4fa87162f4	1	Maybe edible mushroom.	False
+Mushroom	0d940cec-a61a-4600-a5e2-2b98ee136ab8	1	Maybe edible mushroom.	False
+Mushroom	f012623d-ead5-42a1-be5f-07f77fc03ebe	1	Maybe edible mushroom.	False
+Mushroom	98e66d3f-35c7-4cd1-be15-2aa58dd92efe	1	Maybe edible mushroom.	False
+Mushroom	72769010-0f28-4636-b6af-a1ba86f539cd	1	Maybe edible mushroom.	False
+Mushroom	b6db7b62-b903-4446-87fa-eb8eb1f716db	1	Maybe edible mushroom.	False
+Mushroom	bc9ed3c5-7f31-4668-864c-bb8993ce19a2	1	Maybe edible mushroom.	False
+Mushroom	768126a2-ad53-455c-94fb-ba640124510b	1	Maybe edible mushroom.	False
+Mushroom	0cd2155b-4212-4626-8914-68c11551a8be	1	Maybe edible mushroom.	False
+Mushroom	dfafe461-0255-4c79-bf50-b7f2e3c872d1	1	Maybe edible mushroom.	False
+Mushroom	7f138a5f-b926-4f89-88e8-4dfb3b04c182	1	Maybe edible mushroom.	False
+Mushroom	ed278faa-4d0a-4556-8eb7-5db1d5be805d	1	Maybe edible mushroom.	False
+Mushroom	014baa99-906b-4799-a667-c59a07de517a	1	Maybe edible mushroom.	False
+Mushroom	a6208360-7e92-4fa1-a182-4218ead1e2bc	1	Maybe edible mushroom.	False
+Mushroom	8c5e166d-9309-4b95-90b8-bd11b8034e2b	1	Maybe edible mushroom.	False
+Mushroom	72ec5cef-8dc6-4302-8ccb-e93b9905e44b	1	Maybe edible mushroom.	False
+Mushroom	db2c4fe8-9d72-49f7-b641-803200b77008	1	Maybe edible mushroom.	False
+Mushroom	8cb362bb-683a-4002-b6ad-3787f35975ef	1	Maybe edible mushroom.	False
+Mushroom	d2b53fd9-2653-4d2e-a70c-ed8e5e075f46	1	Maybe edible mushroom.	False
+Mushroom	c34db3ef-38c7-4b20-9ca3-bf5c586050e7	1	Maybe edible mushroom.	False
+Mushroom	0f13924b-83a8-41ab-83ee-1c66d9181d2b	1	Maybe edible mushroom.	False
+Mushroom	8c8a6077-72fb-4d63-b5e4-65a4903e2a98	1	Maybe edible mushroom.	False
+Cardboard Box	f346af73-61f3-4c9e-ac2d-acfc120ebd2f	2	Shhh. You can't see me.	False
+Green Shell	ca5352d2-a9b2-46ea-a139-b39a71c0a290	1	Throw at opponent to deliver a good thump on the head.	False
 				
+
+
+-----------------
+
+Banana Pellet	9e5384bd-5fd7-489e-bc41-15f0bc2d547b	1	0	False
+Cardboard Box	25622936-b883-4246-bcb7-6b5e7fa2be4d	2	Shhh.You can't see me.	False
+Cardboard Box	c453a8c9-f185-4208-90f1-9ccd220220f2	2	Shhh.You can't see me.	False
+Cardboard Box	5b23e2be-f13e-47a8-96ad-7ab1fdd12def	2	Shhh. You can't see me.	False
+Princess	7ba8c600-e73a-47cc-b8b8-ec3b39f4d118	3	A kiss from her majesty that turns a frog into her prince.	False
+Blue Shell	2f165f66-d90f-4f96-900c-9a9f411f040b	3	Mighty Koopa shell that displaces the leader of the pack.	False
+Mushroom	9884c5e2-584b-4288-b79b-980d90a23db3	1	Maybe edible mushroom.	False
+Chocobo	753a2237-be53-493a-a264-e54cab28fce5	3	You are a master breeder! Gold chocobos bow at your feet.	False
+Mushroom	7a7b90e2-db1d-4c04-876c-364625ce2257	0		False
+Cardboard Box	aec625e9-5110-445a-b4e1-8aafd0427527	2	Shhh. You can't see me.	False
+Miniature Giant Space Hamster	b707a24f-85a3-4756-ba21-c5dcd5122514	0		False
+Cardboard Box	7b4d704b-92a3-42ed-93ff-8a48b6042a85	2	Shhh. You can't see me.	False
+Fat Guys	875126f9-95c5-4eb4-9097-5f9a42e871b3	3	You may be slow, but you're solid!	False
+Roger Wilco	281bbb6d-8225-41c4-b16c-65d93fad9200	3	You defeated aliens with this handy plunger!	False
+Leeroy Jenkins	3721d39b-dff7-4fc2-bb35-b67dadc01343	3	Absolutely pathetic battle cry.	False
+Mushroom	12558b3c-752e-4de1-a9e7-e640830b10b3	1	Maybe edible mushroom.	False
+Mushroom	61404ccf-1ed2-4a33-939c-98721a09a193	1	Maybe edible mushroom.	False
+Carbuncle	7111b5fa-3ea0-423a-a2c9-8a06b63175b3	3	Fairy creature that uses its red eye to temporarily reflect harm.	False
+Crowbar	9e5930e6-9ceb-4e3e-9bfa-03d3aec2e9b7	1	Gordon Freeman's weapon of choice.	False
+		0		False
+				
+
+
+
 
 Hadouken	0df11e66-34a9-402b-8da1-1f6fd7423974	2	Burst of energy that pulses through the target and results in temporary after shocks.
 
@@ -712,6 +801,7 @@ Green Shell (-100) (direct attack)
 Red Shell
 Banana Peel (-50-100) (behind attack)
 Get Over Here (unknown effect)
+Buster Sword (-500)
 
 Golden Gun
 SPNKR (-100)
@@ -729,12 +819,13 @@ Changes:
 3) Validate suit logic (appears to be not firing at all)
 4) Consider checking timing on suits to ensure no gaps; also ensure no overlap of different kinds of protections
 
+Rush the Dog + Mushroom = 2 pts per click
+
+Can Princess and Pony be used together somehow?
 
 
-
-
-
-
+When effects are Moogle, Warthog and Tanooki Suit Buffalo does nothing much:
+{"Messages":["You used <Buffalo> on ptrandem; 0 points for ptrandem!","ptrandem gained 2 points! Total points: 166857"],"TargetName":"ptrandem","Points":166857}
 
 
 Fus Ro Dah	Dragon shout that silences the target. ()
@@ -745,3 +836,4 @@ Fus Ro Dah	Dragon shout that silences the target. ()
 6 
 Kupo!
 2 2 2 2 
+
