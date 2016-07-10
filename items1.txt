@@ -328,7 +328,6 @@ Pizza	d9f39c3e-49ea-40d4-936d-6e028f033da5	1	Michelangelo's favorite food, dude.
 Holy Water	d9ffc715-9a5d-4598-8250-b51fa2c45561	2	Throw at the floor to release temporary holy flames.
 Pizza	40e82c8a-b96b-490a-b1bb-c3d308e8b1e8	1	Michelangelo's favorite food, dude.
 Leeroy Jenkins	279c5064-7596-4c92-89e0-3d3fcdda1d90	3	Absolutely pathetic battle cry.
-Treasure Chest	9bafdf82-8571-4381-ba82-4796f3387e34	3	Bountiful treasure chest containing three new items.
 UUDDLRLRBA	d77d6026-b233-4df2-9e50-94ab975899a8	1	Konami Code always gives a nice boost.
 Hadouken	5addbab6-3705-497d-9fae-8780fa55a41f	2	Burst of energy that pulses through the target and results in temporary after shocks.
 Crowbar	54c6a605-9857-480b-8353-14bb00faec75	1	Gordon Freeman's weapon of choice.
@@ -457,7 +456,6 @@ Wedge	0df471a5-0e86-4b14-8307-7ffb98060053	1	Red Wing soldier that bolsters your
 Mushroom	b627e69b-5712-41bf-ae67-69c587dd5261	1	Maybe edible mushroom.
 Mushroom	485be329-0de2-401b-acf7-9378a4dce490	1	Maybe edible mushroom.
 Banana Peel	f15c27d3-a14f-4ada-b401-222e5a0e4469	1	Person behind you 50% chance -100 points
-Get Over Here	2e9204f3-816a-40ef-969f-2afaa0331e95	3	Chance to cuddle up to your opponent. Serious snuggles.
 
 Mushroom	394f69f6-15a6-403b-b6fa-35193e5e939f	1	Maybe edible mushroom.
 Mushroom	ca502dab-a07d-404f-b360-5a6b44cf079c	1	Maybe edible mushroom.
@@ -587,6 +585,7 @@ Mushroom	e0dea3b4-6fb0-4f63-8cd3-938daf145652	1	Maybe edible mushroom.	False
 Red Shell	df083981-693d-4fce-9bcc-619ae20ec52e	1	Toss ahead of you to unsuspecting victim.	False
 
 
+PROBABLY BUNK:
 Carbuncle	48e808bf-6ad5-46e6-bb86-7810255e96c5	3	Fairy creature that uses its red eye to temporarily reflect harm.	False
 Pony	5feb3577-0656-4ec3-9198-5a85278b15ed	3	You are a casual gaming princess! Now harvest those crops, your majesty.	False
 Get Over Here	d2e3483f-879f-49d1-8212-33d529cf9b15	3	Chance to cuddle up to your opponent. Serious snuggles.	False
@@ -654,7 +653,7 @@ Da Da Da Da Daaa Da DAA da da	462f651f-c529-4373-b86e-82c8971f1a9e	2	The victory
 Hard Knuckle	9843e133-7aba-4c25-aa6d-b4c7224e66f7	2	Mega Man face punch.	True
 
 
-
+PROBABLY BUNK:
 ----------------- 7:27PM 7/5/16
 Leisure Suit	c5f53712-58e3-4ac1-bcea-ad370e558f7a	3	"Winning this game is about as easy as holding onto a mud wrestler!"	False
 Treasure Chest	1339a89b-48be-46d3-80e9-9dfe07ddf7d9	3	Bountiful treasure chest containing three new items.	False
@@ -763,7 +762,7 @@ Mushroom	6716254a-10a8-405c-b2fd-a6c88f89d6a3	1	Maybe edible mushroom.	False
 Mushroom	1ef9e85b-75e0-4dac-a1ec-81b158c6c88c	1	Maybe edible mushroom.	False
 Mushroom	0a9fa758-fb38-4682-980b-0718928161f3	1	Maybe edible mushroom.	False
 Mushroom	d5223d85-fea9-43eb-8c45-7b06b82aa4ab	1	Maybe edible mushroom.	False
-Mushroom	dee0f821-ba74-4efd-a99f-f22e45783d90	1	Maybe edible mushroom.	False
+Mushroom	dee0f821-ba74-4efd-a99f-f22e45783d90	1	Maygebe edible mushroom.	False
 Mushroom	6fc3fb39-d842-4e7f-90f8-adb380394920	1	Maybe edible mushroom.	False
 Red Crystal	a34e34c3-da4c-4599-b46e-d374e9339264	3	You have the power of tornadoes! Take that Deborah Cliff.	False
 Skinny Guys	294de94c-fa5f-4105-8a18-ef00926a5473	3	You may be fragile, but you're quick!	False
@@ -773,50 +772,16 @@ Mushroom	91e1db86-2e50-41b7-bc3f-7fd8b0f5dc3f	1	Maybe edible mushroom.	False
 Mushroom	7d81865d-f5d6-45e8-aafb-080bd20d7e92	1	Maybe edible mushroom.	False
 Mushroom	f2c3e4a1-924e-4fea-a0ba-63c18f6b9475	1	Maybe edible mushroom.	False
 Mushroom	8bd3b4a7-1389-40fb-985d-d3ea9e40ba9e	1	Maybe edible mushroom.	False
-Mushroom	0cce3040-a87b-49c9-bc6d-6187fdfc3fe5	1	Maybe edible mushroom.	False
-Cardboard Box	c8881645-fdfb-4ac7-8bb9-359e0abd26db	2	Shhh. You can't see me.	False
-Mushroom	c317ce5d-cd69-4469-86ae-04fb0f1f42ba	1	Maybe edible mushroom.	False
-Mushroom	26879987-73f1-4d17-b09b-e24a32c15d17	1	Maybe edible mushroom.	False
-Mushroom	bd42cba4-5716-4ff6-8977-d14873e5f1ac	1	Maybe edible mushroom.	False
-Mushroom	ea7f220d-6e67-4e29-be2d-cbe75ca4711b	0		False
-Bullet Bill	ae9e3e00-6746-44e1-b3c0-36419a2da388	3	Catapult ahead of the competition.	False
-Ambrosia	51c0ac77-e6a5-42c7-b3bb-2de9c2f43b65	4	A sweet treat that soothes the senses.	False
-Mushroom	33b07894-9156-4f6e-9033-2e50689a06a2	1	Maybe edible mushroom.	False
-Cardboard Box	3daaf116-6c3d-4f08-8e3e-4cf39828fcb8	2	Shhh. You can't see me.	False
-Pony	8c13f98d-3143-41ba-8e44-04c79f4988f2	3	You are a casual gaming princess! Now harvest those crops, your majesty.	False
-Treasure Chest	f446dc35-6981-49b0-8e46-87e80b76dcbe	3	Bountiful treasure chest containing three new items.	False
-Red Crystal	4e50ae38-b595-493b-89ef-080b2753f524	3	You have the power of tornadoes! Take that Deborah Cliff.	False
-Rail Gun	042cb8db-bf36-448c-b2d2-850e9bce5a40	3	Fires depleted uranium slugs at high velocity.	False
-Mushroom	6e111d7d-9a7b-4b2e-b786-af394f537635	1	Maybe edible mushroom.	False
-Mushroom	cc176ab0-4d47-4b7d-a552-3bbf4b3dcec1	1	Maybe edible mushroom.	False
-Mushroom	bbb40b03-07de-4247-a74d-51a4bd4a6c0a	0		False
-Miniature Giant Space Hamster	382b3c45-405f-44f6-9580-16902a6ddb42	3	Boo is always judging!	False
-Mushroom	e16507c4-b06c-4b19-8b31-7208652965c8	1	Maybe edible mushroom.	False
-Rail Gun	5783e242-d69d-4613-b377-adbac124b9d5	3	Fires depleted uranium slugs at high velocity.	False
-Mushroom	15eae5c6-1fd8-414f-8cdf-d9206b435d35	1	Maybe edible mushroom.	False
-Mushroom	22db31c2-71ee-47cf-baa4-51a55971291d	1	Maybe edible mushroom.	False
-Mushroom	ac885368-f2d6-45a0-87d7-78c17546460a	1	Maybe edible mushroom.	False
-Mushroom	9ce083ef-4777-47d5-b91c-44b72c096f94	1	Maybe edible mushroom.	False
+
 Fus Ro Dah	18dc9482-07c0-4ee1-abd4-c73ed98df2c6	3	Dragon shout that silences the target.	False
-Morph Ball	4ad4ab96-40cf-434a-8b08-109285bd673e	3	Transform into a sphere that passes two players.	False
 Mushroom	2fcecb18-19ae-46e2-a192-4bfc6dab7855	1	Maybe edible mushroom.	False
 Roger Wilco	345d1b1c-94a9-47ec-adbf-82c618ba2257	3	You defeated aliens with this handy plunger!	False
-Get Over Here	da409c6e-3e26-4b57-8b72-b4c2652e5ee1	3	Chance to cuddle up to your opponent. Serious snuggles.	False
 Mushroom	43eae567-ac5c-4b73-b2fc-436c88eff24d	1	Maybe edible mushroom.	False
 Mushroom	bf3b5d80-8fb0-485d-a565-c0e467c872df	1	Maybe edible mushroom.	False
 Mushroom	2a0aa2eb-3b64-4def-b759-3171dca17292	0		False
 Mushroom	bc0ceae6-98ef-4f03-ba7d-027a81253310	1	Maybe edible mushroom.	False
 Mushroom	df071aa1-d006-4a18-8159-6fc5fedd815a	1	Maybe edible mushroom.	False
 Princess	a1e685fc-8543-49c1-8c25-ade5b9a9179d	3	A kiss from her majesty that turns a frog into her prince.	False
-Bullet Bill	404d2366-a295-4770-b561-20becbf08b6c	3	Catapult ahead of the competition.	False
-Leeroy Jenkins	739809c4-f512-4287-a9bb-28c7e952c328	3	Absolutely pathetic battle cry.	False
-Mushroom	da9850d6-7e9c-4e35-8008-c053bae9130b	1	Maybe edible mushroom.	False
-Mushroom	6eea9015-1d36-427f-816a-77cec4ed8448	1	Maybe edible mushroom.	False
-Mushroom	ab01555d-5c0d-4be7-8ce1-a9a461ddd9c1	1	Maybe edible mushroom.	False
-Red Crystal	c1745d4e-c638-4395-80cc-6b20195a1686	3	You have the power of tornadoes! Take that Deborah Cliff.	False
-Mushroom	4758e0ae-5447-43de-92e5-fe16eff7bd38	1	Maybe edible mushroom.	False
-Mushroom	b8b1fe92-a3dc-48a9-812d-3356c2950491	1	Maybe edible mushroom.	False
-Morph Ball	9524604b-1c70-468c-b725-85cd974e9b8b	3	Transform into a sphere that passes two players.	False
 Mushroom	7d80e3be-6e6d-4c13-91f1-bdd662fb98c6	1	Maybe edible mushroom.	False
 Mushroom	427ecada-7383-48b7-971c-a3e10ec60585	1	Maybe edible mushroom.	False
 Red Shell	5a2d2a90-4a5f-4f98-b5ed-ae532338980c	1	Toss ahead of you to unsuspecting victim.	True
@@ -828,10 +793,71 @@ Fire Flower	2a9a9755-bc4b-4309-98fb-6b844c297fbe	1	Throw balls of actual fire. L
 Mushroom	e736a45a-39b5-4f5e-89cb-aff80376c0de	1	Maybe edible mushroom.	False
 Hard Knuckle	2666347a-33df-4ebf-99cf-dd7404406358	2	Mega Man face punch.	True
 Green Shell	f93e5dda-ed86-4008-a64e-6d15f87c8edd	1	Throw at opponent to deliver a good thump on the head.	True
-				
+		
+
+		-----------------------		
+Mushroom	c690e53b-5222-413d-bbcb-132889301f16	1	Maybe edible mushroom.	False
+Mushroom	fada0738-8b16-47e8-8dca-7efeb42e430a	1	Maybe edible mushroom.	False
+Mushroom	cc3e0df7-4769-4d48-8ed3-18710168792d	1	Maybe edible mushroom.	False
+Mushroom	6d67529e-d002-4a34-a0b9-ddb298c2a47a	1	Maybe edible mushroom.	False
+Cardboard Box	d00f3cdb-96e1-4ecf-a07d-bdfc8ade1334	2	Shhh. You can't see me.	False
+Mushroom	2f1d9cfa-1d0b-4e18-b33a-addce8d0ceb0	1	Maybe edible mushroom.	False
+Mushroom	dd520e5b-1515-4800-b5f4-00dfd8d7399b	1	Maybe edible mushroom.	False
+Mushroom	d4454a34-1d54-44a9-9328-7046ac31dfb4	1	Maybe edible mushroom.	False
+Fat Guys	0d9fa502-1beb-4497-8fad-dd2e0594b4f2	3	You may be slow, but you're solid!	False
+Fus Ro Dah	a4afd6d3-015a-4a64-a70d-c6189a751771	3	Dragon shout that silences the target.	True
+Skinny Guys	14bcc990-ce30-4b4f-960e-de37e46b4242	3	You may be fragile, but you're quick!	False
+Mushroom	7fd3c398-2b44-4725-8be5-215c1944f986	1	Maybe edible mushroom.	False
+Gold Ring	e0d3179f-a736-4f9f-b434-cc184fbd89dd	2	Shiny ring that provides temporary protection from damage.	True
+Hard Knuckle	bb640e60-85ce-490a-9d70-b572234de3db	2	Mega Man face punch.	True
+7777	a269bb76-b8b0-47de-8e38-524cdbad4d18	3	All Lucky 7s!	True
+Mushroom	93c5561e-d004-4276-a839-8908791a40d2	1	Maybe edible mushroom.	False
+Wedge	bdaa0be9-86b9-427c-b334-1e7a76c1997a	1	Red Wing soldier that bolsters your confidence.	True
+Mushroom	9c960a5b-3ce9-4ba3-a26e-7d14d351ff43	1	Maybe edible mushroom.	False
+Mushroom	5186d105-f460-4463-8d6c-868bd424f99a	1	Maybe edible mushroom.	False
+Charizard	1cd9b030-403d-4bb9-8b4a-43a859a562b2	2	It's hard to be a diamond in a rhinestone world.	True
+Pizza	9a6966fe-12ee-4fd1-aa8c-4d3b93934af9	1	Michelangelo's favorite food, dude.	True
+Banana Peel	f371499d-5946-4e7a-ad20-772f8ff2e6d8	1	Person behind you 50% chance -100 points	True
+Charizard	c5d2d445-545e-4ba6-b159-be7f95f001d9	2	It's hard to be a diamond in a rhinestone world.	True
+UUDDLRLRBA	65c0a47f-4e09-4194-b932-60bde72721df	1	Konami Code always gives a nice boost.	True
+Mushroom	0b25bdd6-8fb8-4e4d-95f5-d219a79b4101	1	Maybe edible mushroom.	False
+Fire Flower	fbbcf43c-53ce-4409-b813-3ad09a95e166	1	Throw balls of actual fire. Literally.	True
+Red Shell	afc63b55-9ca1-4f24-9935-39cfb082b138	1	Toss ahead of you to unsuspecting victim.	True
+Wedge	b807748d-8c96-491d-9f6e-68807acafac5	1	Red Wing soldier that bolsters your confidence.	True
+Hadouken	db085e35-f52b-4ccf-9c76-66f2b663d79b	2	Burst of energy that pulses through the target and results in temporary after shocks.	True
+Hadouken	5617560f-7ad9-4a6b-bbb7-253c9855c9d7	2	Burst of energy that pulses through the target and results in temporary after shocks.	True
+UUDDLRLRBA	19d2deff-fd6f-4e97-b176-48b342c110e4	1	Konami Code always gives a nice boost.	True
+Star	5a424cc0-f8a8-465c-855c-74b9283956de	3	A celestial object that creates temporary invincibility.	True
+Tanooki Suit	e74da83e-ad11-4ee2-bad7-6ae1a201a7c6	2	Adorable suit that provides temporary protection from attacks.	True
+Holy Water	f6d33ac1-ffa1-4465-89ab-011309c22033	2	Throw at the floor to release temporary holy flames.	True
+Tanooki Suit	16fa72b9-2eaa-45c3-8dc9-eb447a4e2346	2	Adorable suit that provides temporary protection from attacks.	True
+Mushroom	91839b89-2482-4337-9297-b142fb6c6fc2	1	Maybe edible mushroom.	False
+Buffalo	3cb55cf2-fd7a-48b2-aca1-386d7150607e	2	Absolutely not dying from dysentery today!	True
+Pokeball	ef9fd8e3-7670-498a-949a-920b85bb4d93	2	Gotta catch 'em all!	True
+Morph Ball	47704102-39a0-469c-b509-9216f36294be	3	Transform into a sphere that passes two players.	False
+UUDDLRLRBA	da32b845-9c26-40ce-9de7-68f6979dcfee	1	Konami Code always gives a nice boost.	True
+UUDDLRLRBA	6e312034-c19d-4c3c-8d65-d9d3626ff822	1	Konami Code always gives a nice boost.	True
+Banana Peel	0e8d678c-0c65-4c3a-8677-492aa58774e8	1	Person behind you 50% chance -100 points	True
+Banana Peel	4309345c-d239-4668-b853-4f788ec4b5e1	1	Person behind you 50% chance -100 points	True
+Red Shell	0490b4a8-d69d-4d5c-9661-65187853d022	1	Toss ahead of you to unsuspecting victim.	True
+Pandora's Box	f61f2988-ece4-4e23-89f5-293b967e0b7d	3	What's in here? OH NOES!	False
+Gold Ring	c943751e-465e-4db0-a581-dde8145f03e1	2	Shiny ring that provides temporary protection from damage.	True
+Leeroy Jenkins	57271c43-8f56-480b-a557-8135fcd1caf6	3	Absolutely pathetic battle cry.	False
+Rush the Dog	80ade339-cc0c-4595-96f4-58125cbced17	3	Loyal canine sidekick that can boost a hero's spirit.	False
+Morph Ball	ea386ec5-0fe0-4e23-8f12-5ed2c33c7b4a	3	Transform into a sphere that passes two players.	False
+Rush the Dog	be559d42-ad13-44b6-b3bb-b8031a761c44	3	Loyal canine sidekick that can boost a hero's spirit.	False
+Rush the Dog	00687fe2-5077-4afc-a728-2715e9a0d6d5	3	Loyal canine sidekick that can boost a hero's spirit.	False
+Rush the Dog	a164207d-6ffa-43ae-903f-da09d3a1179e	3	Loyal canine sidekick that can boost a hero's spirit.	False
+Leeroy Jenkins	dad0e998-5310-4e33-9ac0-61fd57d3a25a	3	Absolutely pathetic battle cry.	False
+Cardboard Box	a0b3281c-eacb-4597-86a6-a2cee01f9c29	2	Shhh. You can't see me.	False
+
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
 
 
 
+Used Warthog (43de36bf-a71a-4acf-a980-e863cafd310e)
+1 1 1 1 1 1 1 1 1 
 
 Hadouken	0df11e66-34a9-402b-8da1-1f6fd7423974	2	Burst of energy that pulses through the target and results in temporary after shocks.
 
@@ -839,7 +865,8 @@ Hadouken	0df11e66-34a9-402b-8da1-1f6fd7423974	2	Burst of energy that pulses thro
 
 {"Messages":["You used <Pokeball> on ptrandem; 35 points for ptrandem!","You found a bonus item! <511e8bbe-5521-4417-a4d8-df4bd15c8eae> | <Red Shell>"],"TargetName":"ptrandem","Points":119181}
 
-
+Ted's API Key:
+2c5fe019-d9ef-4931-9669-f47e42ea0287
 
 Good
 -----

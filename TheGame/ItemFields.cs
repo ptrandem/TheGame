@@ -33,5 +33,38 @@ namespace TheGame
             }
         }
 
+        public override string ToString()
+        {
+            return $"{Name}\t{Id}\t{Rarity}\t{Description}\n";
+        }
+
+        public static ItemFields GetFromString(string input)
+        {
+            var tokens = input.Split('\t');
+            if(tokens.Length < 2)
+            {
+                return null;
+            }
+
+            var item = new ItemFields();
+            item.Name = tokens[0];
+            item.Id = tokens[1];
+
+            if(tokens.Length >= 3)
+            {
+                int temp;
+                if(int.TryParse(tokens[2], out temp))
+                {
+                    item.Rarity = temp;
+                }
+            }
+
+            if (tokens.Length >= 4)
+            {
+                item.Description = tokens[3];
+            }
+
+            return item;
+        }
     }
 }

@@ -15624,3 +15624,7 @@ You aqcuired a new item! <Hard Knuckle>
 You aqcuired a new item! <Green Shell>
 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
 
+
+1 1 
+
+

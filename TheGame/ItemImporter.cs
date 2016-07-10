@@ -1,9 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
+using RestSharp.Extensions;
 
 namespace TheGame
 {
@@ -18,34 +20,17 @@ namespace TheGame
             var result = new List<ItemFields>();
 
             var itemString = Clipboard.GetText();
-            if(!string.IsNullOrWhiteSpace(itemString))
+            if (!string.IsNullOrWhiteSpace(itemString))
             {
                 var lines = itemString.Split('\n');
-                foreach(var line in lines)
+                foreach (var line in lines)
                 {
                     var modLine = line.Replace("\r", "").Trim();
-                    var tokens = modLine.Split('\t');
-                    if(tokens.Length < 2)
+
+                    var item = ItemFields.GetFromString(modLine);
+                    if (item == null)
                     {
                         continue;
-                    }
-
-                    var item = new ItemFields();
-                    item.Name = tokens[0];
-                    item.Id = tokens[1];
-
-                    if(tokens.Length >= 3)
-                    {
-                        int temp;
-                        if(int.TryParse(tokens[2], out temp))
-                        {
-                            item.Rarity = temp;
-                        }
-                    }
-
-                    if (tokens.Length >= 4)
-                    {
-                        item.Description = tokens[3];
                     }
 
                     result.Add(item);
@@ -53,5 +38,49 @@ namespace TheGame
             }
             return result;
         }
+
+        public static void ExportAllItemsToDisk(IEnumerable<ItemFields> items, string path)
+        {
+            FileStream file;
+            if (!File.Exists(path))
+            {
+                file = File.Open(path, FileMode.OpenOrCreate);
+            }
+            else
+            {
+                file = File.Open(path, FileMode.Truncate);
+            }
+            foreach (var item in items)
+            {
+                var bytes = Encoding.Unicode.GetBytes(item.ToString());
+                file.Write(bytes, 0, bytes.Length);
+            }
+            file.Close();
+        }
+
+        public static void AppendSingleItemToDisk(ItemFields item, string path)
+        {
+            File.AppendAllText(path, item.ToString());
+        }
+
+        public static IEnumerable<ItemFields> ImportItemsFromDisk(string path)
+        {
+            var result = new List<ItemFields>();
+            if (File.Exists(path))
+            {
+                var lines = File.ReadAllLines(path, Encoding.Unicode);
+
+                foreach (var line in lines)
+                {
+                    var item = ItemFields.GetFromString(line);
+                    if (item != null)
+                    {
+                        result.Add(item);
+                    }
+                }
+            }
+            return result;
+        }
+
     }
 }

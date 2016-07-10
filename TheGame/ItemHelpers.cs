@@ -9,7 +9,7 @@ namespace TheGame
 {
     public static class ItemHelpers
     {
-        public const string BonusItemFinder = @"<([0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12})> \| <(.*)>";
+        public const string BonusItemFinder = @"<([0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12})> \| <([^>]*)>";
 
         public static List<ItemFields> FindBonusItems(string input)
         {
