@@ -70,6 +70,7 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Enums\PlayerType.cs" />
     <Compile Include="Item.cs" />
     <Compile Include="ItemFields.cs" />
     <Compile Include="ItemHelpers.cs" />

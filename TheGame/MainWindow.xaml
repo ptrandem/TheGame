@@ -44,5 +44,6 @@
         <Label Content="Your Rank:&#xA;" HorizontalAlignment="Left" Margin="448,253,0,0" VerticalAlignment="Top" Height="28" Width="97" RenderTransformOrigin="4.333,0.103"/>
         <Label x:Name="CurrentRankLabel" Content="0&#xA;" HorizontalAlignment="Left" Margin="550,252,0,0" VerticalAlignment="Top" Height="29" Width="91" RenderTransformOrigin="4.333,0.103"/>
         <DataGrid x:Name="LeaderboardDatagrid" Margin="758,38,10.333,567.667" AutoGenerateColumns="True" />
+        <Button x:Name="ClearLogButton" Content="Clear" Click="ClearLogButton_Click" HorizontalAlignment="Left" Margin="10,71,0,0" VerticalAlignment="Top" Width="75"/>
     </Grid>
 </Window>

@@ -49,7 +49,7 @@ namespace TheGame
         private RestClient _client = new RestClient("http://thegame.nerderylabs.com:1337");
         private System.Timers.Timer _pointsTimer = new System.Timers.Timer();
         private System.Timers.Timer _itemsTimer = new System.Timers.Timer(61000);
-        private System.Timers.Timer _intermediateTimer = new System.Timers.Timer(20000);
+        private System.Timers.Timer _intermediateTimer = new System.Timers.Timer(60000);
         private List<PlayerInfo> _players = new List<PlayerInfo>();
 
         private PriorityQueue<ItemUsage> _itemQueue = new PriorityQueue<ItemUsage>();
@@ -65,7 +65,7 @@ namespace TheGame
 
             Application.Current.DispatcherUnhandledException += Current_DispatcherUnhandledException;
 
-            _pointsTimer.Interval = 1500;
+            _pointsTimer.Interval = 40;
             _pointsTimer.Elapsed += _timer_Elapsed;
             _itemsTimer.Elapsed += _itemsTimer_Elapsed;
             _intermediateTimer.Elapsed += _intermediateTimer_Elapsed;
@@ -166,7 +166,7 @@ namespace TheGame
             EnqueueFirstAvailable("Pokeball", Self, 1);
             EnqueueFirstAvailable("Da Da Da Da Daaa Da DAA da da", AssistUser, 1);
             EnqueueFirstAvailable("Treasure Chest", Self, 1);
-            EnqueueFirstAvailable("Bo Jackson", AssistUser, 3);
+            EnqueueFirstAvailable("Bo Jackson", AssistUser, 4);
             EnqueueFirstAvailable("UUDDLRLRBA", AssistUser, 3);
 
             // Attacks
@@ -303,7 +303,7 @@ namespace TheGame
 
             foreach (var message in response.Data.Messages)
             {
-                if (message.StartsWith("ptrandem gained"))
+                if (message.StartsWith("ptrandem gained") || message.StartsWith("Thy hero ptrandem hath gained"))
                 {
                     var resultString = Regex.Match(message, @"\d+").Value;
                     if (resultString.Any())
@@ -364,7 +364,7 @@ namespace TheGame
                 }));
             }
 
-            for (int i = 1; i < 5; i++)
+            for (int i = 1; i < 8; i++)
             {
 
 
@@ -451,12 +451,24 @@ namespace TheGame
                     text = "\n" + text + "\n";
                 }
                 
-                Log.Text += text;
+                Log.Text += OutputFilter(text);
 
                 ScrollToEnd(Log);
             }));
 
             File.AppendAllText(LogPath, text);
+        }
+
+        private string OutputFilter(string text)
+        {
+            if(text.StartsWith("\nKupo")
+                || text.StartsWith("\nThe nun following you")
+                || text.StartsWith("\nThusly the holy woman"))
+            {
+                return "";
+            }
+
+            return text;
         }
 
         private void EnqueueItemUsage(string itemId, string target, int priority = 2)
@@ -651,6 +663,11 @@ namespace TheGame
         {
             Dispatcher.Invoke(() => ItemImporter.ExportAllItemsToDisk(Items, ItemPath));
 
+        }
+
+        private void ClearLogButton_Click(object sender, RoutedEventArgs e)
+        {
+            Log.Clear();
         }
     }
 }

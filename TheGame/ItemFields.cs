@@ -9,6 +9,12 @@ namespace TheGame
 {
     public class ItemFields : INotifyPropertyChanged
     {
+        public ItemFields()
+        {
+            Acquired = DateTime.Now;
+        }
+
+        public DateTime Acquired { get; set; }
         public string Name { get; set; }
         public string Id { get; set; }
         public int Rarity { get; set; }
@@ -35,7 +41,7 @@ namespace TheGame
 
         public override string ToString()
         {
-            return $"{Name}\t{Id}\t{Rarity}\t{Description}\n";
+            return $"{Name}\t{Id}\t{Rarity}\t{Description}\t{Acquired}\n";
         }
 
         public static ItemFields GetFromString(string input)
@@ -62,6 +68,19 @@ namespace TheGame
             if (tokens.Length >= 4)
             {
                 item.Description = tokens[3];
+            }
+
+            if (tokens.Length >= 5)
+            {
+                DateTime dt;
+                if(DateTime.TryParse(tokens[4], out dt))
+                {
+                    item.Acquired = dt;
+                }
+                else
+                {
+                    item.Acquired = DateTime.MinValue;
+                }
             }
 
             return item;
