@@ -21,12 +21,35 @@ namespace TheGame
         public string Description { get; set; }
 
         private bool _queued = false;
+        private bool _errored;
+        private string _lastError;
+
         public bool Queued {
             get { return _queued; }
             set
             {
                 _queued = value;
                 NotifyPropertyChanged(nameof(Queued));
+            }
+        }
+
+        public bool Errored
+        {
+            get { return _errored; }
+            set
+            {
+                _errored = value;
+                NotifyPropertyChanged(nameof(Errored));
+            }
+        }
+
+        public string LastError
+        {
+            get { return _lastError; }
+            set
+            {
+                _lastError = value;
+                NotifyPropertyChanged(nameof(LastError));
             }
         }
 

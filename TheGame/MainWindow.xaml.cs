@@ -4,12 +4,13 @@ using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
+using System.Net;
 using System.Text.RegularExpressions;
 using System.Threading;
-using System.Threading.Tasks;
 using System.Timers;
 using System.Windows;
 using System.Windows.Controls;
+using TheGame.Enums;
 
 namespace TheGame
 {
@@ -18,9 +19,14 @@ namespace TheGame
     /// </summary>
     public partial class MainWindow : Window
     {
-        public string APIKey = "4a0da0c3-f9c3-4ebf-95ae-4905f5fb564a";
+        private static readonly object LogfileLock = new object();
+        private static readonly object LeaderboardLock = new object();
+
+        public string ApiKey = "4a0da0c3-f9c3-4ebf-95ae-4905f5fb564a";
         public string AssistUser = "ptrandem";
         public string Self = "ptrandem";
+
+
 
         public string ItemPath
         {
@@ -34,7 +40,7 @@ namespace TheGame
         {
             get
             {
-                return $"c:\\temp\\{Self}_log.txt";
+                return $"c:\\temp\\{DateTime.Now.ToString("yyyyMMdd")}_{Self}_log.txt";
             }
         }
 
@@ -42,17 +48,16 @@ namespace TheGame
         {
             get
             {
-                return $"c:\\temp\\{Self}_errors.txt";
+                return $"c:\\temp\\{DateTime.Now.ToString("yyyyMMdd")}_{Self}_errors.txt";
             }
         }
 
-        private RestClient _client = new RestClient("http://thegame.nerderylabs.com:1337");
-        private System.Timers.Timer _pointsTimer = new System.Timers.Timer();
-        private System.Timers.Timer _itemsTimer = new System.Timers.Timer(61000);
-        private System.Timers.Timer _intermediateTimer = new System.Timers.Timer(60000);
-        private List<PlayerInfo> _players = new List<PlayerInfo>();
-
-        private PriorityQueue<ItemUsage> _itemQueue = new PriorityQueue<ItemUsage>();
+        private readonly RestClient _client = new RestClient("http://thegame.nerderylabs.com:1337");
+        private readonly System.Timers.Timer _pointsTimer = new System.Timers.Timer(1001);
+        private readonly System.Timers.Timer _itemsTimer = new System.Timers.Timer(61000);
+        private readonly System.Timers.Timer _intermediateTimer = new System.Timers.Timer(10100);
+        private readonly List<PlayerInfo> _players = new List<PlayerInfo>();
+        private readonly PriorityQueue<ItemUsage> _itemQueue = new PriorityQueue<ItemUsage>();
 
         protected ObservableCollection<ItemFields> Items { get; set; }
         protected ObservableCollection<string> SelfEffects { get; set; }
@@ -65,11 +70,9 @@ namespace TheGame
 
             Application.Current.DispatcherUnhandledException += Current_DispatcherUnhandledException;
 
-            _pointsTimer.Interval = 40;
             _pointsTimer.Elapsed += _timer_Elapsed;
             _itemsTimer.Elapsed += _itemsTimer_Elapsed;
             _intermediateTimer.Elapsed += _intermediateTimer_Elapsed;
-
 
             Items = new ObservableCollection<ItemFields>();
             Players = new ObservableCollection<PlayerInfo>();
@@ -84,15 +87,15 @@ namespace TheGame
 
             LoadItemCollection();
 
-            _itemsTimer.Start();
-            _intermediateTimer.Start();
+            //_itemsTimer.Start();
+            //_intermediateTimer.Start();
 
         }
 
         void Current_DispatcherUnhandledException(object sender, System.Windows.Threading.DispatcherUnhandledExceptionEventArgs e)
         {
-            File.AppendAllText(ErrorLogPath, e.Exception.Message + "\n");
-            File.AppendAllText(ErrorLogPath, e.Exception.StackTrace + "\n\n");
+            File.AppendAllText(ErrorLogPath, $"{e.Exception.Message}\n");
+            File.AppendAllText(ErrorLogPath, $"{e.Exception.StackTrace}\n\n");
 
         }
 
@@ -129,94 +132,144 @@ namespace TheGame
 
         private void ApplyQueueRules()
         {
+            var twinkee = GetPlayerByType(PlayerType.Twinkee);
+            //var self = GetPlayerByType(PlayerType.Self);
+
+            if (SelfEffects.Contains("Vampirism"))
+            {
+                _itemsTimer.Interval = 5000;
+                //_intermediateTimer.Interval = 10000;
+                if (DateTime.Now.Hour <= 6 || DateTime.Now.Hour >= 21)
+                {
+                    return; // Use no items during the Forbidden Time
+                }
+            }
+            else
+            {
+                _itemsTimer.Interval = 60001;
+                //_intermediateTimer.Interval = 20000;
+            }
             if (SelfEffects.Contains("Slow"))
             {
-                EnqueueEffectIfMissing("Mushroom", Self, 0);
+                EnqueueEffectIfMissing("Mushroom", PlayerType.Self, 2);
             }
             else
             {
                 // Speeds
-                EnqueueEffectIfNoneEquipped(new[] { "7777", "Warthog", "Moogle" }, AssistUser, 0);
+                EnqueueEffectIfNoneEquipped(new[] { "7777", "Warthog", "Moogle" }, PlayerType.Twinkee, 0);
 
-                if (SelfEffects.Contains("Warthog"))
-                {
-                    EnqueueFirstAvailable("Moogle", AssistUser, 0);
-                }
 
-                if (SelfEffects.Contains("Moogle"))
+                if (twinkee != null)
                 {
-                    EnqueueFirstAvailable("Warthog", AssistUser, 0);
+                    if (twinkee.Effects.Contains("Warthog"))
+                    {
+                        EnqueueFirstAvailable("Moogle", PlayerType.Twinkee, 0);
+                    }
+
+                    if (twinkee.Effects.Contains("Moogle"))
+                    {
+                        EnqueueFirstAvailable("Warthog", PlayerType.Twinkee, 0);
+                    }
+
+                    // Protections
+                    if (twinkee.Effects.Contains("Carbuncle") && Items.Any(x => x.Name == "Carbuncle"))
+                    {
+                        EnqueueFirstAvailable("Carbuncle", PlayerType.Twinkee, -2);
+                        EnqueueFirstAvailable("Master Sword", PlayerType.Twinkee);
+
+                    }
+                    else
+                    {
+                        EnqueueEffectIfNoneEquipped(new[] { "Varia Suit", "Tanooki Suit", "Gold Ring", "Star" },
+                            PlayerType.Twinkee, 0);
+                    }
                 }
-                //EnqueueEffectIfMissing("Warthog", 0);
-                //EnqueueEffectIfMissing("Moogle", 0);
-                //EnqueueEffectIfMissing("7777", 0);
             }
 
-
-            // Protections
-            //EnqueueEffectIfNoneEquipped(new[] { "Varia Suit", "Tanooki Suit", "Gold Ring", "Carbuncle", "Star" }, Self, 0);
+            // Positions
+            EnqueueFirstAvailable("Cardboard Box", PlayerType.Twinkee, 0);
+            EnqueueFirstAvailable("Morph Ball", PlayerType.Twinkee, 0);
+            EnqueueFirstAvailable("Bullet Bill", PlayerType.Twinkee, 0);
 
             // Points
-            //EnqueueFirstAvailable("Morph Ball", priority: 1); // Let's save these for final game time
-            //EnqueueFirstAvailable("Bullet Bill", priority: 1);
-            EnqueueAllAvailable("Buffalo", AssistUser);
-            EnqueueAllAvailable("Biggs", AssistUser);
-            EnqueueAllAvailable("Pizza", AssistUser);
-            EnqueueAllAvailable("Wedge", AssistUser);
-            EnqueueFirstAvailable("Pokeball", Self, 1);
-            EnqueueFirstAvailable("Da Da Da Da Daaa Da DAA da da", AssistUser, 1);
-            EnqueueFirstAvailable("Treasure Chest", Self, 1);
-            EnqueueFirstAvailable("Bo Jackson", AssistUser, 4);
-            EnqueueFirstAvailable("UUDDLRLRBA", AssistUser, 3);
+            EnqueueAllAvailable("Buffalo", PlayerType.Twinkee);
+            EnqueueAllAvailable("Biggs", PlayerType.Twinkee);
+            EnqueueAllAvailable("Pizza", PlayerType.Twinkee);
+            EnqueueAllAvailable("Wedge", PlayerType.Twinkee);
+            EnqueueFirstAvailable("Pokeball", PlayerType.Self, 1);
+            EnqueueFirstAvailable("Da Da Da Da Daaa Da DAA da da", PlayerType.Twinkee, 1);
+            EnqueueFirstAvailable("Treasure Chest", PlayerType.Self, 1);
+            EnqueueFirstAvailable("Bo Jackson", PlayerType.Twinkee, 4);
+            EnqueueFirstAvailable("UUDDLRLRBA", PlayerType.Twinkee, 3);
 
             // Attacks
-            if (_players.Any())
+            EnqueueFirstAvailable("Banana Peel", PlayerType.Behind, 3);
+
+            EnqueueFirstAvailable("Charizard", PlayerType.Ahead, 1);
+            EnqueueFirstAvailable("Hard Knuckle", PlayerType.Ahead, 3);
+            EnqueueFirstAvailable("Fire Flower", PlayerType.Ahead, 3);
+            EnqueueFirstAvailable("Hadouken", PlayerType.Ahead, 3);
+            EnqueueFirstAvailable("Green Shell", PlayerType.Ahead, 3);
+            EnqueueFirstAvailable("Holy Water", PlayerType.Ahead, 3);
+            EnqueueFirstAvailable("Buster Sword", PlayerType.Ahead, 3);
+            EnqueueFirstAvailable("Knuckle Punch", PlayerType.Ahead, 3);
+            EnqueueFirstAvailable("SPNKR", PlayerType.Ahead, 3);
+            EnqueueFirstAvailable("Portal Nun", PlayerType.Ahead, 3);
+            EnqueueFirstAvailable("Hadouken", PlayerType.Ahead, 3);
+            EnqueueFirstAvailable("Box of Bees", PlayerType.Ahead, 3);
+
+
+            EnqueueAllAvailable("Master Sword", PlayerType.Leader, 1);
+            EnqueueAllAvailable("Blue Shell", PlayerType.Leader, 1);
+            EnqueueAllAvailable("Golden Gun", PlayerType.Leader, 1);
+            EnqueueAllAvailable("Red Shell", PlayerType.Leader, 3);
+            EnqueueAllAvailable("Crowbar", PlayerType.Leader, 3);
+        }
+
+        private PlayerInfo GetPlayerByType(PlayerType playerType)
+        {
+            //[lock (LeaderboardLock)
             {
-                PlayerInfo playerAhead = null, playerBehind = null;
-
-                var selfIndex = _players.FindIndex(x => x.PlayerName == AssistUser);
-                if (selfIndex > 0)
+                if (!_players.Any())
                 {
-                    playerAhead = _players[selfIndex - 1];
+                    return null;
                 }
+                var twinkIndex = _players.FindIndex(x => x.PlayerName == AssistUser);
+                var selfIndex = _players.FindIndex(x => x.PlayerName == Self);
 
-                if (selfIndex < _players.Count)
+                switch (playerType)
                 {
-                    playerBehind = _players[selfIndex + 1];
-                }
+                    case PlayerType.Undefined:
+                        return null;
 
-                var leader = _players.FirstOrDefault();
+                    case PlayerType.Self:
+                        if (selfIndex < 0) return null;
+                        return _players[selfIndex];
 
-                if (playerBehind != null && !IsPlayerInvincible(playerBehind))
-                {
-                    EnqueueFirstAvailable("Banana Peel", playerBehind.PlayerName, 3);
-                }
+                    case PlayerType.Behind:
+                        if (twinkIndex < 0)
+                        {
+                            return null;
+                        }
+                        if (twinkIndex < _players.Count - 1)
+                        {
+                            return _players[twinkIndex + 1];
+                        }
+                        return null;
 
-                if (playerAhead != null && !IsPlayerInvincible(playerAhead))
-                {
-                    EnqueueFirstAvailable("Charizard", playerAhead.PlayerName, 1);
-                    EnqueueFirstAvailable("Hard Knuckle", playerAhead.PlayerName, 3);
-                    EnqueueFirstAvailable("Fire Flower", playerAhead.PlayerName, 3);
-                    EnqueueFirstAvailable("Hadouken", playerAhead.PlayerName, 3);
-                    EnqueueFirstAvailable("Green Shell", playerAhead.PlayerName, 3);
-                    EnqueueFirstAvailable("Holy Water", playerAhead.PlayerName, 3);
-                    EnqueueFirstAvailable("Buster Sword", playerAhead.PlayerName, 3);
+                    case PlayerType.Ahead:
+                        if (twinkIndex <= 0) return null;
+                        return _players[twinkIndex - 1];
 
-                    EnqueueFirstAvailable("Knuckle Punch", playerAhead.PlayerName, 3);
-                    EnqueueFirstAvailable("SPNKR", playerAhead.PlayerName, 3);
-                    //EnqueueFirstAvailable("Golden Gun", playerAhead.PlayerName, 3);
-                    EnqueueFirstAvailable("Portal Nun", playerAhead.PlayerName, 3);
-                    EnqueueFirstAvailable("Hadouken", playerAhead.PlayerName, 3);
-                    EnqueueFirstAvailable("Box of Bees", playerAhead.PlayerName, 3);
-                }
+                    case PlayerType.Twinkee:
+                        if (twinkIndex < 0) return null;
+                        return _players[twinkIndex];
 
-                if (leader != null && leader.PlayerName != AssistUser && !IsPlayerInvincible(leader))
-                {
-                    //EnqueueFirstAvailable("Master Sword", leader.PlayerName, 3);
-                    // Save these up for the final moments
-                    //EnqueueFirstAvailable("Blue Shell", leader.PlayerName, 3);
-                    EnqueueFirstAvailable("Red Shell", leader.PlayerName, 3);
-                    EnqueueFirstAvailable("Crowbar", leader.PlayerName, 3);
+                    case PlayerType.Leader:
+                        return _players.FirstOrDefault();
+
+                    default:
+                        return null;
                 }
             }
         }
@@ -232,10 +285,9 @@ namespace TheGame
             return false;
         }
 
-
-
-        private void EnqueueEffectIfNoneEquipped(string[] effects, string target, int priority = 2)
+        private void EnqueueEffectIfNoneEquipped(string[] effects, PlayerType playerType, int priority = 2)
         {
+            // TODO: Get effects by playerType
             var i = effects.Intersect(SelfEffects);
             if (i.Any())
             {
@@ -244,35 +296,48 @@ namespace TheGame
 
             foreach (var e in effects)
             {
-                var item = Items.FirstOrDefault(x => x.Name == e && !_itemQueue.IsEnqueued(q => q.ItemId == x.Id));
+                var item = Items
+                    .Where(x => x.Name == e && !_itemQueue.IsEnqueued(q => q.ItemId == x.Id) && !x.Errored)
+                    .OrderBy(x => x.Acquired)
+                    .FirstOrDefault();
                 if (item != null)
                 {
-                    EnqueueItemUsage(item.Id, target, priority);
+                    EnqueueItemUsage(item.Id, playerType, priority);
                     return;
                 }
             }
         }
 
-        private void EnqueueEffectIfMissing(string effectName, string target, int priority = 2)
+        private void EnqueueEffectIfMissing(string effectName, PlayerType playerType, int priority = 2)
         {
-            if (!SelfEffects.Contains(effectName))
+            var player = GetPlayerByType(playerType);
+            if (player == null) return;
+
+            if (!player.Effects.Contains(effectName))
             {
-                EnqueueFirstAvailable(effectName, target, priority);
+                EnqueueFirstAvailable(effectName, playerType, priority);
             }
         }
 
-        private void EnqueueFirstAvailable(string name, string target, int priority = 2)
+        private void EnqueueFirstAvailable(string name, PlayerType playerType, int priority = 2)
         {
-            var item = Items.FirstOrDefault(x => x.Name == name && !_itemQueue.IsEnqueued(q => q.ItemId == x.Id));
+            var item = Items
+                    .Where(x => x.Name == name
+                        && !_itemQueue.IsEnqueued(q => q.ItemId == x.Id)
+                        && !x.Errored)
+                    .OrderBy(x => x.Acquired)
+                    .FirstOrDefault();
             if (item != null)
             {
-                EnqueueItemUsage(item.Id, target, priority);
+                EnqueueItemUsage(item.Id, playerType, priority);
             }
         }
 
-        private void EnqueueAllAvailable(string name, string target, int priority = 2)
+        private void EnqueueAllAvailable(string name, PlayerType target, int priority = 2)
         {
-            foreach (var item in Items.Where(x => x.Name == name && !_itemQueue.IsEnqueued(q => q.ItemId == x.Id)))
+            foreach (var item in Items.Where(x => x.Name == name
+                                && !_itemQueue.IsEnqueued(q => q.ItemId == x.Id)
+                                && !x.Errored))
             {
                 EnqueueItemUsage(item.Id, target, priority);
             }
@@ -293,7 +358,7 @@ namespace TheGame
         private void GetPoint()
         {
             var request = new RestRequest("points", Method.POST);
-            request.AddHeader("apikey", APIKey);
+            request.AddHeader("apikey", ApiKey);
             var response = _client.Execute<PointResponse>(request);
 
             if (response.Data == null)
@@ -308,7 +373,7 @@ namespace TheGame
                     var resultString = Regex.Match(message, @"\d+").Value;
                     if (resultString.Any())
                     {
-                        WriteLog(resultString.FirstOrDefault().ToString() + " ", true);
+                        WriteLog(resultString.FirstOrDefault() + " ", true);
                     }
                 }
                 else
@@ -323,7 +388,6 @@ namespace TheGame
                         Items.Add(item);
                     }
                 }
-
             }
 
             if (response.Data.Item != null)
@@ -336,11 +400,11 @@ namespace TheGame
                 AddItem(response.Data.Item);
             }
 
-            this.Dispatcher.Invoke((Action)(() =>
+            Dispatcher.Invoke(() =>
             {
                 PointsLabel.Content = response.Data.Points;
                 BadgesLog.Text = string.Join("\n", response.Data.Badges);
-            }));
+            });
 
             SyncEffects(SelfEffects, response.Data.Effects);
 
@@ -348,47 +412,42 @@ namespace TheGame
 
         private void GetLeaderboard()
         {
-            var top10Request = new RestRequest("/", Method.GET);
-            //            top10Request.AddHeader("apikey", APIKey);
-            top10Request.AddHeader("Accept", "application/json");
-            var response1 = _client.Execute<List<PlayerInfo>>(top10Request);
-            _players.Clear();
-            if (response1 != null && response1.Data != null)
+            var players = new List<PlayerInfo>();
             {
-
-                _players.AddRange(response1.Data);
-
-                this.Dispatcher.Invoke((Action)(() =>
+                var top10Request = new RestRequest("/", Method.GET);
+                //            top10Request.AddHeader("apikey", APIKey);
+                top10Request.AddHeader("Accept", "application/json");
+                var response1 = _client.Execute<List<PlayerInfo>>(top10Request);
+                if (response1?.Data != null)
                 {
-                    CurrentLeaderLabel.Content = _players.FirstOrDefault().PlayerName;
-                }));
-            }
 
-            for (int i = 1; i < 8; i++)
-            {
+                    players.AddRange(response1.Data);
 
 
-                Thread.Sleep(100);
-
-                var nextFew = new RestRequest($"/?page={i}", Method.GET);
-                //            nextFew.AddHeader("apikey", APIKey);
-                nextFew.AddHeader("Accept", "application/json");
-
-                var response2 = _client.Execute<List<PlayerInfo>>(nextFew);
-                if (response2 != null && response2.Data != null)
-                {
-                    _players.AddRange(response2.Data);
                 }
+
+                for (var i = 1; i < 8; i++)
+                {
+                    //Thread.Sleep(10);
+                    var nextFew = new RestRequest($"/?page={i}", Method.GET);
+                    //            nextFew.AddHeader("apikey", APIKey);
+                    nextFew.AddHeader("Accept", "application/json");
+
+                    var response2 = _client.Execute<List<PlayerInfo>>(nextFew);
+                    if (response2?.Data != null)
+                    {
+                        players.AddRange(response2.Data);
+                    }
+                }
+                _players.Clear();
+                _players.AddRange(players);
             }
             SyncPlayers();
-
-
         }
-
 
         private void AddItem(Item item)
         {
-            this.Dispatcher.Invoke((Action)(() =>
+            this.Dispatcher.Invoke(() =>
             {
 
                 //ItemsLog.Text += item.ToString();
@@ -397,7 +456,7 @@ namespace TheGame
                     Items.Add(f);
                 }
                 //ScrollToEnd(ItemsLog);
-            }));
+            });
 
             PersistItemCollection();
         }
@@ -407,11 +466,17 @@ namespace TheGame
             //textBox.Focus();
             textBox.CaretIndex = textBox.Text.Length;
             textBox.ScrollToEnd();
+            if (textBox.LineCount > 200)
+            {
+                textBox.Clear();
+            }
         }
 
         private void StartButton_Click(object sender, RoutedEventArgs e)
         {
             _pointsTimer.Start();
+            _itemsTimer.Start();
+            _intermediateTimer.Start();
         }
 
         private void StopButton_Click(object sender, RoutedEventArgs e)
@@ -421,49 +486,59 @@ namespace TheGame
 
         private void UseOnSelfButton_Click(object sender, RoutedEventArgs e)
         {
-            var selectedItemId = GetActiveItemIdFromGUI();
+            var selectedItemId = GetActiveItemIdFromGui();
             EnqueueItemUsage(selectedItemId, AssistUser, -1);
         }
 
         private void UseOnTargetButton_Click(object sender, RoutedEventArgs e)
         {
-            var selectedItemId = GetActiveItemIdFromGUI();
+            var selectedItemId = GetActiveItemIdFromGui();
             EnqueueItemUsage(selectedItemId, ItemTarget.Text, -1);
         }
 
         private void UseOnLeaderButton_Click(object sender, RoutedEventArgs e)
         {
-            var selectedItemId = GetActiveItemIdFromGUI();
-            var leader = _players.FirstOrDefault();
-            if (leader != null)
-            {
-                EnqueueItemUsage(selectedItemId, leader.PlayerName, -1);
-            }
+            var selectedItemId = GetActiveItemIdFromGui();
+            EnqueueItemUsage(selectedItemId, PlayerType.Leader, -1);
         }
+
 
         private void WriteLog(string text, bool suppressNewline = false)
         {
-            this.Dispatcher.Invoke((Action)(() =>
+            if (string.IsNullOrWhiteSpace(text))
             {
-                
+                return;
+            }
+
+            Dispatcher.Invoke(() =>
+            {
+
                 if (!suppressNewline)
                 {
-                    text = "\n" + text + "\n";
+                    text = $"\n{text}\n";
                 }
-                
+
                 Log.Text += OutputFilter(text);
 
                 ScrollToEnd(Log);
-            }));
+            });
 
-            File.AppendAllText(LogPath, text);
+            if (text.StartsWith("\n"))
+            {
+                text = $"{DateTime.Now.ToShortTimeString()} \t {text}";
+            }
+            lock (LogfileLock)
+            {
+                File.AppendAllText(LogPath, text);
+            }
         }
 
         private string OutputFilter(string text)
         {
-            if(text.StartsWith("\nKupo")
+            if (text.StartsWith("\nKupo")
                 || text.StartsWith("\nThe nun following you")
-                || text.StartsWith("\nThusly the holy woman"))
+                || text.StartsWith("\nThusly the holy woman")
+                )
             {
                 return "";
             }
@@ -471,15 +546,32 @@ namespace TheGame
             return text;
         }
 
+        private void EnqueueItemUsage(string itemId, PlayerType playerType, int priority = 2)
+        {
+            var item = Items.Where(x => x.Id == itemId).OrderBy(x => x.Acquired).FirstOrDefault();
+            if (item != null)
+            {
+                item.Queued = true;
+            }
+
+            var usage = new ItemUsage { ItemId = itemId, PlayerType = playerType };
+            _itemQueue.Enqueue(usage, priority);
+            this.Dispatcher.Invoke(() =>
+            {
+                QueueCountLabel.Content = _itemQueue.Count;
+            });
+
+        }
+
         private void EnqueueItemUsage(string itemId, string target, int priority = 2)
         {
             if (string.IsNullOrWhiteSpace(itemId) || string.IsNullOrWhiteSpace(target))
             {
-                WriteLog("Item request not queued.\n");
-                return;
+                WriteLog("Cannot enqueue invalid item params");
             }
 
             var item = Items.FirstOrDefault(x => x.Id == itemId);
+
             if (item != null)
             {
                 item.Queued = true;
@@ -499,13 +591,25 @@ namespace TheGame
             if (!_itemQueue.Any()) return;
 
             var usage = _itemQueue.Dequeue();
-            this.Dispatcher.Invoke((Action)(() =>
+            Dispatcher.Invoke(() =>
             {
                 QueueCountLabel.Content = _itemQueue.Count;
-            }));
+            });
+
+            if (string.IsNullOrWhiteSpace(usage.Target))
+            {
+                var player = GetPlayerByType(usage.PlayerType);
+                if (player == null)
+                {
+                    WriteLog($"ERROR: Could not find player type of '{Enum.GetName(typeof(PlayerType), usage.PlayerType)}'. Item not played.");
+                    return;
+                }
+
+                usage.Target = player.PlayerName;
+            }
 
             var request = new RestRequest($"items/use/{usage.ItemId}?target={usage.Target}", Method.POST);
-            request.AddHeader("apikey", APIKey);
+            request.AddHeader("apikey", ApiKey);
             var response = _client.Execute(request);
             WriteLog(response.Content + "\n");
             var item = Items.FirstOrDefault(x => x.Id == usage.ItemId);
@@ -515,25 +619,31 @@ namespace TheGame
             {
                 foreach (var bonus in bonusItems)
                 {
-                    this.Dispatcher.Invoke((Action)(() =>
+                    Dispatcher.Invoke(() =>
                     {
                         Items.Add(bonus);
-                    }));
+                    });
                 }
             }
 
             if (response.Content.StartsWith("No such item found")
-                || response.Content.StartsWith("{\"Message\":\"Invalid item GUID\"}")
-                || response.ResponseStatus != ResponseStatus.Completed 
-                || string.IsNullOrWhiteSpace(response.Content))
+                || response.Content.StartsWith("{\"Message\":\"Invalid item GUID\"}"))
             {
-                if(item != null)
+                if (item != null)
                 {
-                    WriteLog($"Error using {item.Name} ({item.Id})");
-                    this.Dispatcher.Invoke((Action)(() =>
+                    Dispatcher.Invoke(() =>
                     {
                         Items.Remove(item);
-                    }));
+                    });
+                }
+            }
+            else if (response.StatusCode != HttpStatusCode.OK)
+            {
+                if (item != null)
+                {
+                    item.Errored = true;
+                    item.LastError = response.StatusDescription;
+                    WriteLog($"Error using {item.Name} ({item.Id}): {response.StatusDescription}");
                 }
                 else
                 {
@@ -542,44 +652,43 @@ namespace TheGame
             }
             else
             {
-                if(response.Content.IndexOf("<") >= 0) // TODO: is this a good indicator?
+                if (response.Content.IndexOf("<", StringComparison.CurrentCultureIgnoreCase) >= 0) // TODO: is this a good indicator?
                 {
-                    if(item != null)
+                    // Seems like we've used it?
+
+                    if (item != null)
                     {
-                        this.Dispatcher.Invoke((Action)(() =>
+                        Dispatcher.Invoke(() =>
                         {
                             Items.Remove(item);
-                        }));
+                        });
                     }
                 }
-                else
+                else if (item != null)
                 {
+                    item.Errored = true;
                     WriteLog($"Item may have been used, but was not removed.");
                 }
             }
-            
+
 
             PersistItemCollection();
         }
 
-        private string GetActiveItemIdFromGUI()
+        private string GetActiveItemIdFromGui()
         {
-            if(!string.IsNullOrWhiteSpace(ItemIdOverride.Text))
+            if (!string.IsNullOrWhiteSpace(ItemIdOverride.Text))
             {
                 return ItemIdOverride.Text;
             }
             var item = ItemsGrid.SelectedItem as ItemFields;
-            if(item != null)
-            {
-                return item.Id;
-            }
-            return null;
+            return item?.Id;
         }
 
         private void SyncEffects(ObservableCollection<string> collection, List<string> effects)
         {
             collection.Clear();
-            foreach(var e in effects)
+            foreach (var e in effects)
             {
                 collection.Add(e);
             }
@@ -595,7 +704,7 @@ namespace TheGame
 
         private void SyncPlayers()
         {
-            
+
             this.Dispatcher.Invoke((Action)(() =>
             {
                 Players.Clear();
@@ -604,19 +713,25 @@ namespace TheGame
                     Players.Add(e);
                 }
 
+                var leader = GetPlayerByType(PlayerType.Leader);
+                if (leader != null)
+                {
+                    CurrentLeaderLabel.Content = leader.PlayerName;
+                }
+
                 var self = Players.FirstOrDefault(x => x.PlayerName == Self);
-                if(self != null)
+                if (self != null)
                 {
                     CurrentRankLabel.Content = Players.IndexOf(self) + 1;
                     LeaderboardDatagrid.ScrollIntoView(self);
                 }
 
                 var assistingUser = Players.FirstOrDefault(x => x.PlayerName == AssistUser);
-                if(assistingUser != null)
+                if (assistingUser != null)
                 {
                     SyncEffects(AssistUserEffects, assistingUser.Effects);
                 }
-                
+
             }));
         }
 
@@ -662,7 +777,6 @@ namespace TheGame
         private void PersistItemCollection()
         {
             Dispatcher.Invoke(() => ItemImporter.ExportAllItemsToDisk(Items, ItemPath));
-
         }
 
         private void ClearLogButton_Click(object sender, RoutedEventArgs e)

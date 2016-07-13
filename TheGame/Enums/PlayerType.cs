@@ -12,6 +12,8 @@ namespace TheGame.Enums
         Self,
         Friend,
         Ahead,
-        Behind
+        Behind,
+        Leader,
+        Twinkee
     }
 }
